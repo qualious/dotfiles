@@ -1,0 +1,94 @@
+{
+   "appDesc": {
+      "description": "აღწერა პროგრამა, ნაჩვენები ვებ მაღაზიაში.",
+      "message": "Access საიტები დაბლოკა თქვენს ქვეყანაში, კომპანია ან სკოლაში Hola! Hola არის უფასო და მარტივი!"
+   },
+   "appDesc_nohola": {
+      "description": "",
+      "message": "წვდომა ვებ ბლოკირებული თქვენს ქვეყანაში, კომპანია ან სკოლაში? ეს გაფართოება არის უფასო და მარტივი!"
+   },
+   "appName": {
+      "description": "სათაური პროგრამა, ნაჩვენები ვებ მაღაზიაში.",
+      "message": "Hola Better ინტერნეტი"
+   },
+   "appName_nohola": {
+      "description": "",
+      "message": "შეუზღუდავი უფასო Proxy VPN"
+   },
+   "back": {
+      "description": "",
+      "message": "უკან"
+   },
+   "blocked": {
+      "description": "",
+      "message": "გადაკეტილი?"
+   },
+   "changing": {
+      "description": "",
+      "message": "იცვლება"
+   },
+   "conflict1": {
+      "description": "",
+      "message": "თქვენი ქსელი მარიონეტული პარამეტრები მართავს სხვა გაფართოება"
+   },
+   "conflict2": {
+      "description": "",
+      "message": "შეზღუდული შესაძლებლობების მქონე, რომ გაფართოება"
+   },
+   "conflict3": {
+      "description": "",
+      "message": "გაგრძელდება Hola"
+   },
+   "evenmore": {
+      "description": "",
+      "message": "კიდევ უფრო"
+   },
+   "initial": {
+      "description": "",
+      "message": "ინიციალიზება, გთხოვთ დაელოდოთ"
+   },
+   "loading": {
+      "description": "",
+      "message": "Loading ..."
+   },
+   "more": {
+      "description": "",
+      "message": "დაწვრილებით ..."
+   },
+   "notworking": {
+      "description": "",
+      "message": "არ მუშაობს? მეტი ოპცია ..."
+   },
+   "old1": {
+      "description": "",
+      "message": "ძალიან ძველი ვერსია Chrome"
+   },
+   "old2": {
+      "description": "",
+      "message": "Chrome გამოიყენოთ Hola"
+   },
+   "reload": {
+      "description": "",
+      "message": "განაახლეთ"
+   },
+   "settings": {
+      "description": "",
+      "message": "პარამეტრები"
+   },
+   "sitelist": {
+      "description": "",
+      "message": "unblocker საიტი სია"
+   },
+   "start": {
+      "description": "",
+      "message": "ჩართეთ უნდა დავიწყოთ"
+   },
+   "unblocked": {
+      "description": "",
+      "message": "ბლოკი"
+   },
+   "update": {
+      "description": "",
+      "message": "განახლების"
+   }
+}

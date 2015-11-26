@@ -1,0 +1,98 @@
+{
+   "accelerator": {
+      "description": "",
+      "message": "Kiihdytin"
+   },
+   "appDesc": {
+      "description": "Kuvaus sovelluksen, näkyy verkkokaupan.",
+      "message": "Internetsivustoilla estetty maasi, yrityksen tai koulun kanssa Hola! Hola on ilmainen ja helppo käyttää!"
+   },
+   "appDesc_nohola": {
+      "description": "",
+      "message": "Internetsivustoilla estetty maasi, yrityksen tai koulun! Tämä laajennus on ilmainen ja helppo käyttää!"
+   },
+   "appName": {
+      "description": "Otsikko sovelluksen, näkyy verkkokaupan.",
+      "message": "Hola Parempi Internet"
+   },
+   "appName_nohola": {
+      "description": "",
+      "message": "Rajoittamaton vapaa Proxy VPN"
+   },
+   "back": {
+      "description": "",
+      "message": "takaisin"
+   },
+   "blocked": {
+      "description": "",
+      "message": "tukossa?"
+   },
+   "changing": {
+      "description": "",
+      "message": "muuttuvat"
+   },
+   "conflict1": {
+      "description": "",
+      "message": "Verkon välityspalvelinasetuksiasi hallinnoi toinen laajennus"
+   },
+   "conflict2": {
+      "description": "",
+      "message": "Poista käytöstä, että laajentaminen"
+   },
+   "conflict3": {
+      "description": "",
+      "message": "jatkaa Hola"
+   },
+   "evenmore": {
+      "description": "",
+      "message": "jopa enemmän"
+   },
+   "initial": {
+      "description": "",
+      "message": "Alustetaan, please wait"
+   },
+   "loading": {
+      "description": "",
+      "message": "Ladataan ..."
+   },
+   "more": {
+      "description": "",
+      "message": "Lisää ..."
+   },
+   "notworking": {
+      "description": "",
+      "message": "ei toimi? Lisää vaihtoehtoja ..."
+   },
+   "old1": {
+      "description": "",
+      "message": "Hyvin vanha versio Chrome"
+   },
+   "old2": {
+      "description": "",
+      "message": "Chrome käyttää Hola"
+   },
+   "reload": {
+      "description": "",
+      "message": "Ladata"
+   },
+   "settings": {
+      "description": "",
+      "message": "asetukset"
+   },
+   "sitelist": {
+      "description": "",
+      "message": "unblocker site lista"
+   },
+   "start": {
+      "description": "",
+      "message": "Kytke Aloita"
+   },
+   "unblocked": {
+      "description": "",
+      "message": "vapautetuksi"
+   },
+   "update": {
+      "description": "",
+      "message": "Päivitys"
+   }
+}

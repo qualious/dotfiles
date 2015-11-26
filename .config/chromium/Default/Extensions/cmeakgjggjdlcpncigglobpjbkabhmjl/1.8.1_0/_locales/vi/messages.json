@@ -1,0 +1,126 @@
+{
+   "about": {
+      "description": "",
+      "message": "About"
+   },
+   "bookmarks": {
+      "description": "",
+      "message": "Bookmarks"
+   },
+   "extension_description": {
+      "description": "Extension's description",
+      "message": "Chương trình mở rộng bao gồm nhiều tiện ích hỗ trợ traders đánh giá và mua bán dễ dàng hơn."
+   },
+   "faq": {
+      "description": "Frequently asked questions",
+      "message": "FAQ"
+   },
+   "langcode": {
+      "description": "",
+      "message": "vi"
+   },
+   "settings": {
+      "description": "",
+      "message": "Cài đặt"
+   },
+   "settings_autoreply": {
+      "description": "",
+      "message": "Auto reply"
+   },
+   "settings_blockinvites": {
+      "description": "",
+      "message": "Block lời mời"
+   },
+   "settings_buyset": {
+      "description": "",
+      "message": "Nút \"Buy set\""
+   },
+   "settings_currency": {
+      "description": "",
+      "message": "Đơn vị tiền"
+   },
+   "settings_custombuttons": {
+      "description": "Manage custom buttons for trade offer windows",
+      "message": "Nút lấy nhanh"
+   },
+   "settings_displaynof": {
+      "description": "",
+      "message": "Hiện cảnh báo trade offer"
+   },
+   "settings_displayvector": {
+      "description": "",
+      "message": "Hiển thị giá trung gian"
+   },
+   "settings_highligh": {
+      "description": "",
+      "message": "Highlight overpriced"
+   },
+   "settings_ignoreinvites": {
+      "description": "",
+      "message": "Bỏ qua lời mời"
+   },
+   "settings_language": {
+      "description": "",
+      "message": "Ngôn ngữ"
+   },
+   "settings_listdelay": {
+      "description": "",
+      "message": "Delay khi bán"
+   },
+   "settings_no_history": {
+      "description": "",
+      "message": "Số dòng/trang (lịch sử market)"
+   },
+   "settings_no_listings": {
+      "description": "",
+      "message": "Số dòng trên trang listings"
+   },
+   "settings_nofsound": {
+      "description": "",
+      "message": "Âm thanh cảnh báo"
+   },
+   "settings_nofsound_vol": {
+      "description": "",
+      "message": "Âm lượng"
+   },
+   "settings_note": {
+      "description": "",
+      "message": "Bạn phải refresh các trang đang chạy để có hiệu lực"
+   },
+   "settings_offer_autodecline": {
+      "description": "",
+      "message": "Decline unavailable offers"
+   },
+   "settings_offer_delay": {
+      "description": "",
+      "message": "Thời gian delay lấy giá"
+   },
+   "settings_offer_getprice": {
+      "description": "",
+      "message": "Tự lấy giá khi offer trade"
+   },
+   "settings_quickbuy": {
+      "description": "",
+      "message": "Nút \"Quick buy\""
+   },
+   "settings_quicksell": {
+      "description": "",
+      "message": "Nút \"Quick sell\""
+   },
+   "settings_quickselldif": {
+      "description": "",
+      "message": "Chênh lệch khi bán nhanh"
+   },
+   "settings_showsteamrep": {
+      "description": "Show Steamrep panel on invites page",
+      "message": "Hiện Steamrep"
+   },
+   "settings_simpify": {
+      "description": "",
+      "message": "Đơn giản hóa UI"
+   },
+   "settings_totalrow": {
+      "description": "",
+      "message": "Dòng giá tổng"
+   }
+}

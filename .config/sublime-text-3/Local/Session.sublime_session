@@ -1,0 +1,545 @@
+{
+	"folder_history":
+	[
+	],
+	"last_version": 3083,
+	"last_window_id": 1,
+	"log_indexing": false,
+	"settings":
+	{
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/home/qual/workspace/Skool/src/test.java",
+					"settings":
+					{
+						"buffer_size": 3087,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/qual/workspace/Skool/project.c",
+					"settings":
+					{
+						"buffer_size": 28979,
+						"line_ending": "Unix",
+						"name": "#include <stdio.h>"
+					}
+				},
+				{
+					"file": "/home/qual/.ssh/id_rsa.pub",
+					"settings":
+					{
+						"buffer_size": 746,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/qual/.config/i3/config",
+					"settings":
+					{
+						"buffer_size": 9674,
+						"line_ending": "Unix"
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 400.0,
+				"last_filter": "pac",
+				"selected_items":
+				[
+					[
+						"pac",
+						"PackageResourceViewer: Open Resource"
+					],
+					[
+						"men",
+						"View: Toggle Menu"
+					],
+					[
+						"packa",
+						"PackageResourceViewer: Open Resource"
+					],
+					[
+						"packageres",
+						"PackageResourceViewer: Open Resource"
+					],
+					[
+						"me",
+						"View: Toggle Menu"
+					],
+					[
+						"instal",
+						"Package Control: Install Package"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"vi",
+						"View: Toggle Menu"
+					],
+					[
+						"Package Control: ins",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 457.0
+			},
+			"console":
+			{
+				"height": 126.0,
+				"history":
+				[
+					"PackageResourceViewer: Open Resource: ",
+					" import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) ",
+					" import urllib2,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); os.makedirs( ipp ) if not os.path.exists(ipp) else None; urllib2.install_opener( urllib2.build_opener( urllib2.ProxyHandler()) ); by = urllib2.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); open( os.path.join( ipp, pf), 'wb' ).write(by) if dh == h else None; print('Error validating download (got %s instead of %s), please try manual install' % (dh, h) if dh != h else 'Please restart Sublime Text to finish installation') ",
+					" import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/home/qual/.ssh/id_rsa",
+				"/home/qual/atom_content_utility_client.cc",
+				"/home/qual/helloworld.c",
+				"/home/qual/Documents/removeanime",
+				"/home/qual/.config/i3/conkyrc",
+				"/home/qual/.config/i3/Scripts/conkyrc",
+				"/home/qual/.config/i3/config",
+				"/home/qual/.config/ranger/rifle.conf",
+				"/home/qual/.config/ranger/rc.conf",
+				"/home/qual/.zshrc",
+				"/home/qual/Scripts/color4",
+				"/home/qual/Scripts/screenfetch",
+				"/home/qual/livestreamer-twitch-gui/start.sh",
+				"/home/qual/screenfetch",
+				"/home/qual/workspace/Skool/src/test.java",
+				"/home/qual/startpage/style.css",
+				"/bin/screenfetch",
+				"/run/media/qual/Seagate/Txt/Izlenen - izlenecek - izlenmiş.txt",
+				"/home/qual/Scripts/color3.sh",
+				"/home/qual/Scripts/color.sh",
+				"/home/qual/Scripts/color2.sh",
+				"/run/media/qual/Seagate/Txt/asdfaskjhfgsakjhfgsjao.txt",
+				"/run/media/qual/Seagate/Txt/anneminTC.txt",
+				"/usr/share/phoronix-test-suite/pts-core/phoronix-test-suite.php",
+				"/bin/phoronix-test-suite",
+				"/home/qual/.config/spotify/Users/dnzsydgl-user/prefs",
+				"/home/qual/.config/spotify/prefs",
+				"/home/qual/.config/sublime-text-3/Packages/Theme - Glacier/glacier.tmTheme",
+				"/tmp/CircleFromDots-1.java",
+				"/tmp/CircleFromDots.java",
+				"/home/qual/http",
+				"/etc/lightdm/lightdm.conf",
+				"/home/qual/Scripts/load_layout.sh",
+				"/home/qual/.config/i3/workspace_4.json",
+				"/home/qual/.i3/workspace_4.json",
+				"/home/qual/.config/sublime-text-3/Packages/Theme - Glacier/Glacier.sublime-theme",
+				"/home/qual/.i3/workspace_N.json",
+				"/home/qual/.steam/steam/skins/Air-for-Steam-2015-1012/config.ini",
+				"/home/qual/.config/i3/Scripts/conky-i3bar.sh",
+				"/home/qual/.steam/steam/skins/air-numix/Resource/styles/_colors.styles",
+				"/home/qual/Downloads/Air-for-Steam-2015-1012/config.ini",
+				"/home/qual/Downloads/Air-for-Steam-2015-1012/Resource/colors/truffle.styles",
+				"/home/qual/.steam/steam/skins/air-numix/README.md",
+				"/home/qual/.config/i3/Scripts/bat_icon.sh",
+				"/home/qual/.config/i3/Scripts/vol.sh",
+				"/home/qual/.config/i3/Scripts/spotify-nowplaying.sh",
+				"/home/qual/.config/i3/Scripts/spotify.sh",
+				"/home/qual/.config/sublime-text-3/Packages/Theme - Glacier/Glacier/Widget - Glacier.stTheme",
+				"/home/qual/.vim/syntax/c.vim",
+				"/home/qual/.vim/vimrc",
+				"/home/qual/.vimrc",
+				"/home/qual/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+				"/home/qual/.config/sublime-text-3/Packages/Theme - Glacier/Glacier/Widget - Glacier.sublime-settings",
+				"/home/qual/startpage/index.html",
+				"/home/qual/startpage/config.json",
+				"/home/qual/Scripts/teknik.sh",
+				"/home/qual/.config/i3/i3_lemonbar_conky",
+				"/home/qual/.config/i3/i3blocks.conf",
+				"/home/qual/.config/i3/Scripts/i3_lemonbar.sh",
+				"/home/qual/Downloads/config",
+				"/home/qual/Scripts/tintwizard.py",
+				"/home/qual/Downloads/cfg.txt",
+				"/home/qual/startpage/bir daha elime sigarayı sürmeyeceğim",
+				"/home/qual/.config/i3/i3_lemonbar_parser.sh",
+				"/home/qual/.config/i3/i3_workspaces.pl",
+				"/home/qual/.config/i3/i3_workspaces.py",
+				"/home/qual/.config/i3/Scripts/exit",
+				"/home/qual/.config/i3/Scripts/volume",
+				"/home/qual/.config/i3/i3_lemonbar_config",
+				"/home/qual/.config/i3/i3_lemonbar.sh",
+				"/home/qual/.vim/colors/glacier.vim",
+				"/etc/NetworkManager/NetworkManager.conf",
+				"/etc/resolv.conf",
+				"/home/qual/.Xresources",
+				"/home/qual/.bashrc",
+				"/home/qual/Downloads/LGPL/notice.txt",
+				"/usr/share/lightdm-webkit/themes/antergos/font-awesome/css/font-awesome.min.css",
+				"/home/qual/Scripts/.color.sh.swp",
+				"/home/qual/Scripts/i3lock",
+				"/home/qual/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings",
+				"/home/qual/.config/i3/i3exit",
+				"/home/qual/.icons/ACYL_Icon_Theme_0.9.4/scalable/scripts/script_gui.py",
+				"/run/media/qual/Seagate/archbackup/home/qual/.bashrc",
+				"/home/qual/.icons/ACYL_Icon_Theme_0.9.4/AnyColorYouLike",
+				"/home/qual/.bash_logout",
+				"/run/media/qual/Seagate/.bashrc"
+			],
+			"find":
+			{
+				"height": 27.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"tupac",
+					"serbia",
+					"bosnia",
+					"turk",
+					"KEBAB",
+					"float",
+					"vim",
+					"highli",
+					"preview",
+					"alias",
+					"s",
+					"c1",
+					"arch",
+					"urgen",
+					"php",
+					"php.ini",
+					"the php",
+					"the php.ini",
+					"floating",
+					"gaps",
+					"struct",
+					"CC575D",
+					"A3464A",
+					"CC575D",
+					"constant",
+					"A3464A",
+					"bar",
+					"greet",
+					"fff",
+					"arch",
+					"float",
+					"autologin",
+					"autolo",
+					"stea",
+					"stean",
+					"c85951",
+					"d7503c",
+					"CC575D",
+					"A3464A",
+					"ffe792",
+					"ffe7",
+					"string",
+					"tab",
+					"color",
+					"bac",
+					"726D84",
+					"726881",
+					"backgro",
+					"color",
+					"focused",
+					"bar",
+					"lucida G",
+					"Lucida Grande",
+					"c85951",
+					"exit",
+					"bar",
+					"bg-color",
+					"bg",
+					"font",
+					"down",
+					"switch",
+					"shift+l",
+					"shell",
+					"print"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"filthyfrank",
+					"world",
+					"otaku",
+					"weeaboo",
+					"anime",
+					"o",
+					"FDED96",
+					"67BED9",
+					"CD1D26",
+					"c85951",
+					"B19CD9",
+					"2A303B",
+					"A3464A",
+					"97BFEE",
+					"SFNS Display",
+					"222222"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"groups":
+			[
+				{
+					"selected": 2,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/home/qual/workspace/Skool/src/test.java",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 3087,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										2035,
+										2035
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Java/Java.tmLanguage",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": -0.0,
+								"translation.y": 871.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 2,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/home/qual/workspace/Skool/project.c",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 28979,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										978,
+										978
+									]
+								],
+								"settings":
+								{
+									"auto_name": "#include <stdio.h>",
+									"syntax": "Packages/C++/C++.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/home/qual/.ssh/id_rsa.pub",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 746,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										746,
+										746
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						},
+						{
+							"buffer": 3,
+							"file": "/home/qual/.config/i3/config",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 9674,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										5416,
+										5416
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Text/Plain text.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 2964.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 3,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 27.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": false,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"position": "0,0,0,0,0,645,20,1275,1035,1920,1080",
+			"project": "",
+			"replace":
+			{
+				"height": 50.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 150.0,
+			"status_bar_visible": false,
+			"template_settings":
+			{
+			},
+			"window_id": 1,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}

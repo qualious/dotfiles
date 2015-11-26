@@ -1,0 +1,110 @@
+{
+   "accelerator": {
+      "description": "",
+      "message": "त्वरक"
+   },
+   "appDesc": {
+      "description": "वेब स्टोर में प्रदर्शित आवेदन का विवरण।",
+      "message": "पहुंच वेबसाइटों होला के साथ अपने देश, कंपनी या स्कूल में अवरुद्ध! होला मुक्त और प्रयोग करने में आसान है!"
+   },
+   "appDesc_nohola": {
+      "description": "",
+      "message": "पहुँच वेबसाइटों अपने देश, कंपनी या स्कूल में अवरुद्ध! इस विस्तार के लिए स्वतंत्र है और प्रयोग करने में आसान है!"
+   },
+   "appName": {
+      "description": "वेब स्टोर में प्रदर्शित आवेदन का शीर्षक।",
+      "message": "होला बेहतर इंटरनेट"
+   },
+   "appName_nohola": {
+      "description": "",
+      "message": "असीमित नि: शुल्क प्रॉक्सी वीपीएन"
+   },
+   "back": {
+      "description": "",
+      "message": "वापस"
+   },
+   "blocked": {
+      "description": "",
+      "message": "अवरुद्ध?"
+   },
+   "changing": {
+      "description": "",
+      "message": "बदलना"
+   },
+   "conflict1": {
+      "description": "",
+      "message": "आपकी नेटवर्क प्रॉक्सी सेटिंग एक और एक्सटेंशन द्वारा प्रबंधित किया जा रहा है"
+   },
+   "conflict2": {
+      "description": "",
+      "message": "कि एक्सटेंशन अक्षम"
+   },
+   "conflict3": {
+      "description": "",
+      "message": "होला के साथ जारी रखने के लिए"
+   },
+   "evenmore": {
+      "description": "",
+      "message": "और भी अधिक"
+   },
+   "hola": {
+      "description": "",
+      "message": "होला"
+   },
+   "initial": {
+      "description": "",
+      "message": "आरंभ कर रहा है, कृपया प्रतीक्षा करें"
+   },
+   "loading": {
+      "description": "",
+      "message": "लोड हो रहा है ..."
+   },
+   "more": {
+      "description": "",
+      "message": "अधिक ..."
+   },
+   "notworking": {
+      "description": "",
+      "message": "काम नहीं कर रहा? अधिक विकल्प ..."
+   },
+   "off": {
+      "description": "",
+      "message": "बंद"
+   },
+   "old1": {
+      "description": "",
+      "message": "क्रोम के बहुत पुराने संस्करण"
+   },
+   "old2": {
+      "description": "",
+      "message": "होला उपयोग करने के लिए क्रोम"
+   },
+   "on": {
+      "description": "",
+      "message": "पर"
+   },
+   "reload": {
+      "description": "",
+      "message": "सीमा से अधिक लादना"
+   },
+   "settings": {
+      "description": "",
+      "message": "सेटिंग"
+   },
+   "sitelist": {
+      "description": "",
+      "message": "unblocker साइट सूची"
+   },
+   "start": {
+      "description": "",
+      "message": "चालू करें आरंभ करने के लिए"
+   },
+   "unblocked": {
+      "description": "",
+      "message": "अनवरोधित"
+   },
+   "update": {
+      "description": "",
+      "message": "अपडेट"
+   }
+}

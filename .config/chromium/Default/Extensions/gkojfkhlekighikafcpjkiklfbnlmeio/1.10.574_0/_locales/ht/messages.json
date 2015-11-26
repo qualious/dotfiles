@@ -1,0 +1,94 @@
+{
+    "appDesc": {
+        "description": "Deskripsyon an nan aplikasyon an, parèt nan magazen an sou sit wèb.",
+        "message": "Sit Aksè bloke nan peyi ou, konpayi oswa lekòl ki gen Hola! Hola sa yo gratis epi fasil yo sèvi ak!"
+    },
+    "appDesc_nohola": {
+        "description": "",
+        "message": "Sit Aksè bloke nan peyi ou, konpayi oswa lekòl! ekstansyon sa a se gratis ak fasil yo sèvi ak!"
+    },
+    "appName": {
+        "description": "Tit la nan aplikasyon an, parèt nan magazen an sou sit wèb.",
+        "message": "Hola Pi bon entènèt"
+    },
+    "appName_nohola": {
+        "description": "",
+        "message": "Unlimited gratis Proxy vpn"
+    },
+    "back": {
+        "description": "",
+        "message": "tounen nan"
+    },
+    "blocked": {
+        "description": "",
+        "message": "bloke?"
+    },
+    "changing": {
+        "description": "",
+        "message": "chanje"
+    },
+    "conflict1": {
+        "description": "",
+        "message": "Anviwònman prokurasyon rezo ou yo te jere pa yon lòt ekstansyon"
+    },
+    "conflict2": {
+        "description": "",
+        "message": "Enfim ke ekstansyon"
+    },
+    "conflict3": {
+        "description": "",
+        "message": "kontinye ak Hola"
+    },
+    "evenmore": {
+        "description": "",
+        "message": "menm plis"
+    },
+    "initial": {
+        "description": "",
+        "message": "Inisyalizin, please wait"
+    },
+    "loading": {
+        "description": "",
+        "message": "Loading ..."
+    },
+    "more": {
+        "description": "",
+        "message": "plis ..."
+    },
+    "notworking": {
+        "description": "",
+        "message": "pa ap travay? plis opsyon ..."
+    },
+    "old1": {
+        "description": "",
+        "message": "Trè fin vye granmoun vèsyon an Chrome"
+    },
+    "old2": {
+        "description": "",
+        "message": "Chrome yo sèvi ak Hola"
+    },
+    "on": {
+        "description": "",
+        "message": "SOU"
+    },
+    "settings": {
+        "description": "",
+        "message": "anviwònman"
+    },
+    "sitelist": {
+        "description": "",
+        "message": "unblocker lis sit"
+    },
+    "start": {
+        "description": "",
+        "message": "Vire sou jwenn te kòmanse"
+    },
+    "unblocked": {
+        "description": "",
+        "message": "debloke"
+    },
+    "update": {
+        "description": "",
+        "message": "Mizajou"
+    }
+}

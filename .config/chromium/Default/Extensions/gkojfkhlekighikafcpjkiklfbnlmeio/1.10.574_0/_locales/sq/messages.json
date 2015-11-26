@@ -1,0 +1,94 @@
+{
+   "accelerator": {
+      "description": "",
+      "message": "Përshpejtues"
+   },
+   "appDesc": {
+      "description": "Përshkrimi i aplikimit, shfaqet në dyqan web.",
+      "message": "Faqet e internetit Qasja bllokuar në vendin tuaj, kompani ose shkollë me Hola! Hola është i lirë dhe i lehtë për t&#39;u përdorur!"
+   },
+   "appDesc_nohola": {
+      "description": "",
+      "message": "Faqet e internetit të Access bllokuar në vendin tuaj, kompani ose shkollë! Ky zgjerim është i lirë dhe të lehtë për t&#39;u përdorur!"
+   },
+   "appName": {
+      "description": "Titulli i aplikimit, shfaqet në dyqan web.",
+      "message": "Hola më të mirë në internet"
+   },
+   "appName_nohola": {
+      "description": "",
+      "message": "Unlimited Pa pagesë Proxy VPN"
+   },
+   "back": {
+      "description": "",
+      "message": "përsëri në"
+   },
+   "blocked": {
+      "description": "",
+      "message": "bllokuar?"
+   },
+   "changing": {
+      "description": "",
+      "message": "ndryshuar"
+   },
+   "conflict1": {
+      "description": "",
+      "message": "Rrjetit tuaj proxy settings janë duke u menaxhuar nga një tjetër extension"
+   },
+   "conflict2": {
+      "description": "",
+      "message": "Disable se extension"
+   },
+   "conflict3": {
+      "description": "",
+      "message": "për të vazhduar me Hola"
+   },
+   "evenmore": {
+      "description": "",
+      "message": "edhe më shumë"
+   },
+   "initial": {
+      "description": "",
+      "message": "Fillimin, ju lutem prisni"
+   },
+   "loading": {
+      "description": "",
+      "message": "Duke u ngarkuar ..."
+   },
+   "more": {
+      "description": "",
+      "message": "më shumë ..."
+   },
+   "notworking": {
+      "description": "",
+      "message": "nuk punon? më shumë opsione ..."
+   },
+   "old1": {
+      "description": "",
+      "message": "Version shumë i vjetër i Chrome"
+   },
+   "old2": {
+      "description": "",
+      "message": "Chrome për të përdorur Hola"
+   },
+   "reload": {
+      "description": "",
+      "message": "Rifresko"
+   },
+   "settings": {
+      "description": "",
+      "message": "Konfigurimet"
+   },
+   "sitelist": {
+      "description": "",
+      "message": "Lista unblocker faqe"
+   },
+   "start": {
+      "description": "",
+      "message": "Kthehet në për të marrë filluar"
+   },
+   "unblocked": {
+      "description": "",
+      "message": "zhbllokuar"
+   }
+}

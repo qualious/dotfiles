@@ -1,0 +1,164 @@
+#yReplayBox{
+    float: left !important;
+    background: white;
+    font-size: 11px;
+    color: black !important;
+    height: 18px;
+    margin: -2px 1px 2px 1px;
+    padding-left: 5px;
+    padding-right: 5px;
+    font-family: Arial;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    border: 1px solid #aaa;
+    border-top-width: 0;
+}
+
+#yReplayBox.featherLite {
+    margin-top: -4px;
+}
+
+#yReplayBox.html5Controls {
+    margin-top: 0px;
+    margin-left: 0px;
+}
+
+#yReplayBox.html5Controls .expander {
+    -webkit-transition-duration: .3s;
+}
+
+#yReplayBox .expander{
+    float: left;
+    font-family: Arial;
+    font-size: 12px;
+    font-weight: bold;
+    text-shadow: white 0px 0px 6px, white 0px 0px 6px;
+    cursor: pointer;
+    margin-top: 2px;
+    line-height: 11px;
+    -webkit-transition-property: -webkit-transform,margin-top;
+    -webkit-transition-duration: 0s;/*The flash player blinks when this property is set. So zeroing it for now.*/
+}
+#yReplayBox .expander.optionsShown{
+    -webkit-transform: scaleX(-1);
+}
+#yReplayBox .options{
+    float: left;
+    font-family: Arial;
+    font-size: 12px;
+    display: inline-block;
+    overflow: hidden;
+    white-space: nowrap;
+    -webkit-transition-duration: 400ms;
+    -webkit-transition-property: max-width;
+    max-width: 0px;
+}
+#yReplayBox .options.optionsShown{
+    max-width: 300px;
+}
+#yReplayBox .options .optionsContainer{
+    margin: -1px 2px 2px 4px;
+    font-size: 10px;
+    padding: 0 0 0 5px;
+    border-radius: 3px;
+    background-color: #D9442E;
+    -webkit-transition-duration: 1s;
+    -webkit-transition-property: background-color;
+    box-shadow: 0px 0px 4px rgba(0, 0, 0, .5);
+    border-top-left-radius: 0px;
+    border-top-right-radius: 0px;
+}
+#yReplayBox .options .optionsContainer.replay-active{
+    background-color: #23AC6B;
+}
+#yReplayBox .options .optionsContainer .texts{
+    color: black !important;
+    text-shadow: #bbb 1px 1px 1px;
+    font-weight: bold;
+}
+#yReplayBox .options .optionsContainer .inputs:hover{
+    border-color: #555;
+    background: rgba(255, 255, 255, .65);
+}
+#yReplayBox .options .optionsContainer .inputs:focus{
+    border-color: #222;
+    background: rgba(255, 255, 255, .8);
+}
+#yReplayBox .options .optionsContainer .inputs{
+    color: black !important;
+    text-align: right;
+    width: 28px;
+    font-size: 10px;
+    background: rgba(255, 255, 255, .5);
+    margin: 0 5px 0 5px;
+    outline: none;
+    border-radius: 3px;
+    border: 1px solid rgba(0, 0, 0, .5);
+    -webkit-transition-property: all;
+    -webkit-transition-duration: 1s;
+}
+
+#yReplayBox .options .optionsContainer .inputs:last-child{
+    margin-right: 0px;
+}
+
+#yReplayBox .options .optionsContainer .inputs.cycles,
+#yReplayBox .options .optionsContainer .inputs.cycles.noCycles {
+    background-image: -webkit-linear-gradient(bottom, #aaa 0%, #aaa 50%, #aaa 75%);
+    text-align: center;
+    background-clip: border-box;
+    background-repeat: repeat;
+    background-position: 0 0;
+    background-color: #aaa;
+    border-color: #222;
+}
+
+#yReplayBox .options .optionsContainer.replay-active .inputs.cycles {
+    background-image: -webkit-linear-gradient(bottom, #D92A1E 0%, #C7261B 50%, #D92A1E 75%);
+    background-repeat: no-repeat;
+    border-color: black;
+    background-color: #ddd;
+}
+
+#yReplayBox .options .optionsContainer.replay-active .inputs.cycles.completed {
+    background-repeat: repeat;
+}
+
+#yReplayBox .options .optionsContainer.replay-active .inputs.cycles.noCycles {
+    background-image: -webkit-linear-gradient(bottom, #D4D4D4 0%, #C1C1C1 50%, #D4D4D4 75%);
+    background-clip: border-box;
+    background-repeat: repeat;
+    background-position: 0 0;
+}
+
+#yReplayBox .replay-container{
+    float: right !important;
+    margin-top: 2px;
+}
+#yReplayBox .replay-container .checkbox{
+    height: 11px;
+    width: 11px;
+    margin-left: 3px;
+    color: rgb(17, 51, 204) !important;
+    background: none;
+    margin-top: 2px;
+}
+#yReplayBox .replay-container .text{
+    float: right;
+    font-weight: bold;
+    padding-top: 2px;
+    text-shadow: white 0px 1px 8px;
+    display: inline-block;
+    -webkit-transition-delay: 0ms;
+    -webkit-transition-property: text-shadow,color;
+    -webkit-transition-duration: 300ms;
+}
+
+#yReplayBox.featherLite .replay-container .text {
+    margin-top: -1px;
+}
+/*#yReplayBox .replay-container:hover .text{
+    -webkit-transition-delay: 500ms;
+    text-shadow: #000 0px 1px 8px;
+    color: white;
+}*/

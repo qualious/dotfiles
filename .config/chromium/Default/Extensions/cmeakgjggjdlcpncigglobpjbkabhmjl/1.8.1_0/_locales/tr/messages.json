@@ -1,0 +1,126 @@
+{
+   "about": {
+      "description": "",
+      "message": "About"
+   },
+   "bookmarks": {
+      "description": "",
+      "message": "Bookmarks"
+   },
+   "extension_description": {
+      "description": "Eklenti Açıklaması",
+      "message": "Steam envanteri ve marketi için bir çok araç sağlar (teklif bildirimi, hızlı satış, satın alma, fiyat kontrolü...)"
+   },
+   "faq": {
+      "description": "Frequently asked questions",
+      "message": "FAQ"
+   },
+   "langcode": {
+      "description": "",
+      "message": "tr"
+   },
+   "settings": {
+      "description": "",
+      "message": "Ayarlar"
+   },
+   "settings_autoreply": {
+      "description": "",
+      "message": "Auto reply"
+   },
+   "settings_blockinvites": {
+      "description": "",
+      "message": "Block invites below"
+   },
+   "settings_buyset": {
+      "description": "",
+      "message": "\"Satın Alma Ayarı\" tuşları"
+   },
+   "settings_currency": {
+      "description": "",
+      "message": "Para Cinsi"
+   },
+   "settings_custombuttons": {
+      "description": "Manage custom buttons for trade offer windows",
+      "message": "Custom buttons"
+   },
+   "settings_displaynof": {
+      "description": "",
+      "message": "Bildirimleri Göster"
+   },
+   "settings_displayvector": {
+      "description": "",
+      "message": "Show vector price"
+   },
+   "settings_highligh": {
+      "description": "",
+      "message": "Highlight overpriced"
+   },
+   "settings_ignoreinvites": {
+      "description": "",
+      "message": "Ignore invites below"
+   },
+   "settings_language": {
+      "description": "",
+      "message": "Dil"
+   },
+   "settings_listdelay": {
+      "description": "",
+      "message": "Delay between listings"
+   },
+   "settings_no_history": {
+      "description": "",
+      "message": "History page size"
+   },
+   "settings_no_listings": {
+      "description": "",
+      "message": "Listelenen Adet"
+   },
+   "settings_nofsound": {
+      "description": "",
+      "message": "Bildirim Sesi"
+   },
+   "settings_nofsound_vol": {
+      "description": "",
+      "message": "Sound volume"
+   },
+   "settings_note": {
+      "description": "",
+      "message": "Güncellemenin aktif olması için sayfayı yenilemeniz gerekmektedir."
+   },
+   "settings_offer_autodecline": {
+      "description": "",
+      "message": "Decline unavailable offers"
+   },
+   "settings_offer_delay": {
+      "description": "",
+      "message": "Teklif Fiyatı Kontrol Aralığı"
+   },
+   "settings_offer_getprice": {
+      "description": "",
+      "message": "Teklif yapıldığında fiyatları otomatik yenile"
+   },
+   "settings_quickbuy": {
+      "description": "",
+      "message": "\"Hızlı Satın Al\" tuşları"
+   },
+   "settings_quicksell": {
+      "description": "",
+      "message": "\"Hızlı Sat\" tuşu"
+   },
+   "settings_quickselldif": {
+      "description": "",
+      "message": "Hızlı Satış Fiyat Farkı"
+   },
+   "settings_showsteamrep": {
+      "description": "Show Steamrep panel on invites page",
+      "message": "Show Steamrep"
+   },
+   "settings_simpify": {
+      "description": "",
+      "message": "Basitleştirmek UI"
+   },
+   "settings_totalrow": {
+      "description": "",
+      "message": "Total row"
+   }
+}

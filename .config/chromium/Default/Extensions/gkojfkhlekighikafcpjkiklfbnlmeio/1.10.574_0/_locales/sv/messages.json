@@ -1,0 +1,102 @@
+{
+   "appDesc": {
+      "description": "Beskrivningen av programmet, som visas i webbutiken.",
+      "message": "Få access till HELA Internet! Gå till blockerad sajt -> klicka på Hola ikonen -> Ändra landsflaggan -> NJUT!"
+   },
+   "appDesc_nohola": {
+      "description": "",
+      "message": "Tillgång till webbplatser blockeras i ert land, företag eller skola! denna utvidgning är gratis och enkelt att använda!"
+   },
+   "appName": {
+      "description": "Titeln på programmet, som visas i webbutiken.",
+      "message": "Hola Bättre Internet"
+   },
+   "appName_nohola": {
+      "description": "",
+      "message": "Obegränsad Fri Proxy VPN"
+   },
+   "back": {
+      "description": "",
+      "message": "tillbaka till"
+   },
+   "blocked": {
+      "description": "",
+      "message": "blockerad?"
+   },
+   "changing": {
+      "description": "",
+      "message": "ändra"
+   },
+   "conflict1": {
+      "description": "",
+      "message": "Dina nätverksproxyinställningar hanteras av en annan anknytning"
+   },
+   "conflict2": {
+      "description": "",
+      "message": "Inaktivera denna utvidgning"
+   },
+   "conflict3": {
+      "description": "",
+      "message": "att fortsätta med Hola"
+   },
+   "evenmore": {
+      "description": "",
+      "message": "ännu mer"
+   },
+   "initial": {
+      "description": "",
+      "message": "Initierar, var god vänta"
+   },
+   "loading": {
+      "description": "",
+      "message": "Hämtar ..."
+   },
+   "more": {
+      "description": "",
+      "message": "mer ..."
+   },
+   "notworking": {
+      "description": "",
+      "message": "inte fungerar? Fler alternativ ..."
+   },
+   "off": {
+      "description": "",
+      "message": "FRÅN"
+   },
+   "old1": {
+      "description": "",
+      "message": "Mycket gammal version av Chrome"
+   },
+   "old2": {
+      "description": "",
+      "message": "Chrome att använda Hola"
+   },
+   "on": {
+      "description": "",
+      "message": "PÅ"
+   },
+   "reload": {
+      "description": "",
+      "message": "Ladda"
+   },
+   "settings": {
+      "description": "",
+      "message": "inställningar"
+   },
+   "sitelist": {
+      "description": "",
+      "message": "unblocker webbplatslista"
+   },
+   "start": {
+      "description": "",
+      "message": "Slå på för att komma igång"
+   },
+   "unblocked": {
+      "description": "",
+      "message": "oblockerade"
+   },
+   "update": {
+      "description": "",
+      "message": "Uppdatera"
+   }
+}

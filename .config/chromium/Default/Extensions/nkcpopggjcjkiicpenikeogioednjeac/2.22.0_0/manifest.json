@@ -1,0 +1,30 @@
+{
+   "background": {
+      "persistent": true,
+      "scripts": [ "lib/utils.js", "lib/sklad.js", "lib/fs.js", "lib/logfileappender.js", "lib/log.js", "lib/md5.js", "lib/debug.js", "config.js", "flat/src/utils.js", "flat/src/event.js", "flat/src/shared-data.js", "flat/src/primaries.js", "flat/src/ycookie.js", "flat/src/speed-metrics-parser.js", "flat/src/tabs.js", "flat/src/yauth-cookies.js", "flat/src/yauth.js", "flat/src/yauth-accounts.js", "visbookmarks-common/lib/uri.js", "modules/i18n.js", "modules/metrika.js", "modules/screenshots.js", "modules/settings.js", "modules/branding.js", "modules/database.js", "modules/migration.js", "migration/2.13.0.js", "migration/2.18.0.js", "migration/2.21.0.js", "modules/bookmarks.js", "modules/safebrowsing.js", "modules/cloudsource.js", "modules/frontendhelper.js", "modules/layout.js", "modules/blacklist.js", "modules/colors.js", "modules/searchexample.js", "modules/favicons.js", "modules/thumbs.js", "modules/backgroundimages.js", "modules/internalstructure.js", "modules/searchsuggest.js", "modules/apps.js", "modules/statistics.js", "modules/productdayuse.js", "modules/weekusage.js", "modules/supersuggest.js", "modules/closedtabs.js", "modules/decisions.js", "modules/debuginfo.js", "visbookmarks-common/modules/common-utils.js", "visbookmarks-common/modules/common-advertisement.js", "visbookmarks-common/modules/common-thumbs-suggest.js", "modules/advertisement.js", "modules/advstartpagesearch.js", "modules/advaddthumb.js", "modules/auth.js", "modules/logos.js", "modules/pickup.js", "modules/pickupsuggest.js", "modules/pickupcache.js", "modules/title.js", "modules/htmlloader.js", "modules/cookiebackup.js", "modules/experiments-stat.js", "background.js" ]
+   },
+   "chrome_url_overrides": {
+      "newtab": "layout/newtab.html"
+   },
+   "content_scripts": [ {
+      "all_frames": false,
+      "js": [ "flat/src/speed-metrics-include.js", "flat/src/referrer-include.js", "includes/contentscript.js" ],
+      "matches": [ "http://*/*", "https://*/*" ],
+      "run_at": "document_start"
+   } ],
+   "content_security_policy": "script-src 'self' 'unsafe-eval'; object-src 'self'",
+   "default_locale": "en",
+   "icons": {
+      "128": "icons/128.png",
+      "16": "icons/16.png",
+      "48": "icons/48.png"
+   },
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQC0gqGEAB3Is3O8e/njwdLJMBiLENpfFl0xUCPUvcUTwRz0NIya8PHq4cgbE9qNlNRRQusfQXIlsnGZYTs25FFwEfN/6H4p7jCod44Qy1+gdFl3PkH3r1Nvr1n4HDPjI5amnMUII/K0eKOGPiDoTNYq03uKySogTLFKWs+rC4WVTwIDAQAB",
+   "manifest_version": 2,
+   "minimum_chrome_version": "32",
+   "name": "__MSG_branding_default_product_name_nom__",
+   "optional_permissions": [ "clipboardRead", "clipboardWrite" ],
+   "permissions": [ "\u003Call_urls>", "alarms", "bookmarks", "chrome://favicon/", "contextMenus", "cookies", "history", "idle", "geolocation", "management", "notifications", "sessions", "storage", "tabs", "topSites", "unlimitedStorage", "webNavigation", "system.memory", "http://*/*", "https://*/*" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "2.22.0"
+}

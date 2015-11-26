@@ -1,0 +1,38 @@
+{
+   "background": {
+      "page": "js/be_bg.html"
+   },
+   "browser_action": {
+      "default_icon": "js/img/icon19_gray.png",
+      "default_popup": "js/be_popup.html",
+      "default_title": "__MSG_appName__"
+   },
+   "content_scripts": [ {
+      "js": [ "js/cs_hola.js" ],
+      "matches": [ "*://*.hola.org/*" ],
+      "run_at": "document_start"
+   }, {
+      "all_frames": true,
+      "js": [ "js/jquery.min.js", "js/cs_inject.js" ],
+      "match_about_blank": true,
+      "matches": [ "\u003Call_urls>" ]
+   } ],
+   "content_security_policy": "script-src 'self' 'unsafe-eval' https://client.hola.org https://cdnjs.cloudflare.com https://ajax.googleapis.com https://ssl.google-analytics.com https://d3vxrebhmlc47q.cloudfront.net https://client-cdn1.hola.org https://client-cdn2.hola.org https://client-cdn3.hola.org https://client-cdn4.hola.org https://client-cdn5.hola.org https://d2ew0cz5tszpw.cloudfront.net https://holaalt-holanetworksltd.netdna-ssl.com https://cdn4.hola.org https://cdn.jsdelivr.net https://clientalt-holanetworksltd.netdna-ssl.com; object-src 'self'",
+   "default_locale": "en",
+   "description": "__MSG_appDesc__",
+   "devtools_page": "js/be_devtools.html",
+   "homepage_url": "https://hola.org",
+   "icons": {
+      "128": "img/icon128.png",
+      "16": "img/icon16.png",
+      "48": "img/icon48.png"
+   },
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQC3YOSz7vDWj4WatsffMfOjv0bt8gMXFxKRPml/oRE7VmpRLT8b/vq7em+EZj3AKlj0fAOvrU1YjubIIMlTCZc/RKjNYNjxM4/+4RXGOKbQkM6wWNuQ7prP4Mu0IGBDiVs19dKSwkknAgco2/U4DA6kVXJ4hwedTLlfUsRSN5MKfQIDAQAB",
+   "manifest_version": 2,
+   "minimum_chrome_version": "22.0.1229.79",
+   "name": "__MSG_appName__",
+   "permissions": [ "proxy", "webRequest", "webRequestBlocking", "\u003Call_urls>", "storage", "tabs", "webNavigation", "cookies" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.10.574",
+   "web_accessible_resources": [ "icon.png", "version.json" ]
+}

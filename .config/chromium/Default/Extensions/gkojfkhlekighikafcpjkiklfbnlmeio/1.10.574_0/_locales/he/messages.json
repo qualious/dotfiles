@@ -1,0 +1,106 @@
+{
+   "accelerator": {
+      "description": "",
+      "message": "מאיץ"
+   },
+   "appDesc": {
+      "description": "התיאור של היישום, מוצג בחנות האינטרנט.",
+      "message": "לגשת לכל אתר מכל מדינה! עבור לאתר חסום > לחץ על Hola > שינוי דגל מדינה > תהנו!"
+   },
+   "appDesc_nohola": {
+      "description": "",
+      "message": "אתרי גישה חסומים במדינה, החברה או בית הספר שלך! הרחבה זו היא חופשית וקלה לשימוש!"
+   },
+   "appName": {
+      "description": "הכותרת של היישום, מוצגת בחנות האינטרנט.",
+      "message": "Hola אינטרנט טוב יותר"
+   },
+   "appName_nohola": {
+      "description": "",
+      "message": "פרוקסי חינם ללא הגבלה VPN"
+   },
+   "back": {
+      "description": "",
+      "message": "בחזרה ל"
+   },
+   "blocked": {
+      "description": "",
+      "message": "חסום?"
+   },
+   "changing": {
+      "description": "",
+      "message": "שינוי"
+   },
+   "conflict1": {
+      "description": "",
+      "message": "הגדרות שרת proxy של הרשת מנוהלות על ידי הארכה נוספת"
+   },
+   "conflict2": {
+      "description": "",
+      "message": "השבת את התוסף ש"
+   },
+   "conflict3": {
+      "description": "",
+      "message": "להמשיך עם Hola"
+   },
+   "evenmore": {
+      "description": "",
+      "message": "אפילו יותר"
+   },
+   "initial": {
+      "description": "",
+      "message": "אתחול, אנא המתן"
+   },
+   "loading": {
+      "description": "",
+      "message": "טוען..."
+   },
+   "more": {
+      "description": "",
+      "message": "עוד ..."
+   },
+   "notworking": {
+      "description": "",
+      "message": "לא עובד? אפשרויות נוספות ..."
+   },
+   "off": {
+      "description": "",
+      "message": "כבוי"
+   },
+   "old1": {
+      "description": "",
+      "message": "גרסה ישנה מאוד של Chrome"
+   },
+   "old2": {
+      "description": "",
+      "message": "Chrome להשתמש Hola"
+   },
+   "on": {
+      "description": "",
+      "message": "דלוק"
+   },
+   "reload": {
+      "description": "",
+      "message": "רענן"
+   },
+   "settings": {
+      "description": "",
+      "message": "הגדרות"
+   },
+   "sitelist": {
+      "description": "",
+      "message": "רשימת אתרי Unblocker"
+   },
+   "start": {
+      "description": "",
+      "message": "הפעל כדי להתחיל"
+   },
+   "unblocked": {
+      "description": "",
+      "message": "חסימה"
+   },
+   "update": {
+      "description": "",
+      "message": "עדכון"
+   }
+}

@@ -1,0 +1,91 @@
+{
+   "accelerator": {
+      "description": "",
+      "message": "Sürətləndirici"
+   },
+   "appDesc": {
+      "description": "web mağaza nümayiş tətbiqi təsviri.",
+      "message": "Access saytları Hola ilə ölkə, şirkət və ya məktəbdə bağlanacaq! Hola pulsuz və istifadə üçün asandır!"
+   },
+   "appDesc_nohola": {
+      "description": "",
+      "message": "Access saytları sizin ölkə, şirkət və ya məktəbdə bağlanacaq! bu məsləhət pulsuz və istifadə üçün asandır!"
+   },
+   "appName_description": "web mağaza nümayiş tətbiqi adı.",
+   "appName_nohola": {
+      "description": "",
+      "message": "Unlimited Free Proxy VPN"
+   },
+   "back": {
+      "description": "",
+      "message": "geri"
+   },
+   "blocked": {
+      "description": "",
+      "message": "blok?"
+   },
+   "changing": {
+      "description": "",
+      "message": "dəyişdirmə"
+   },
+   "conflict1": {
+      "description": "",
+      "message": "Sizin şəbəkə proxy ayarları başqa uzadılması tərəfindən idarə olunur"
+   },
+   "conflict2": {
+      "description": "",
+      "message": "Ki, uzadılması aradan"
+   },
+   "conflict3": {
+      "description": "",
+      "message": "Hola davam etmək"
+   },
+   "evenmore": {
+      "description": "",
+      "message": "daha"
+   },
+   "initial": {
+      "description": "",
+      "message": "Başlatılıyor, xahiş edirik gözləyin"
+   },
+   "loading": {
+      "description": "",
+      "message": "Loading ..."
+   },
+   "more": {
+      "description": "",
+      "message": "Daha ətraflı ..."
+   },
+   "notworking": {
+      "description": "",
+      "message": "iş deyil? Daha çox imkanlar ..."
+   },
+   "old1": {
+      "description": "",
+      "message": "Chrome Çox köhnə versiyası"
+   },
+   "old2": {
+      "description": "",
+      "message": "Hola istifadə Chrome"
+   },
+   "reload": {
+      "description": "",
+      "message": "Yenidən yüklə"
+   },
+   "settings": {
+      "description": "",
+      "message": "parametrləri"
+   },
+   "sitelist": {
+      "description": "",
+      "message": "unblocker site siyahısı"
+   },
+   "start": {
+      "description": "",
+      "message": "Yandırmaq başlamaq üçün"
+   },
+   "unblocked": {
+      "description": "",
+      "message": "engelleyicisi"
+   }
+}

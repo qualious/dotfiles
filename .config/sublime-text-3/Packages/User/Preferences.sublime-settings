@@ -1,0 +1,11 @@
+{
+	"color_scheme": "Packages/Theme - Glacier/glacier.tmTheme",
+	"font_face": "Century Gothic",
+	"font_size": 12,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"overlay_scroll_bars": "enabled",
+	"theme": "Glacier.sublime-theme"
+}

@@ -1,0 +1,22 @@
+{
+   "background": {
+      "persistent": false,
+      "scripts": [ "background.js" ]
+   },
+   "content_scripts": [ {
+      "js": [ "content.js" ],
+      "matches": [ "\u003Call_urls>" ],
+      "run_at": "document_start"
+   } ],
+   "description": "New tabs open immediately instead of in the background.",
+   "icons": {
+      "128": "icon128.png",
+      "48": "icon48.png"
+   },
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCDzY80m1QFJiilM62e9v/EnktQJQ1dVgMzCooEHeVAi4QOU5sAPDU7E3/YxYzi8vYnfcs9gWuvON6JGdJw4pjTCRckpPGInpF6I/DorTnOLQxjXuGR9grdO55nBvJIRQp54/e4rUTAk5vMSN/Vmy3iIs4hZsZPOd/on7Xp/VNs5wIDAQAB",
+   "manifest_version": 2,
+   "name": "Tab Activate",
+   "permissions": [ "tabs", "bookmarks" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "2.0.2"
+}

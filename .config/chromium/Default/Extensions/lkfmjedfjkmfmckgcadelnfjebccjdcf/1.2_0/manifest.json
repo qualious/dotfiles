@@ -1,0 +1,15 @@
+{
+   "content_scripts": [ {
+      "css": [ "scrollbars.css" ],
+      "matches": [ "http://*/*", "https://*/*" ]
+   } ],
+   "default_locale": "en",
+   "description": "__MSG_description__",
+   "icons": {
+      "128": "icon_128.png"
+   },
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQC9O3PvsIvi4T9LMPKRMulFnnglwjcklxBhbneQ3KRB4fKlZ+p1BqF4bhH0hTZeYv6GdS+H+BpgilMw8Mdd5CY5FjqN9Pyy44ZCEX10lsr2BiqlGNhKeG1Reu5E/b4JIIoqNdM5dxYpEWEqlri5oPpff5W6aEdEItVy9CUK85wepQIDAQAB",
+   "name": "__MSG_name__",
+   "update_url": "http://clients2.google.com/service/update2/crx",
+   "version": "1.2"
+}

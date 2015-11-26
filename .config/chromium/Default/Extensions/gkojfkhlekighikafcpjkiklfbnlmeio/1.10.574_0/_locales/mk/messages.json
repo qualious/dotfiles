@@ -1,0 +1,102 @@
+{
+   "accelerator": {
+      "description": "",
+      "message": "Педалот за гас"
+   },
+   "appDesc": {
+      "description": "Опис на апликацијата, прикажани во веб продавница.",
+      "message": "Пристап блокирани веб-сајтови во вашата земја, компанија или училиште со Hola! Hola е бесплатен и лесен за употреба!"
+   },
+   "appDesc_nohola": {
+      "description": "",
+      "message": "Пристап блокирани веб-сајтови, во вашата земја, компанија или училиште! оваа екстензија е бесплатен и лесен за употреба!"
+   },
+   "appName": {
+      "description": "Насловот на барањето, прикажани во веб продавница.",
+      "message": "Hola подобар интернет"
+   },
+   "appName_nohola": {
+      "description": "",
+      "message": "Неограничен Слободен Меѓу VPN"
+   },
+   "back": {
+      "description": "",
+      "message": "назад кон"
+   },
+   "blocked": {
+      "description": "",
+      "message": "блокирана?"
+   },
+   "changing": {
+      "description": "",
+      "message": "менување"
+   },
+   "conflict1": {
+      "description": "",
+      "message": "Вашите поставувања за прокси мрежа се управувани од страна на друг продолжување"
+   },
+   "conflict2": {
+      "description": "",
+      "message": "Оневозможи дека продолжувањето на периодот"
+   },
+   "conflict3": {
+      "description": "",
+      "message": "да продолжи со Hola"
+   },
+   "evenmore": {
+      "description": "",
+      "message": "уште повеќе"
+   },
+   "initial": {
+      "description": "",
+      "message": "Иницијализацијата, ве молиме почекајте"
+   },
+   "loading": {
+      "description": "",
+      "message": "Се вчитува ..."
+   },
+   "more": {
+      "description": "",
+      "message": "повеќе ..."
+   },
+   "notworking": {
+      "description": "",
+      "message": "не работи? повеќе опции ..."
+   },
+   "old1": {
+      "description": "",
+      "message": "Верзијата на Хром многу стар"
+   },
+   "old2": {
+      "description": "",
+      "message": "Хром да се користи Hola"
+   },
+   "on": {
+      "description": "",
+      "message": "ЗА"
+   },
+   "reload": {
+      "description": "",
+      "message": "Вчитај ја страната повторно"
+   },
+   "settings": {
+      "description": "",
+      "message": "подесувања"
+   },
+   "sitelist": {
+      "description": "",
+      "message": "unblocker листа сајтот"
+   },
+   "start": {
+      "description": "",
+      "message": "Вклучете го за да започнете"
+   },
+   "unblocked": {
+      "description": "",
+      "message": "одблокиран"
+   },
+   "update": {
+      "description": "",
+      "message": "Ажурирање"
+   }
+}

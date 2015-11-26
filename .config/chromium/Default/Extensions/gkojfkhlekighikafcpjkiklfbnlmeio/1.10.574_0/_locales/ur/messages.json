@@ -1,0 +1,102 @@
+{
+   "accelerator": {
+      "description": "",
+      "message": "سرعت"
+   },
+   "appDesc": {
+      "description": "ویب سٹور میں دکھائے درخواست کی وضاحت،.",
+      "message": "رسائی کے ویب سائٹس سے Hola ساتھ آپ کے ملک، کمپنی یا اسکول میں بلاک کر دیا! ہیلو، اتارنا اور استعمال کرنے کے لئے آسان ہے!"
+   },
+   "appDesc_nohola": {
+      "description": "",
+      "message": "رسائی کی ویب سائٹ آپ کے ملک، کمپنی یا اسکول میں بلاک! اس توسیع مفت اور استعمال میں آسان ہے!"
+   },
+   "appName": {
+      "description": "ویب سٹور میں دکھائے درخواست کے عنوان،.",
+      "message": "ہیلو بہتر انٹرنیٹ"
+   },
+   "appName_nohola": {
+      "description": "",
+      "message": "لا محدود مفت پراکسی ویپیین"
+   },
+   "back": {
+      "description": "",
+      "message": "واپس کرنا"
+   },
+   "blocked": {
+      "description": "",
+      "message": "بلاک کیا؟"
+   },
+   "changing": {
+      "description": "",
+      "message": "بدلتے ہوئے"
+   },
+   "conflict1": {
+      "description": "",
+      "message": "آپ کے نیٹ ورک کو پراکسی ترتیبات ایک اور توسیع کی طرف سے منظم کیا جا رہا ہے"
+   },
+   "conflict2": {
+      "description": "",
+      "message": "کہ توسیع کو غیر فعال کریں"
+   },
+   "conflict3": {
+      "description": "",
+      "message": "ہیلو ساتھ جاری رکھنے کے"
+   },
+   "evenmore": {
+      "description": "",
+      "message": "اس سے بھی زیادہ"
+   },
+   "hola": {
+      "description": "",
+      "message": "ہیلو"
+   },
+   "initial": {
+      "description": "",
+      "message": "ابتدا، براہ کرم انتظار کریں"
+   },
+   "loading": {
+      "description": "",
+      "message": "لوڈ ہورہا ہے ..."
+   },
+   "more": {
+      "description": "",
+      "message": "مزید پڑھیے ..."
+   },
+   "notworking": {
+      "description": "",
+      "message": "کام نہیں کر رہا؟ مزید اختیارات ..."
+   },
+   "old1": {
+      "description": "",
+      "message": "کروم کا بہت پرانا ورژن"
+   },
+   "old2": {
+      "description": "",
+      "message": "ہیلو استعمال کرنے کے لئے کروم"
+   },
+   "reload": {
+      "description": "",
+      "message": "دوبارہ لوڈ کریں"
+   },
+   "settings": {
+      "description": "",
+      "message": "ترتیبات"
+   },
+   "sitelist": {
+      "description": "",
+      "message": "unblocker سائٹ فہرست"
+   },
+   "start": {
+      "description": "",
+      "message": "آن کریں شروع کرنے کے لئے"
+   },
+   "unblocked": {
+      "description": "",
+      "message": "غیر مسدود"
+   },
+   "update": {
+      "description": "",
+      "message": "اپ ڈیٹ کریں"
+   }
+}

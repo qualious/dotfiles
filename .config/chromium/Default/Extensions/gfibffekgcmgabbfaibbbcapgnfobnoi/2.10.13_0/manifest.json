@@ -1,0 +1,22 @@
+{
+   "content_scripts": [ {
+      "all_frames": true,
+      "js": [ "script.js" ],
+      "matches": [ "*://*.4chan.org/*", "*://boards.4chan.org/*", "*://sys.4chan.org/*", "*://a.4cdn.org/*", "*://i.4cdn.org/*", "*://www.google.com/recaptcha/api/fallback?k=6Ldp2bsSAAAAAAJ5uyx_lx34lJeEpTLVkP5k04qc" ],
+      "run_at": "document_start"
+   } ],
+   "description": "The most comprehensive 4chan userscript.",
+   "homepage_url": "http://zixaphir.github.com/appchan-x/",
+   "icons": {
+      "128": "icon128.png",
+      "16": "icon16.png",
+      "48": "icon48.png"
+   },
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQClsup+vf0aWu2fs18x7DdXTjR4WyfJv6z6NUTKfkYzPNbG7YdWOtbsgat1km9SJ8hYcYAyL6OBoNi8+SlButKAMPpeFz9ZXYfSPY7jtMZlg1SYmJHmX8EtXQyvEdyenCcOvm0/jZx/g6w9vpvazLgSeS6GC6gTN4LaMNG2xdDk5QIDAQAB",
+   "manifest_version": 2,
+   "minimum_chrome_version": "32",
+   "name": "appchan x",
+   "permissions": [ "storage", "http://*/", "https://*/" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "2.10.13"
+}

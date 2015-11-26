@@ -1,0 +1,30 @@
+{
+   "description": "",
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAlClkFqi70WwGynertfnduaTGON9Dfi31wtNYy+mbWwpxIz3g9QyW5oW1RR6XwSwWnpOUub+omjVmvjmUTU7nXAOMPKSGvYTT3PRkwqF6hMSiosyPFagZZXNz7DVHSKn12akL5BTGdIdRgBFkB9ufYoGD+0AcF/AsQNFf2/RJ4FOuHe5JR3ZFbROhcyF9KUIl6D53t+tspfuxR9FkP6wlB/5/PNh/kkZj9bWZ8ZN2xZ0YYwS69KDczdIGpI4yK4IuwaiLiFcXY14m4o3GjkKUlj5JvP8hYc41FehEkLRri/YAKZ9LZV4z9vm/8xMhKPjSbXXtcHkHKiRD+On7mAdP3QIDAQAB",
+   "manifest_version": 2,
+   "name": "arc-chrome-theme",
+   "theme": {
+      "colors": {
+         "bookmark_text": [ 0, 0, 0 ],
+         "button_background": [ 0, 0, 0, 0 ],
+         "frame": [ 66, 116, 201 ],
+         "ntp_background": [ 255, 255, 255 ],
+         "ntp_text": [ 0, 0, 0 ],
+         "tab_background_text": [ 64, 64, 64 ],
+         "tab_text": [ 0, 0, 0 ],
+         "toolbar": [ 223, 223, 223 ]
+      },
+      "images": {
+         "theme_frame": "images/theme_frame.png"
+      },
+      "properties": {
+         "ntp_background_alignment": "bottom",
+         "ntp_background_repeat": "no-repeat"
+      },
+      "tints": {
+         "buttons": [ 0, 0, 0.5 ]
+      }
+   },
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.1"
+}

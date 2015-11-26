@@ -1,0 +1,1655 @@
+{
+   "branding_default_locationbar_search_url": {
+      "message": "http://yandex.ru/search/?clid={clid9}&text="
+   },
+   "branding_default_logo_alt": {
+      "message": "Yandex"
+   },
+   "branding_default_logo_title": {
+      "message": "Yandex ana sayfasına git"
+   },
+   "branding_default_product_copyright": {
+      "message": "© 2012—2015 [Yandex](http://www.yandex.com.tr)"
+   },
+   "branding_default_product_copyright_fx": {
+      "message": "© 2012—2015 [Yandex](http://www.yandex.com.tr)"
+   },
+   "branding_default_product_copyright_ie": {
+      "message": "© 2012—2015 [Yandex](http://www.yandex.com.tr)"
+   },
+   "branding_default_product_description": {
+      "message": "Görsel Favoriler'de en sevdiğiniz siteleri bir araya getirin. Siteler arasında kolay geçiş için tek yapmanız gereken küçük görsele tıklamak. Sayfadaki görsel sayısını, yerini ya da arkaplan resmini istediğiniz gibi değiştirip kişiselleştirin. Ayrıca sayfada yer alan Yandex arama satırı ile internette kolayca arama yapın. "
+   },
+   "branding_default_product_goodbye_url_fx": {
+      "message": "https://element.yandex.com.tr/goodbye/vb/"
+   },
+   "branding_default_product_homepage": {
+      "message": "http://visual.yandex.com.tr"
+   },
+   "branding_default_product_license_url_fx": {
+      "message": "http://legal.yandex.com.tr/desktop_software_agreement/"
+   },
+   "branding_default_product_license_url_ie": {
+      "message": "http://legal.yandex.com.tr/desktop_software_agreement/"
+   },
+   "branding_default_product_name_acc": {
+      "message": "Görsel Favoriler"
+   },
+   "branding_default_product_name_dat": {
+      "message": "Görsel Favoriler'e"
+   },
+   "branding_default_product_name_gen": {
+      "message": "Görsel Favoriler'in"
+   },
+   "branding_default_product_name_ins": {
+      "message": "Görsel Favoriler'iyle"
+   },
+   "branding_default_product_name_loc": {
+      "message": "Görsel Favoriler"
+   },
+   "branding_default_product_name_nom": {
+      "message": "Görsel Favoriler"
+   },
+   "branding_default_product_name_pre": {
+      "message": "Görsel Favoriler hakkında"
+   },
+   "branding_default_product_note_fx": {
+      "message": "Firefox için"
+   },
+   "branding_default_product_note_ie": {
+      "message": "Internet Explorer için"
+   },
+   "branding_default_product_shortname_acc": {
+      "message": "GF"
+   },
+   "branding_default_product_shortname_dat": {
+      "message": "GF"
+   },
+   "branding_default_product_shortname_gen": {
+      "message": "GF"
+   },
+   "branding_default_product_shortname_ins": {
+      "message": "GF"
+   },
+   "branding_default_product_shortname_loc": {
+      "message": "Görsel Favoriler"
+   },
+   "branding_default_product_shortname_nom": {
+      "message": "GF"
+   },
+   "branding_default_product_shortname_pre": {
+      "message": "GF hakkında"
+   },
+   "branding_default_search_navigate_title": {
+      "message": "Yandex ile bul"
+   },
+   "branding_default_thumb_lentaru": {
+      "message": "Lenta.ru"
+   },
+   "branding_default_thumb_vkontakte": {
+      "message": "VKontakte"
+   },
+   "branding_default_thumb_yamail": {
+      "message": "Yandex.Mail"
+   },
+   "branding_default_thumb_yamaps": {
+      "message": "Yandex.Haritalar"
+   },
+   "branding_default_thumb_yamarket": {
+      "message": "Yandex.Market"
+   },
+   "branding_default_thumb_yamusic": {
+      "message": "Yandex.Müzik"
+   },
+   "branding_default_thumb_yandex": {
+      "message": "Yandex"
+   },
+   "branding_default_thumb_yasoft": {
+      "message": "Yandex.Uygulamalar"
+   },
+   "branding_default_thumb_youtube": {
+      "message": "Youtube"
+   },
+   "branding_default_vendor_name_acc": {
+      "message": "Yandex"
+   },
+   "branding_default_vendor_name_dat": {
+      "message": "Yandex'e"
+   },
+   "branding_default_vendor_name_gen": {
+      "message": "Yandex'in"
+   },
+   "branding_default_vendor_name_ins": {
+      "message": "Yandex ile"
+   },
+   "branding_default_vendor_name_loc": {
+      "message": "Yandex'te"
+   },
+   "branding_default_vendor_name_nom": {
+      "message": "Yandex"
+   },
+   "branding_default_vendor_name_pre": {
+      "message": "Yandex"
+   },
+   "branding_default_yandex_label": {
+      "message": "Yandex"
+   },
+   "branding_default_yandex_qs_keywordsearch": {
+      "message": "http://yandex.ru/search/?clid={clid9}&text={searchTerms}"
+   },
+   "branding_default_yandex_qs_suggestions": {
+      "message": "http://suggest.yandex.ru/suggest-ff.cgi?uil=tr&part={searchTerms}"
+   },
+   "branding_default_yandex_qs_url": {
+      "message": "http://yandex.ru/search/?clid={clid6}&text={searchTerms}"
+   },
+   "branding_default_yandex_search_site_url": {
+      "message": "http://yandex.ru/search/?text={searchTerms}&surl_manually=true&surl={searchSite}"
+   },
+   "branding_default_yandex_search_tooltip": {
+      "message": "Yandex'te bul"
+   },
+   "branding_default_yandex_search_url": {
+      "message": "http://yandex.ru/search/?text={searchTerms}"
+   },
+   "branding_default_yandex_url": {
+      "message": "http://www.yandex.ru"
+   },
+   "branding_turkey_besiktas_locationbar_search_url": {
+      "message": "http://yandex.com.tr/search/?clid={clid9}&text="
+   },
+   "branding_turkey_besiktas_logo_alt": {
+      "message": "Yandex"
+   },
+   "branding_turkey_besiktas_logo_title": {
+      "message": "Yandex"
+   },
+   "branding_turkey_besiktas_product_copyright": {
+      "message": "© 2012—2015 [Yandex](http://www.yandex.com.tr)"
+   },
+   "branding_turkey_besiktas_product_copyright_fx": {
+      "message": "© 2012—2015 [Yandex](http://www.yandex.com.tr)"
+   },
+   "branding_turkey_besiktas_product_copyright_ie": {
+      "message": "© 2012—2015 [Yandex](http://www.yandex.com.tr)"
+   },
+   "branding_turkey_besiktas_product_description": {
+      "message": "Görsel Favoriler'de en sevdiğiniz siteleri bir araya getirin. Siteler arasında kolay geçiş için tek yapmanız gereken küçük resme tıklamak. Sayfadaki resim sayısını, yerini ya da arka plan resmini istediğiniz gibi değiştirip kişiselleştirin. Ayrıca sayfada yer alan Yandex arama satırı ile internette kolayca arama yapın. "
+   },
+   "branding_turkey_besiktas_product_goodbye_url_fx": {
+      "message": "https://element.yandex.com.tr/goodbye/vb/"
+   },
+   "branding_turkey_besiktas_product_homepage": {
+      "message": "http://visual.yandex.com.tr"
+   },
+   "branding_turkey_besiktas_product_license_url_fx": {
+      "message": "http://legal.yandex.com.tr/desktop_software_agreement/"
+   },
+   "branding_turkey_besiktas_product_license_url_ie": {
+      "message": "http://legal.yandex.com.tr/desktop_software_agreement/"
+   },
+   "branding_turkey_besiktas_product_name_acc": {
+      "message": "Görsel Favoriler"
+   },
+   "branding_turkey_besiktas_product_name_dat": {
+      "message": "Görsel Favoriler'e"
+   },
+   "branding_turkey_besiktas_product_name_gen": {
+      "message": "Görsel Favoriler'in"
+   },
+   "branding_turkey_besiktas_product_name_ins": {
+      "message": "Görsel Favoriler'iyle"
+   },
+   "branding_turkey_besiktas_product_name_loc": {
+      "message": "Görsel Favoriler"
+   },
+   "branding_turkey_besiktas_product_name_nom": {
+      "message": "Görsel Favoriler"
+   },
+   "branding_turkey_besiktas_product_name_pre": {
+      "message": "Görsel Favoriler hakkında"
+   },
+   "branding_turkey_besiktas_product_note_fx": {
+      "message": "Firefox için"
+   },
+   "branding_turkey_besiktas_product_note_ie": {
+      "message": "Internet Explorer için"
+   },
+   "branding_turkey_besiktas_product_shortname_acc": {
+      "message": "GF"
+   },
+   "branding_turkey_besiktas_product_shortname_dat": {
+      "message": "GF"
+   },
+   "branding_turkey_besiktas_product_shortname_gen": {
+      "message": "GF"
+   },
+   "branding_turkey_besiktas_product_shortname_ins": {
+      "message": "GF"
+   },
+   "branding_turkey_besiktas_product_shortname_loc": {
+      "message": "Görsel Favoriler"
+   },
+   "branding_turkey_besiktas_product_shortname_nom": {
+      "message": "GF"
+   },
+   "branding_turkey_besiktas_product_shortname_pre": {
+      "message": "GF hakkında"
+   },
+   "branding_turkey_besiktas_search_navigate_title": {
+      "message": "Yandex ile bul"
+   },
+   "branding_turkey_besiktas_search_placeholder": {
+      "message": "Web'de aramak için buraya yazabilirsin"
+   },
+   "branding_turkey_besiktas_thumb_1": {
+      "message": "Beşiktaş"
+   },
+   "branding_turkey_besiktas_thumb_10": {
+      "message": "Wikipedia"
+   },
+   "branding_turkey_besiktas_thumb_11": {
+      "message": "Ekşisözlük"
+   },
+   "branding_turkey_besiktas_thumb_12": {
+      "message": "Gittigidiyor"
+   },
+   "branding_turkey_besiktas_thumb_13": {
+      "message": "Dailymotion"
+   },
+   "branding_turkey_besiktas_thumb_14": {
+      "message": "Youtube"
+   },
+   "branding_turkey_besiktas_thumb_15": {
+      "message": "Yemek Sepeti"
+   },
+   "branding_turkey_besiktas_thumb_16": {
+      "message": "Hotmail"
+   },
+   "branding_turkey_besiktas_thumb_17": {
+      "message": "Izlesene.com"
+   },
+   "branding_turkey_besiktas_thumb_18": {
+      "message": "Tureng.com"
+   },
+   "branding_turkey_besiktas_thumb_19": {
+      "message": "Turkish Airlines"
+   },
+   "branding_turkey_besiktas_thumb_2": {
+      "message": "Kartalyuvasi"
+   },
+   "branding_turkey_besiktas_thumb_20": {
+      "message": "Biletix"
+   },
+   "branding_turkey_besiktas_thumb_21": {
+      "message": "Kariyer.net"
+   },
+   "branding_turkey_besiktas_thumb_22": {
+      "message": "Sahibinden"
+   },
+   "branding_turkey_besiktas_thumb_23": {
+      "message": "Hepsiburada"
+   },
+   "branding_turkey_besiktas_thumb_24": {
+      "message": "Mynet"
+   },
+   "branding_turkey_besiktas_thumb_25": {
+      "message": "MSN Türkiye"
+   },
+   "branding_turkey_besiktas_thumb_26": {
+      "message": "HABERTÜRK"
+   },
+   "branding_turkey_besiktas_thumb_27": {
+      "message": "Sabah"
+   },
+   "branding_turkey_besiktas_thumb_28": {
+      "message": "HÜRRİYET"
+   },
+   "branding_turkey_besiktas_thumb_29": {
+      "message": "Milliyet Haber"
+   },
+   "branding_turkey_besiktas_thumb_3": {
+      "message": "Vodafone Arena"
+   },
+   "branding_turkey_besiktas_thumb_30": {
+      "message": "Tatil"
+   },
+   "branding_turkey_besiktas_thumb_31": {
+      "message": "Beyazperde"
+   },
+   "branding_turkey_besiktas_thumb_32": {
+      "message": "ekolay"
+   },
+   "branding_turkey_besiktas_thumb_33": {
+      "message": "e-Okul Yönetim Bilgi Sistemi"
+   },
+   "branding_turkey_besiktas_thumb_34": {
+      "message": "Türk Dil Kurumu Ana Sayfası"
+   },
+   "branding_turkey_besiktas_thumb_4": {
+      "message": "Kart 1903"
+   },
+   "branding_turkey_besiktas_thumb_5": {
+      "message": "Twitter"
+   },
+   "branding_turkey_besiktas_thumb_6": {
+      "message": "Facebook"
+   },
+   "branding_turkey_besiktas_thumb_7": {
+      "message": "BJK Yandex"
+   },
+   "branding_turkey_besiktas_thumb_8": {
+      "message": "Yandex.Mail"
+   },
+   "branding_turkey_besiktas_thumb_9": {
+      "message": "Google"
+   },
+   "branding_turkey_besiktas_vendor_name_acc": {
+      "message": "Yandex"
+   },
+   "branding_turkey_besiktas_vendor_name_dat": {
+      "message": "Yandex'e"
+   },
+   "branding_turkey_besiktas_vendor_name_gen": {
+      "message": "Yandex'in"
+   },
+   "branding_turkey_besiktas_vendor_name_ins": {
+      "message": "Yandex ile"
+   },
+   "branding_turkey_besiktas_vendor_name_loc": {
+      "message": "Yandex'te"
+   },
+   "branding_turkey_besiktas_vendor_name_nom": {
+      "message": "Yandex"
+   },
+   "branding_turkey_besiktas_vendor_name_pre": {
+      "message": "Yandex"
+   },
+   "branding_turkey_besiktas_yagorsel_label": {
+      "message": "Yandex.Görsel"
+   },
+   "branding_turkey_besiktas_yagorsel_search_site_url": {
+      "message": "http://gorsel.yandex.com.tr/yandsearch?text={searchTerms}&surl_manually=true&site={searchSite}"
+   },
+   "branding_turkey_besiktas_yagorsel_search_tooltip": {
+      "message": "Yandex.Görsel'de bul"
+   },
+   "branding_turkey_besiktas_yagorsel_search_url": {
+      "message": "http://gorsel.yandex.com.tr/yandsearch?text={searchTerms}"
+   },
+   "branding_turkey_besiktas_yagorsel_suggestions_url": {
+      "message": "http://suggest-images.yandex.com.tr/suggest-ff.cgi?part={searchTerms}&uil=tr"
+   },
+   "branding_turkey_besiktas_yagorsel_url": {
+      "message": "http://www.gorsel.yandex.com.tr/"
+   },
+   "branding_turkey_besiktas_yahaber_label": {
+      "message": "Yandex.Haberler"
+   },
+   "branding_turkey_besiktas_yahaber_search_tooltip": {
+      "message": "Yandex.Haberler'de bul"
+   },
+   "branding_turkey_besiktas_yahaber_search_url": {
+      "message": "http://haber.yandex.com.tr/yandsearch?text={searchTerms}&rpt=nnews2&grhow=clutop"
+   },
+   "branding_turkey_besiktas_yahaber_url": {
+      "message": "http://haber.yandex.com.tr/"
+   },
+   "branding_turkey_besiktas_yandex_label": {
+      "message": "Yandex"
+   },
+   "branding_turkey_besiktas_yandex_qs_keywordsearch": {
+      "message": "http://yandex.com.tr/search/?clid={clid9}&text={searchTerms}"
+   },
+   "branding_turkey_besiktas_yandex_search_site_url": {
+      "message": "http://yandex.com.tr/search/?text={searchTerms}&surl_manually=true&surl={searchSite}"
+   },
+   "branding_turkey_besiktas_yandex_search_tooltip": {
+      "message": "Yandex'te bul"
+   },
+   "branding_turkey_besiktas_yandex_search_url": {
+      "message": "http://yandex.com.tr/search/?text={searchTerms}"
+   },
+   "branding_turkey_besiktas_yandex_suggestions_url": {
+      "message": "http://suggest.yandex.com.tr/suggest-ff.cgi?part={searchTerms}&uil=tr"
+   },
+   "branding_turkey_besiktas_yandex_url": {
+      "message": "http://www.yandex.com.tr/"
+   },
+   "branding_turkey_besiktas_yavideo_label": {
+      "message": "Yandex.Video"
+   },
+   "branding_turkey_besiktas_yavideo_search_tooltip": {
+      "message": "Yandex.Video'da bul"
+   },
+   "branding_turkey_besiktas_yavideo_search_url": {
+      "message": "http://video.yandex.com.tr/#search?text={searchTerms}"
+   },
+   "branding_turkey_besiktas_yavideo_suggestions_url": {
+      "message": "http://suggest-video.yandex.com.tr/suggest-ff.cgi?part={searchTerms}&uil=tr"
+   },
+   "branding_turkey_besiktas_yavideo_url": {
+      "message": "http://www.video.yandex.com.tr/"
+   },
+   "branding_turkey_elements_locationbar_search_url": {
+      "message": "http://yandex.com.tr/search/?clid={clid9}&text="
+   },
+   "branding_turkey_elements_logo_alt": {
+      "message": "Yandex"
+   },
+   "branding_turkey_elements_logo_title": {
+      "message": "Yandex"
+   },
+   "branding_turkey_elements_product_copyright": {
+      "message": "© 2012—2015 [Yandex](http://www.yandex.com.tr)"
+   },
+   "branding_turkey_elements_product_copyright_fx": {
+      "message": "© 2012—2015 [Yandex](http://www.yandex.com.tr)"
+   },
+   "branding_turkey_elements_product_copyright_ie": {
+      "message": "© 2012—2015 [Yandex](http://www.yandex.com.tr)"
+   },
+   "branding_turkey_elements_product_description": {
+      "message": "Görsel Favoriler'de en sevdiğiniz siteleri bir araya getirin. Siteler arasında kolay geçiş için tek yapmanız gereken küçük görsele tıklamak. Sayfadaki görsel sayısını, yerini ya da arkaplan resmini istediğiniz gibi değiştirip kişiselleştirin. Ayrıca sayfada yer alan Yandex arama satırı ile internette kolayca arama yapın. "
+   },
+   "branding_turkey_elements_product_goodbye_url_fx": {
+      "message": "https://element.yandex.com.tr/goodbye/vb/"
+   },
+   "branding_turkey_elements_product_homepage": {
+      "message": "http://visual.yandex.com.tr"
+   },
+   "branding_turkey_elements_product_license_url_fx": {
+      "message": "http://legal.yandex.com.tr/desktop_software_agreement/"
+   },
+   "branding_turkey_elements_product_license_url_ie": {
+      "message": "http://legal.yandex.com.tr/desktop_software_agreement/"
+   },
+   "branding_turkey_elements_product_name_acc": {
+      "message": "Görsel Favoriler"
+   },
+   "branding_turkey_elements_product_name_dat": {
+      "message": "Görsel Favoriler'e"
+   },
+   "branding_turkey_elements_product_name_gen": {
+      "message": "Görsel Favoriler'in"
+   },
+   "branding_turkey_elements_product_name_ins": {
+      "message": "Görsel Favoriler'iyle"
+   },
+   "branding_turkey_elements_product_name_loc": {
+      "message": "Görsel Favoriler"
+   },
+   "branding_turkey_elements_product_name_nom": {
+      "message": "Görsel Favoriler"
+   },
+   "branding_turkey_elements_product_name_pre": {
+      "message": "Görsel Favoriler hakkında"
+   },
+   "branding_turkey_elements_product_note_fx": {
+      "message": "Firefox için"
+   },
+   "branding_turkey_elements_product_note_ie": {
+      "message": "Internet Explorer için"
+   },
+   "branding_turkey_elements_product_shortname_acc": {
+      "message": "GF"
+   },
+   "branding_turkey_elements_product_shortname_dat": {
+      "message": "GF"
+   },
+   "branding_turkey_elements_product_shortname_gen": {
+      "message": "GF"
+   },
+   "branding_turkey_elements_product_shortname_ins": {
+      "message": "GF"
+   },
+   "branding_turkey_elements_product_shortname_loc": {
+      "message": "Görsel Favoriler"
+   },
+   "branding_turkey_elements_product_shortname_nom": {
+      "message": "GF"
+   },
+   "branding_turkey_elements_product_shortname_pre": {
+      "message": "GF hakkında"
+   },
+   "branding_turkey_elements_search_navigate_title": {
+      "message": "Yandex ile bul"
+   },
+   "branding_turkey_elements_search_placeholder": {
+      "message": "Web'de aramak için buraya yazabilirsin"
+   },
+   "branding_turkey_elements_thumb_facebook": {
+      "message": "Facebook"
+   },
+   "branding_turkey_elements_thumb_milliyet": {
+      "message": "Milliyet"
+   },
+   "branding_turkey_elements_thumb_mynet": {
+      "message": "Mynet"
+   },
+   "branding_turkey_elements_thumb_yamail": {
+      "message": "Yandex.Mail"
+   },
+   "branding_turkey_elements_thumb_yamaps": {
+      "message": "Yandex.Haritalar"
+   },
+   "branding_turkey_elements_thumb_yamarket": {
+      "message": "Yandex.Market"
+   },
+   "branding_turkey_elements_thumb_yandex": {
+      "message": "Yandex"
+   },
+   "branding_turkey_elements_thumb_yasoft": {
+      "message": "Yandex.Uygulamalar"
+   },
+   "branding_turkey_elements_thumb_youtube": {
+      "message": "Youtube"
+   },
+   "branding_turkey_elements_vendor_name_acc": {
+      "message": "Yandex"
+   },
+   "branding_turkey_elements_vendor_name_dat": {
+      "message": "Yandex'e"
+   },
+   "branding_turkey_elements_vendor_name_gen": {
+      "message": "Yandex'in"
+   },
+   "branding_turkey_elements_vendor_name_ins": {
+      "message": "Yandex ile"
+   },
+   "branding_turkey_elements_vendor_name_loc": {
+      "message": "Yandex'te"
+   },
+   "branding_turkey_elements_vendor_name_nom": {
+      "message": "Yandex"
+   },
+   "branding_turkey_elements_vendor_name_pre": {
+      "message": "Yandex"
+   },
+   "branding_turkey_elements_yagorsel_label": {
+      "message": "Yandex.Görsel"
+   },
+   "branding_turkey_elements_yagorsel_search_site_url": {
+      "message": "http://gorsel.yandex.com.tr/yandsearch?text={searchTerms}&surl_manually=true&site={searchSite}"
+   },
+   "branding_turkey_elements_yagorsel_search_tooltip": {
+      "message": "Yandex.Görsel'de bul"
+   },
+   "branding_turkey_elements_yagorsel_search_url": {
+      "message": "http://gorsel.yandex.com.tr/yandsearch?text={searchTerms}"
+   },
+   "branding_turkey_elements_yagorsel_suggestions_url": {
+      "message": "http://suggest-images.yandex.com.tr/suggest-ff.cgi?part={searchTerms}&uil=tr"
+   },
+   "branding_turkey_elements_yagorsel_url": {
+      "message": "http://www.gorsel.yandex.com.tr/"
+   },
+   "branding_turkey_elements_yahaber_label": {
+      "message": "Yandex.Haberler"
+   },
+   "branding_turkey_elements_yahaber_search_tooltip": {
+      "message": "Yandex.Haberler'de bul"
+   },
+   "branding_turkey_elements_yahaber_search_url": {
+      "message": "http://haber.yandex.com.tr/yandsearch?text={searchTerms}&rpt=nnews2&grhow=clutop"
+   },
+   "branding_turkey_elements_yahaber_url": {
+      "message": "http://haber.yandex.com.tr/"
+   },
+   "branding_turkey_elements_yandex_label": {
+      "message": "Yandex"
+   },
+   "branding_turkey_elements_yandex_qs_keywordsearch": {
+      "message": "http://yandex.com.tr/search/?clid={clid9}&text={searchTerms}"
+   },
+   "branding_turkey_elements_yandex_search_site_url": {
+      "message": "http://yandex.com.tr/search/?text={searchTerms}&surl_manually=true&surl={searchSite}"
+   },
+   "branding_turkey_elements_yandex_search_tooltip": {
+      "message": "Yandex'te bul"
+   },
+   "branding_turkey_elements_yandex_search_url": {
+      "message": "http://yandex.com.tr/search/?text={searchTerms}"
+   },
+   "branding_turkey_elements_yandex_suggestions_url": {
+      "message": "http://suggest.yandex.com.tr/suggest-ff.cgi?part={searchTerms}&uil=tr"
+   },
+   "branding_turkey_elements_yandex_url": {
+      "message": "http://www.yandex.com.tr/"
+   },
+   "branding_turkey_elements_yavideo_label": {
+      "message": "Yandex.Video"
+   },
+   "branding_turkey_elements_yavideo_search_tooltip": {
+      "message": "Yandex.Video'da bul"
+   },
+   "branding_turkey_elements_yavideo_search_url": {
+      "message": "http://video.yandex.com.tr/#search?text={searchTerms}"
+   },
+   "branding_turkey_elements_yavideo_suggestions_url": {
+      "message": "http://suggest-video.yandex.com.tr/suggest-ff.cgi?part={searchTerms}&uil=tr"
+   },
+   "branding_turkey_elements_yavideo_url": {
+      "message": "http://www.video.yandex.com.tr/"
+   },
+   "branding_turkey_fenerbahce_locationbar_search_url": {
+      "message": "http://yandex.com.tr/search/?clid={clid9}&text="
+   },
+   "branding_turkey_fenerbahce_logo_alt": {
+      "message": "Yandex"
+   },
+   "branding_turkey_fenerbahce_logo_title": {
+      "message": "Yandex"
+   },
+   "branding_turkey_fenerbahce_product_copyright": {
+      "message": "© 2012—2015 [Yandex](http://www.yandex.com.tr)"
+   },
+   "branding_turkey_fenerbahce_product_copyright_fx": {
+      "message": "© 2012—2015 [Yandex](http://www.yandex.com.tr)"
+   },
+   "branding_turkey_fenerbahce_product_copyright_ie": {
+      "message": "© 2012—2015 [Yandex](http://www.yandex.com.tr)"
+   },
+   "branding_turkey_fenerbahce_product_description": {
+      "message": "Görsel Favoriler'de en sevdiğiniz siteleri bir araya getirin. Siteler arasında kolay geçiş için tek yapmanız gereken küçük resme tıklamak. Sayfadaki resim sayısını, yerini ya da arka plan resmini istediğiniz gibi değiştirip kişiselleştirin. Ayrıca sayfada yer alan Yandex arama satırı ile internette kolayca arama yapın. "
+   },
+   "branding_turkey_fenerbahce_product_goodbye_url_fx": {
+      "message": "https://element.yandex.com.tr/goodbye/vb/"
+   },
+   "branding_turkey_fenerbahce_product_homepage": {
+      "message": "http://visual.yandex.com.tr"
+   },
+   "branding_turkey_fenerbahce_product_license_url_fx": {
+      "message": "http://legal.yandex.com.tr/desktop_software_agreement/"
+   },
+   "branding_turkey_fenerbahce_product_license_url_ie": {
+      "message": "http://legal.yandex.com.tr/desktop_software_agreement/"
+   },
+   "branding_turkey_fenerbahce_product_name_acc": {
+      "message": "Görsel Favoriler"
+   },
+   "branding_turkey_fenerbahce_product_name_dat": {
+      "message": "Görsel Favoriler'e"
+   },
+   "branding_turkey_fenerbahce_product_name_gen": {
+      "message": "Görsel Favoriler'in"
+   },
+   "branding_turkey_fenerbahce_product_name_ins": {
+      "message": "Görsel Favoriler'iyle"
+   },
+   "branding_turkey_fenerbahce_product_name_loc": {
+      "message": "Görsel Favoriler"
+   },
+   "branding_turkey_fenerbahce_product_name_nom": {
+      "message": "Görsel Favoriler"
+   },
+   "branding_turkey_fenerbahce_product_name_pre": {
+      "message": "Görsel Favoriler hakkında"
+   },
+   "branding_turkey_fenerbahce_product_note_fx": {
+      "message": "Firefox için"
+   },
+   "branding_turkey_fenerbahce_product_note_ie": {
+      "message": "Internet Explorer için"
+   },
+   "branding_turkey_fenerbahce_product_shortname_acc": {
+      "message": "GF"
+   },
+   "branding_turkey_fenerbahce_product_shortname_dat": {
+      "message": "GF"
+   },
+   "branding_turkey_fenerbahce_product_shortname_gen": {
+      "message": "GF"
+   },
+   "branding_turkey_fenerbahce_product_shortname_ins": {
+      "message": "GF"
+   },
+   "branding_turkey_fenerbahce_product_shortname_loc": {
+      "message": "Görsel Favoriler"
+   },
+   "branding_turkey_fenerbahce_product_shortname_nom": {
+      "message": "GF"
+   },
+   "branding_turkey_fenerbahce_product_shortname_pre": {
+      "message": "GF hakkında"
+   },
+   "branding_turkey_fenerbahce_search_navigate_title": {
+      "message": "Yandex ile bul"
+   },
+   "branding_turkey_fenerbahce_search_placeholder": {
+      "message": "Web'de aramak için buraya yazabilirsin"
+   },
+   "branding_turkey_fenerbahce_thumb_1": {
+      "message": "FB Yandex"
+   },
+   "branding_turkey_fenerbahce_thumb_10": {
+      "message": "Yemek Sepeti"
+   },
+   "branding_turkey_fenerbahce_thumb_11": {
+      "message": "Ekşisözlük"
+   },
+   "branding_turkey_fenerbahce_thumb_12": {
+      "message": "Gittigidiyor"
+   },
+   "branding_turkey_fenerbahce_thumb_13": {
+      "message": "Dailymotion"
+   },
+   "branding_turkey_fenerbahce_thumb_14": {
+      "message": "Hotmail"
+   },
+   "branding_turkey_fenerbahce_thumb_15": {
+      "message": "Google"
+   },
+   "branding_turkey_fenerbahce_thumb_17": {
+      "message": "Izlesene.com"
+   },
+   "branding_turkey_fenerbahce_thumb_18": {
+      "message": "Tureng.com"
+   },
+   "branding_turkey_fenerbahce_thumb_19": {
+      "message": "Turkish Airlines"
+   },
+   "branding_turkey_fenerbahce_thumb_2": {
+      "message": "Fenerbahce.Org"
+   },
+   "branding_turkey_fenerbahce_thumb_20": {
+      "message": "Biletix"
+   },
+   "branding_turkey_fenerbahce_thumb_21": {
+      "message": "Kariyer.net"
+   },
+   "branding_turkey_fenerbahce_thumb_22": {
+      "message": "Sahibinden"
+   },
+   "branding_turkey_fenerbahce_thumb_23": {
+      "message": "Hepsiburada"
+   },
+   "branding_turkey_fenerbahce_thumb_24": {
+      "message": "Mynet"
+   },
+   "branding_turkey_fenerbahce_thumb_25": {
+      "message": "MSN Türkiye"
+   },
+   "branding_turkey_fenerbahce_thumb_26": {
+      "message": "HABERTÜRK"
+   },
+   "branding_turkey_fenerbahce_thumb_27": {
+      "message": "Sabah"
+   },
+   "branding_turkey_fenerbahce_thumb_28": {
+      "message": "HÜRRİYET"
+   },
+   "branding_turkey_fenerbahce_thumb_29": {
+      "message": "Milliyet Haber"
+   },
+   "branding_turkey_fenerbahce_thumb_3": {
+      "message": "Fenerium"
+   },
+   "branding_turkey_fenerbahce_thumb_30": {
+      "message": "Tatil"
+   },
+   "branding_turkey_fenerbahce_thumb_31": {
+      "message": "Beyazperde"
+   },
+   "branding_turkey_fenerbahce_thumb_32": {
+      "message": "ekolay"
+   },
+   "branding_turkey_fenerbahce_thumb_33": {
+      "message": "e-Okul Yönetim Bilgi Sistemi"
+   },
+   "branding_turkey_fenerbahce_thumb_34": {
+      "message": "Türk Dil Kurumu Ana Sayfası"
+   },
+   "branding_turkey_fenerbahce_thumb_4": {
+      "message": "Fenerbahce.Com.Tr"
+   },
+   "branding_turkey_fenerbahce_thumb_5": {
+      "message": "Facebook"
+   },
+   "branding_turkey_fenerbahce_thumb_6": {
+      "message": "Twitter"
+   },
+   "branding_turkey_fenerbahce_thumb_7": {
+      "message": "Wikipedia"
+   },
+   "branding_turkey_fenerbahce_thumb_8": {
+      "message": "Yandex.Mail"
+   },
+   "branding_turkey_fenerbahce_thumb_9": {
+      "message": "Youtube"
+   },
+   "branding_turkey_fenerbahce_vendor_name_acc": {
+      "message": "Yandex"
+   },
+   "branding_turkey_fenerbahce_vendor_name_dat": {
+      "message": "Yandex'e"
+   },
+   "branding_turkey_fenerbahce_vendor_name_gen": {
+      "message": "Yandex'in"
+   },
+   "branding_turkey_fenerbahce_vendor_name_ins": {
+      "message": "Yandex ile"
+   },
+   "branding_turkey_fenerbahce_vendor_name_loc": {
+      "message": "Yandex'te"
+   },
+   "branding_turkey_fenerbahce_vendor_name_nom": {
+      "message": "Yandex"
+   },
+   "branding_turkey_fenerbahce_vendor_name_pre": {
+      "message": "Yandex"
+   },
+   "branding_turkey_fenerbahce_yagorsel_label": {
+      "message": "Yandex.Görsel"
+   },
+   "branding_turkey_fenerbahce_yagorsel_search_site_url": {
+      "message": "http://gorsel.yandex.com.tr/yandsearch?text={searchTerms}&surl_manually=true&site={searchSite}"
+   },
+   "branding_turkey_fenerbahce_yagorsel_search_tooltip": {
+      "message": "Yandex.Görsel'de bul"
+   },
+   "branding_turkey_fenerbahce_yagorsel_search_url": {
+      "message": "http://gorsel.yandex.com.tr/yandsearch?text={searchTerms}"
+   },
+   "branding_turkey_fenerbahce_yagorsel_suggestions_url": {
+      "message": "http://suggest-images.yandex.com.tr/suggest-ff.cgi?part={searchTerms}&uil=tr"
+   },
+   "branding_turkey_fenerbahce_yagorsel_url": {
+      "message": "http://www.gorsel.yandex.com.tr/"
+   },
+   "branding_turkey_fenerbahce_yahaber_label": {
+      "message": "Yandex.Haberler"
+   },
+   "branding_turkey_fenerbahce_yahaber_search_tooltip": {
+      "message": "Yandex.Haberler'de bul"
+   },
+   "branding_turkey_fenerbahce_yahaber_search_url": {
+      "message": "http://haber.yandex.com.tr/yandsearch?text={searchTerms}&rpt=nnews2&grhow=clutop"
+   },
+   "branding_turkey_fenerbahce_yahaber_url": {
+      "message": "http://haber.yandex.com.tr/"
+   },
+   "branding_turkey_fenerbahce_yandex_label": {
+      "message": "Yandex"
+   },
+   "branding_turkey_fenerbahce_yandex_qs_keywordsearch": {
+      "message": "http://yandex.com.tr/search/?clid={clid9}&text={searchTerms}"
+   },
+   "branding_turkey_fenerbahce_yandex_search_site_url": {
+      "message": "http://yandex.com.tr/search/?text={searchTerms}&surl_manually=true&surl={searchSite}"
+   },
+   "branding_turkey_fenerbahce_yandex_search_tooltip": {
+      "message": "Yandex'te bul"
+   },
+   "branding_turkey_fenerbahce_yandex_search_url": {
+      "message": "http://yandex.com.tr/search/?text={searchTerms}"
+   },
+   "branding_turkey_fenerbahce_yandex_suggestions_url": {
+      "message": "http://suggest.yandex.com.tr/suggest-ff.cgi?part={searchTerms}&uil=tr"
+   },
+   "branding_turkey_fenerbahce_yandex_url": {
+      "message": "http://www.yandex.com.tr/"
+   },
+   "branding_turkey_fenerbahce_yavideo_label": {
+      "message": "Yandex.Video"
+   },
+   "branding_turkey_fenerbahce_yavideo_search_tooltip": {
+      "message": "Yandex.Video'da bul"
+   },
+   "branding_turkey_fenerbahce_yavideo_search_url": {
+      "message": "http://video.yandex.com.tr/#search?text={searchTerms}"
+   },
+   "branding_turkey_fenerbahce_yavideo_suggestions_url": {
+      "message": "http://suggest-video.yandex.com.tr/suggest-ff.cgi?part={searchTerms}&uil=tr"
+   },
+   "branding_turkey_fenerbahce_yavideo_url": {
+      "message": "http://www.video.yandex.com.tr/"
+   },
+   "branding_turkey_galatasaray_locationbar_search_url": {
+      "message": "http://yandex.com.tr/search/?clid={clid9}&text="
+   },
+   "branding_turkey_galatasaray_logo_alt": {
+      "message": "Yandex"
+   },
+   "branding_turkey_galatasaray_logo_title": {
+      "message": "Yandex"
+   },
+   "branding_turkey_galatasaray_product_copyright": {
+      "message": "© 2012—2015 [Yandex](http://www.yandex.com.tr)"
+   },
+   "branding_turkey_galatasaray_product_copyright_fx": {
+      "message": "© 2012—2015 [Yandex](http://www.yandex.com.tr)"
+   },
+   "branding_turkey_galatasaray_product_copyright_ie": {
+      "message": "© 2012—2015 [Yandex](http://www.yandex.com.tr)"
+   },
+   "branding_turkey_galatasaray_product_description": {
+      "message": "Görsel Favoriler'de en sevdiğiniz siteleri bir araya getirin. Siteler arasında kolay geçiş için tek yapmanız gereken küçük resme tıklamak. Sayfadaki resim sayısını, yerini ya da arka plan resmini istediğiniz gibi değiştirip kişiselleştirin. Ayrıca sayfada yer alan Yandex arama satırı ile internette kolayca arama yapın. "
+   },
+   "branding_turkey_galatasaray_product_goodbye_url_fx": {
+      "message": "https://element.yandex.com.tr/goodbye/vb/"
+   },
+   "branding_turkey_galatasaray_product_homepage": {
+      "message": "http://visual.yandex.com.tr"
+   },
+   "branding_turkey_galatasaray_product_license_url_fx": {
+      "message": "http://legal.yandex.com.tr/desktop_software_agreement/"
+   },
+   "branding_turkey_galatasaray_product_license_url_ie": {
+      "message": "http://legal.yandex.com.tr/desktop_software_agreement/"
+   },
+   "branding_turkey_galatasaray_product_name_acc": {
+      "message": "Görsel Favoriler"
+   },
+   "branding_turkey_galatasaray_product_name_dat": {
+      "message": "Görsel Favoriler'e"
+   },
+   "branding_turkey_galatasaray_product_name_gen": {
+      "message": "Görsel Favoriler'in"
+   },
+   "branding_turkey_galatasaray_product_name_ins": {
+      "message": "Görsel Favoriler'iyle"
+   },
+   "branding_turkey_galatasaray_product_name_loc": {
+      "message": "Görsel Favoriler"
+   },
+   "branding_turkey_galatasaray_product_name_nom": {
+      "message": "Görsel Favoriler"
+   },
+   "branding_turkey_galatasaray_product_name_pre": {
+      "message": "Görsel Favoriler hakkında"
+   },
+   "branding_turkey_galatasaray_product_note_fx": {
+      "message": "Firefox için"
+   },
+   "branding_turkey_galatasaray_product_note_ie": {
+      "message": "Internet Explorer için"
+   },
+   "branding_turkey_galatasaray_product_shortname_acc": {
+      "message": "GF"
+   },
+   "branding_turkey_galatasaray_product_shortname_dat": {
+      "message": "GF"
+   },
+   "branding_turkey_galatasaray_product_shortname_gen": {
+      "message": "GF"
+   },
+   "branding_turkey_galatasaray_product_shortname_ins": {
+      "message": "GF"
+   },
+   "branding_turkey_galatasaray_product_shortname_loc": {
+      "message": "Görsel Favoriler"
+   },
+   "branding_turkey_galatasaray_product_shortname_nom": {
+      "message": "GF"
+   },
+   "branding_turkey_galatasaray_product_shortname_pre": {
+      "message": "GF hakkında"
+   },
+   "branding_turkey_galatasaray_search_navigate_title": {
+      "message": "Yandex ile bul"
+   },
+   "branding_turkey_galatasaray_search_placeholder": {
+      "message": "Web'de aramak için buraya yazabilirsin"
+   },
+   "branding_turkey_galatasaray_thumb_1": {
+      "message": "GS Yandex"
+   },
+   "branding_turkey_galatasaray_thumb_10": {
+      "message": "Yemek Sepeti"
+   },
+   "branding_turkey_galatasaray_thumb_11": {
+      "message": "Ekşisözlük"
+   },
+   "branding_turkey_galatasaray_thumb_12": {
+      "message": "Gittigidiyor"
+   },
+   "branding_turkey_galatasaray_thumb_13": {
+      "message": "Dailymotion"
+   },
+   "branding_turkey_galatasaray_thumb_14": {
+      "message": "Hotmail"
+   },
+   "branding_turkey_galatasaray_thumb_15": {
+      "message": "Google"
+   },
+   "branding_turkey_galatasaray_thumb_18": {
+      "message": "Tureng.com"
+   },
+   "branding_turkey_galatasaray_thumb_19": {
+      "message": "Turkish Airlines"
+   },
+   "branding_turkey_galatasaray_thumb_2": {
+      "message": "Galatasaray"
+   },
+   "branding_turkey_galatasaray_thumb_20": {
+      "message": "Biletix"
+   },
+   "branding_turkey_galatasaray_thumb_21": {
+      "message": "Kariyer.net"
+   },
+   "branding_turkey_galatasaray_thumb_22": {
+      "message": "Sahibinden"
+   },
+   "branding_turkey_galatasaray_thumb_23": {
+      "message": "Hepsiburada"
+   },
+   "branding_turkey_galatasaray_thumb_24": {
+      "message": "Mynet"
+   },
+   "branding_turkey_galatasaray_thumb_25": {
+      "message": "MSN Türkiye"
+   },
+   "branding_turkey_galatasaray_thumb_26": {
+      "message": "HABERTÜRK"
+   },
+   "branding_turkey_galatasaray_thumb_27": {
+      "message": "Sabah"
+   },
+   "branding_turkey_galatasaray_thumb_28": {
+      "message": "HÜRRİYET"
+   },
+   "branding_turkey_galatasaray_thumb_29": {
+      "message": "Milliyet Haber"
+   },
+   "branding_turkey_galatasaray_thumb_3": {
+      "message": "Twitter"
+   },
+   "branding_turkey_galatasaray_thumb_30": {
+      "message": "Tatil"
+   },
+   "branding_turkey_galatasaray_thumb_31": {
+      "message": "Beyazperde"
+   },
+   "branding_turkey_galatasaray_thumb_32": {
+      "message": "ekolay"
+   },
+   "branding_turkey_galatasaray_thumb_33": {
+      "message": "e-Okul Yönetim Bilgi Sistemi"
+   },
+   "branding_turkey_galatasaray_thumb_34": {
+      "message": "Türk Dil Kurumu Ana Sayfası"
+   },
+   "branding_turkey_galatasaray_thumb_4": {
+      "message": "Gsstore"
+   },
+   "branding_turkey_galatasaray_thumb_5": {
+      "message": "Facebook"
+   },
+   "branding_turkey_galatasaray_thumb_6": {
+      "message": "Wikipedia"
+   },
+   "branding_turkey_galatasaray_thumb_7": {
+      "message": "Izlesene.com"
+   },
+   "branding_turkey_galatasaray_thumb_8": {
+      "message": "Yandex.Mail"
+   },
+   "branding_turkey_galatasaray_thumb_9": {
+      "message": "Youtube"
+   },
+   "branding_turkey_galatasaray_vendor_name_acc": {
+      "message": "Yandex"
+   },
+   "branding_turkey_galatasaray_vendor_name_dat": {
+      "message": "Yandex'e"
+   },
+   "branding_turkey_galatasaray_vendor_name_gen": {
+      "message": "Yandex'in"
+   },
+   "branding_turkey_galatasaray_vendor_name_ins": {
+      "message": "Yandex ile"
+   },
+   "branding_turkey_galatasaray_vendor_name_loc": {
+      "message": "Yandex'te"
+   },
+   "branding_turkey_galatasaray_vendor_name_nom": {
+      "message": "Yandex"
+   },
+   "branding_turkey_galatasaray_vendor_name_pre": {
+      "message": "Yandex"
+   },
+   "branding_turkey_galatasaray_yagorsel_label": {
+      "message": "Yandex.Görsel"
+   },
+   "branding_turkey_galatasaray_yagorsel_search_site_url": {
+      "message": "http://gorsel.yandex.com.tr/yandsearch?text={searchTerms}&surl_manually=true&site={searchSite}"
+   },
+   "branding_turkey_galatasaray_yagorsel_search_tooltip": {
+      "message": "Yandex.Görsel'de bul"
+   },
+   "branding_turkey_galatasaray_yagorsel_search_url": {
+      "message": "http://gorsel.yandex.com.tr/yandsearch?text={searchTerms}"
+   },
+   "branding_turkey_galatasaray_yagorsel_suggestions_url": {
+      "message": "http://suggest-images.yandex.com.tr/suggest-ff.cgi?part={searchTerms}&uil=tr"
+   },
+   "branding_turkey_galatasaray_yagorsel_url": {
+      "message": "http://www.gorsel.yandex.com.tr/"
+   },
+   "branding_turkey_galatasaray_yahaber_label": {
+      "message": "Yandex.Haberler"
+   },
+   "branding_turkey_galatasaray_yahaber_search_tooltip": {
+      "message": "Yandex.Haberler'de bul"
+   },
+   "branding_turkey_galatasaray_yahaber_search_url": {
+      "message": "http://haber.yandex.com.tr/yandsearch?text={searchTerms}&rpt=nnews2&grhow=clutop"
+   },
+   "branding_turkey_galatasaray_yahaber_url": {
+      "message": "http://haber.yandex.com.tr/"
+   },
+   "branding_turkey_galatasaray_yandex_label": {
+      "message": "Yandex"
+   },
+   "branding_turkey_galatasaray_yandex_qs_keywordsearch": {
+      "message": "http://yandex.com.tr/search/?clid={clid9}&text={searchTerms}"
+   },
+   "branding_turkey_galatasaray_yandex_search_site_url": {
+      "message": "http://yandex.com.tr/search/?text={searchTerms}&surl_manually=true&surl={searchSite}"
+   },
+   "branding_turkey_galatasaray_yandex_search_tooltip": {
+      "message": "Yandex'te bul"
+   },
+   "branding_turkey_galatasaray_yandex_search_url": {
+      "message": "http://yandex.com.tr/search/?text={searchTerms}"
+   },
+   "branding_turkey_galatasaray_yandex_suggestions_url": {
+      "message": "http://suggest.yandex.com.tr/suggest-ff.cgi?part={searchTerms}&uil=tr"
+   },
+   "branding_turkey_galatasaray_yandex_url": {
+      "message": "http://www.yandex.com.tr/"
+   },
+   "branding_turkey_galatasaray_yavideo_label": {
+      "message": "Yandex.Video"
+   },
+   "branding_turkey_galatasaray_yavideo_search_tooltip": {
+      "message": "Yandex.Video'da bul"
+   },
+   "branding_turkey_galatasaray_yavideo_search_url": {
+      "message": "http://video.yandex.com.tr/#search?text={searchTerms}"
+   },
+   "branding_turkey_galatasaray_yavideo_suggestions_url": {
+      "message": "http://suggest-video.yandex.com.tr/suggest-ff.cgi?part={searchTerms}&uil=tr"
+   },
+   "branding_turkey_galatasaray_yavideo_url": {
+      "message": "http://www.video.yandex.com.tr/"
+   },
+   "branding_ua_locationbar_search_url": {
+      "message": "http://yandex.ua/search/?clid={clid9}&text="
+   },
+   "branding_ua_logo_alt": {
+      "message": "Yandex"
+   },
+   "branding_ua_logo_title": {
+      "message": "Yandex ana sayfasına git"
+   },
+   "branding_ua_product_copyright": {
+      "message": "© 2012—2015 [Yandex](http://www.yandex.ua)"
+   },
+   "branding_ua_product_copyright_fx": {
+      "message": "© 2012—2015 [Yandex](http://www.yandex.com.tr)"
+   },
+   "branding_ua_product_copyright_ie": {
+      "message": "© 2012—2015 [Yandex](http://www.yandex.ua)"
+   },
+   "branding_ua_product_description": {
+      "message": "Görsel Favoriler'de en sevdiğiniz siteleri bir araya getirin. Siteler arasında kolay geçiş için tek yapmanız gereken küçük görsele tıklamak. Sayfadaki görsel sayısını, yerini ya da arkaplan resmini istediğiniz gibi değiştirip kişiselleştirin. Ayrıca sayfada yer alan Yandex arama satırı ile internette kolayca arama yapın. "
+   },
+   "branding_ua_product_goodbye_url_fx": {
+      "message": "https://element.yandex.ua/goodbye/vb/"
+   },
+   "branding_ua_product_homepage": {
+      "message": "http://visual.yandex.ua"
+   },
+   "branding_ua_product_license_url_fx": {
+      "message": "http://legal.yandex.com.tr/desktop_software_agreement/"
+   },
+   "branding_ua_product_license_url_ie": {
+      "message": "http://legal.yandex.com.tr/desktop_software_agreement/"
+   },
+   "branding_ua_product_name_acc": {
+      "message": "Görsel Favoriler"
+   },
+   "branding_ua_product_name_dat": {
+      "message": "Görsel Favoriler'e"
+   },
+   "branding_ua_product_name_gen": {
+      "message": "Görsel Favoriler'in"
+   },
+   "branding_ua_product_name_ins": {
+      "message": "Görsel Favoriler'iyle"
+   },
+   "branding_ua_product_name_loc": {
+      "message": "Görsel Favoriler"
+   },
+   "branding_ua_product_name_nom": {
+      "message": "Görsel Favoriler"
+   },
+   "branding_ua_product_name_pre": {
+      "message": "Görsel Favoriler hakkında"
+   },
+   "branding_ua_product_note_fx": {
+      "message": "Firefox için"
+   },
+   "branding_ua_product_note_ie": {
+      "message": "Internet Explorer için"
+   },
+   "branding_ua_product_shortname_acc": {
+      "message": "GF"
+   },
+   "branding_ua_product_shortname_dat": {
+      "message": "GF"
+   },
+   "branding_ua_product_shortname_gen": {
+      "message": "GF"
+   },
+   "branding_ua_product_shortname_ins": {
+      "message": "GF"
+   },
+   "branding_ua_product_shortname_loc": {
+      "message": "Görsel Favoriler"
+   },
+   "branding_ua_product_shortname_nom": {
+      "message": "GF"
+   },
+   "branding_ua_product_shortname_pre": {
+      "message": "GF hakkında"
+   },
+   "branding_ua_search_navigate_title": {
+      "message": "Yandex ile bul"
+   },
+   "branding_ua_thumb_korrespondent": {
+      "message": "Yazışan"
+   },
+   "branding_ua_thumb_vkontakte": {
+      "message": "VKontakte"
+   },
+   "branding_ua_thumb_yamail": {
+      "message": "Yandex.Mail"
+   },
+   "branding_ua_thumb_yamaps": {
+      "message": "Yandex.Haritalar"
+   },
+   "branding_ua_thumb_yamarket": {
+      "message": "Yandex.Market"
+   },
+   "branding_ua_thumb_yamusic": {
+      "message": "Yandex.Müzik"
+   },
+   "branding_ua_thumb_yandex": {
+      "message": "Yandex"
+   },
+   "branding_ua_thumb_yasoft": {
+      "message": "Yandex.Uygulamalar"
+   },
+   "branding_ua_thumb_youtube": {
+      "message": "Youtube"
+   },
+   "branding_ua_vendor_name_acc": {
+      "message": "Yandex"
+   },
+   "branding_ua_vendor_name_dat": {
+      "message": "Yandex'e"
+   },
+   "branding_ua_vendor_name_gen": {
+      "message": "Yandex'in"
+   },
+   "branding_ua_vendor_name_ins": {
+      "message": "Yandex ile"
+   },
+   "branding_ua_vendor_name_loc": {
+      "message": "Yandex'te"
+   },
+   "branding_ua_vendor_name_nom": {
+      "message": "Yandex"
+   },
+   "branding_ua_vendor_name_pre": {
+      "message": "Yandex"
+   },
+   "branding_ua_yandex_label": {
+      "message": "Yandex"
+   },
+   "branding_ua_yandex_qs_keywordsearch": {
+      "message": "http://yandex.ua/search/?clid={clid9}&text={searchTerms}"
+   },
+   "branding_ua_yandex_qs_suggestions": {
+      "message": "http://suggest.yandex.ua/suggest-ff.cgi?uil=tr&part={searchTerms}"
+   },
+   "branding_ua_yandex_qs_url": {
+      "message": "http://yandex.ua/search/?clid={clid6}&text={searchTerms}"
+   },
+   "branding_ua_yandex_search_site_url": {
+      "message": "http://yandex.ua/search/?text={searchTerms}&surl_manually=true&surl={searchSite}"
+   },
+   "branding_ua_yandex_search_tooltip": {
+      "message": "Yandex'te bul"
+   },
+   "branding_ua_yandex_search_url": {
+      "message": "http://yandex.ua/search/?text={searchTerms}"
+   },
+   "branding_ua_yandex_url": {
+      "message": "http://www.yandex.ua"
+   },
+   "else_goodbye_page_url": {
+      "message": "https://element.yandex.com.tr/goodbye/vb/"
+   },
+   "layout_advertisement_addThumb_text": {
+      "message": "Yeni favori eklemek için buraya tıklayın"
+   },
+   "layout_advertisement_backgrounds_done": {
+      "message": "Bitti"
+   },
+   "layout_advertisement_homepage_done": {
+      "message": "Yandex açılış sayfası olarak ayarlandı"
+   },
+   "layout_advertisement_homepage_setDefault": {
+      "message": "Yandex'i [açılış sayfası] olarak ayarla"
+   },
+   "layout_advertisement_search_done": {
+      "message": "Yandex varsayılan arama motoru olarak ayarlandı"
+   },
+   "layout_advertisement_search_setDefault": {
+      "message": "Yandex'i [varsayılan arama motoru] olarak ayarla"
+   },
+   "layout_advertisement_yandexBrowser_docs": {
+      "message": "Belgeleri doğrudan Yandex.Browser'da açın"
+   },
+   "layout_advertisement_yandexBrowser_downloads": {
+      "message": "İndir"
+   },
+   "layout_advertisement_yandexBrowser_open": {
+      "message": "Yandex.Browser'ı aç"
+   },
+   "layout_advertisement_yandexBrowser_updated": {
+      "message": "Yenilenmiş Yandex.Browser'ı deneyin"
+   },
+   "layout_app_closedWindow": {
+      "message": "Kapatılan pencere"
+   },
+   "layout_app_confirmRemoveThumb": {
+      "message": "Favori silinsin mi?"
+   },
+   "layout_app_editThumb": {
+      "message": "ayarlar"
+   },
+   "layout_app_empty": {
+      "message": "Boş "
+   },
+   "layout_app_name": {
+      "message": "{product1.nom}"
+   },
+   "layout_app_newBackgroundsAdvert": {
+      "message": "Yeni arkaplanları deneyin"
+   },
+   "layout_app_noInternet": {
+      "message": "Sunucu ile bağlantı yok. Daha sonra tekrar deneyin."
+   },
+   "layout_app_pinThumb": {
+      "message": "ekle"
+   },
+   "layout_app_removeThumb": {
+      "message": "sil"
+   },
+   "layout_app_searchButtonTitle": {
+      "message": "Bul "
+   },
+   "layout_app_searchExampleTitle": {
+      "message": "Örneğin"
+   },
+   "layout_app_searchTutorial_description": {
+      "message": "Buraya sadece URL değil, Yandex'te aramak istediğiniz sorgularınızı da girebilirsiniz."
+   },
+   "layout_app_searchTutorial_example": {
+      "message": "Kongo'nun başkenti"
+   },
+   "layout_app_searchTutorial_thanks": {
+      "message": "Tamam"
+   },
+   "layout_app_setBackgroundsAdvert": {
+      "message": "Arkaplan, ayarlardan değiştirilebilir"
+   },
+   "layout_app_sync": {
+      "message": "Eşitleme"
+   },
+   "layout_app_unpinThumb": {
+      "message": "kaldır"
+   },
+   "layout_auth_addUser": {
+      "message": "Başka isimle giriş yap"
+   },
+   "layout_auth_passport": {
+      "message": "Pasaport"
+   },
+   "layout_auth_signin": {
+      "message": "Giriş yap"
+   },
+   "layout_auth_signout": {
+      "message": "Çıkış"
+   },
+   "layout_auth_tune": {
+      "message": "{vendor.gen} ayarları"
+   },
+   "layout_bookmarks_otherBookmarks": {
+      "message": "Diğer favoriler"
+   },
+   "layout_contextmenu_addThumb": {
+      "message": "Favoriyi ekle"
+   },
+   "layout_contextmenu_editThumb": {
+      "message": "Favori ayarları"
+   },
+   "layout_contextmenu_openSettings": {
+      "message": "Görsel favorilerde arkaplanı değiştir"
+   },
+   "layout_contextmenu_pinThumb": {
+      "message": "Favoriyi sabitle"
+   },
+   "layout_contextmenu_removeThumb": {
+      "message": "Favoriyi sil"
+   },
+   "layout_contextmenu_unpinThumb": {
+      "message": "Favoriyi kaldır"
+   },
+   "layout_dialog_cancel": {
+      "message": "İptal"
+   },
+   "layout_dialog_no": {
+      "message": "Hayır"
+   },
+   "layout_dialog_ok": {
+      "message": "Tamam"
+   },
+   "layout_dialog_yes": {
+      "message": "Evet"
+   },
+   "layout_footer_addThumb": {
+      "message": "Favori ekle"
+   },
+   "layout_footer_apps": {
+      "message": "Uygulamalar "
+   },
+   "layout_footer_apps_missing": {
+      "message": "Hiçbir uygulama yok"
+   },
+   "layout_footer_bookmarks": {
+      "message": "Favoriler"
+   },
+   "layout_footer_closedTabs": {
+      "message": "Kapatılmış sekmeler"
+   },
+   "layout_footer_downloads": {
+      "message": "İndirilenler"
+   },
+   "layout_footer_history": {
+      "message": "Geçmiş "
+   },
+   "layout_modalStat_accept": {
+      "message": "Evet"
+   },
+   "layout_modalStat_cancel": {
+      "message": "Hayır"
+   },
+   "layout_modalStat_header": {
+      "message": "{vendor.dat} özelliklerini geliştirmemize yardımcı olun"
+   },
+   "layout_modalStat_list_collect": {
+      "message": "Programa katılarak şu öğeler hakkında isimsiz verilerin toplanmasına izin vermek ister misiniz"
+   },
+   "layout_modalStat_list_item_addon": {
+      "message": "tarayıcılar için {vendor.gen} eklentileri"
+   },
+   "layout_modalStat_list_item_bookmarks": {
+      "message": "favoriler"
+   },
+   "layout_modalStat_list_item_history": {
+      "message": "ziyaret edilen web siteleri"
+   },
+   "layout_modalStat_moreInfoLink": {
+      "message": "http://legal.yandex.com.tr/confidential/"
+   },
+   "layout_modalStat_moreInfoText": {
+      "message": "Daha fazla bilgi"
+   },
+   "layout_modalStat_text": {
+      "message": "Servislerimizi daha da geliştirmek amacıyla kullanıcıların tarayıcısında {vendor.nom} eklentileriyle çalışma şekline dair kapsamlı istatistikler toplarız. Kullanıcı verilerinin {vendor.nom} tarafından nasıl işlendiğine dair ayrıntılı bilgi için [Gizlilik politikası] bölümüne geçin."
+   },
+   "layout_modal_cancel": {
+      "message": "İptal"
+   },
+   "layout_modal_ok": {
+      "message": "Tamam"
+   },
+   "layout_restorepopup_button": {
+      "message": "İptal et"
+   },
+   "layout_restorepopup_tumb": {
+      "message": "Favori silindi"
+   },
+   "layout_restorepopup_tumbs": {
+      "message": "{N} favori silindi"
+   },
+   "layout_rightchoice_text": {
+      "message": "Görsel Favorilerinizin yeni sekmede açılması için \"Değişiklikleri koru\" butonuna tıklayın."
+   },
+   "layout_settings": {
+      "message": "Ayarlar "
+   },
+   "layout_settings_backgroundImage": {
+      "message": "Arkaplan görseli"
+   },
+   "layout_settings_cancel": {
+      "message": "İptal  "
+   },
+   "layout_settings_collapsed": {
+      "message": "Diğer ayarlar"
+   },
+   "layout_settings_copyright": {
+      "message": "{branding}"
+   },
+   "layout_settings_editTitle": {
+      "message": "Açıklamayı düzenle"
+   },
+   "layout_settings_isHomePage": {
+      "message": "{product1.nom} ana sayfanız olarak ayarlandı"
+   },
+   "layout_settings_lastVisited": {
+      "message": "Kısa süre önce ziyaret edilen"
+   },
+   "layout_settings_layoutX": {
+      "message": "yatay  "
+   },
+   "layout_settings_layoutY": {
+      "message": "dikey  "
+   },
+   "layout_settings_licenseAgreement_link": {
+      "message": "{branding}"
+   },
+   "layout_settings_licenseAgreement_title": {
+      "message": "Lisans Sözleşmesi"
+   },
+   "layout_settings_otherSoft": {
+      "message": "Yandex'in diğer uygulamaları"
+   },
+   "layout_settings_popularSites": {
+      "message": "Popüler"
+   },
+   "layout_settings_releaseDate": {
+      "message": "yayın tarihi"
+   },
+   "layout_settings_save": {
+      "message": "Kaydet"
+   },
+   "layout_settings_sendstat": {
+      "message": "Yandex servislerinin iyileştirilmesi için tarayıcının kullanım istatistiklerini otomatik ve anonim olarak paylaş"
+   },
+   "layout_settings_setAsHomePage": {
+      "message": "Ana sayfa olarak ayarla"
+   },
+   "layout_settings_showAdvertisement": {
+      "message": "Görsel favorilerde içerik önerilerini göster"
+   },
+   "layout_settings_showBookmarksPanel": {
+      "message": "Favori panelini göster"
+   },
+   "layout_settings_showSearchForm": {
+      "message": "Arama kutusunu göster"
+   },
+   "layout_settings_showSites": {
+      "message": "Favori türü"
+   },
+   "layout_settings_thumbStyle_logosAndScreenshots": {
+      "message": "Logolar ve ekran görüntüleri"
+   },
+   "layout_settings_thumbStyle_logosAndTitles": {
+      "message": "Logolar ve başlıklar"
+   },
+   "layout_settings_thumbStyle_screenshots": {
+      "message": "Sitelerin ekran görüntüleri"
+   },
+   "layout_settings_thumbsNum": {
+      "message": "Favori sayısı"
+   },
+   "layout_settings_titleInput_placeholder": {
+      "message": "Site adını girin"
+   },
+   "layout_settings_upload": {
+      "message": "Yükle"
+   },
+   "layout_settings_urlInput_placeholder": {
+      "message": "Site adresini girin"
+   },
+   "layout_sync_advertText": {
+      "message": "Deneyin; Görsel favorilerinizi, seçtiğiniz siteleri ve şifreleri hem evde hem de işyerindeki farklı bilgisayarlarda kullanabilirsiniz."
+   },
+   "layout_sync_closeAdvert": {
+      "message": "Kapat"
+   },
+   "layout_sync_enable": {
+      "message": "Eşitlemeyi aç"
+   },
+   "layout_sync_enabled": {
+      "message": "Eşitleme açık"
+   },
+   "layout_sync_offerText": {
+      "message": "Eşitlemeyi kullanıyorsunuz ancak Görsel Favorileri eşitlemiyorsunuz. Eşitlemek ister misiniz? [Evet, istiyorum](url)"
+   },
+   "layout_sync_outdated": {
+      "message": "Giriş bilgileri eskidi"
+   },
+   "layout_sync_repair": {
+      "message": "Düzelt"
+   },
+   "layout_sync_settings": {
+      "message": "Eşitleme ayarları"
+   },
+   "layout_sync_turnOn": {
+      "message": "Aç"
+   },
+   "layout_sync_vbDisabled": {
+      "message": "Görsel Favoriler eşitlemesi kapalı"
+   },
+   "layout_sync_vbEnabled": {
+      "message": "Görsel Favoriler eşitlemesi açık"
+   }
+}

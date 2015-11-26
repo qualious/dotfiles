@@ -1,0 +1,47 @@
+// vim:ts=4:sw=4:et
+{
+    "border": "pixel",
+    "current_border_width": 0,
+    "floating": "auto_off",
+    "geometry": {
+       "height": 1034,
+       "width": 1520,
+       "x": 390,
+       "y": 10
+    },
+    "name": "Steam",
+    "percent": 0.8,
+    "swallows": [
+       {
+       // "class": "^Steam$",
+       // "instance": "^Steam$",
+       // "title": "^Steam$",
+       // "transient_for": "^$"
+       }
+    ],
+    "type": "con"
+}
+
+{
+    "border": "pixel",
+    "current_border_width": 0,
+    "floating": "auto_off",
+    "geometry": {
+       "height": 1034,
+       "width": 945,
+       "x": 10,
+       "y": 10
+    },
+    "name": "Friends",
+    "percent": 0.2,
+    "swallows": [
+       {
+       // "class": "^Steam$",
+       // "instance": "^Steam$",
+       // "title": "^Friends$",
+       // "transient_for": "^$"
+       }
+    ],
+    "type": "con"
+}
+

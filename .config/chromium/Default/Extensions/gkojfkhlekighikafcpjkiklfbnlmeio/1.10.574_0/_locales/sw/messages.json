@@ -1,0 +1,90 @@
+{
+   "appDesc": {
+      "description": "Maelezo ya maombi, kuonyeshwa katika kuhifadhi mtandao.",
+      "message": "Upatikanaji Nje imefungwa katika nchi yako, kampuni au shule kwa Hola! Hola ni bure na rahisi kutumia!"
+   },
+   "appDesc_nohola": {
+      "description": "",
+      "message": "Upatikanaji tovuti imefungwa katika nchi yako, kampuni au shule! ugani hii ni bure na rahisi kutumia!"
+   },
+   "appName": {
+      "description": "jina la maombi, kuonyeshwa katika kuhifadhi mtandao.",
+      "message": "Hola Bora Internet"
+   },
+   "appName_nohola": {
+      "description": "",
+      "message": "Ukomo Bure Wakala VPN"
+   },
+   "back": {
+      "description": "",
+      "message": "nyuma"
+   },
+   "blocked": {
+      "description": "",
+      "message": "imefungwa?"
+   },
+   "changing": {
+      "description": "",
+      "message": "kubadilisha"
+   },
+   "conflict1": {
+      "description": "",
+      "message": "Mazingira yako wakala mtandao ni kuwa kusimamiwa na ugani mwingine"
+   },
+   "conflict2": {
+      "description": "",
+      "message": "Afya ugani kwamba"
+   },
+   "conflict3": {
+      "description": "",
+      "message": "kuendelea na Hola"
+   },
+   "evenmore": {
+      "description": "",
+      "message": "hata zaidi"
+   },
+   "initial": {
+      "description": "",
+      "message": "Initializing, tafadhali kusubiri"
+   },
+   "loading": {
+      "description": "",
+      "message": "Loading ..."
+   },
+   "more": {
+      "description": "",
+      "message": "zaidi ..."
+   },
+   "notworking": {
+      "description": "",
+      "message": "si kazi? chaguzi zaidi ..."
+   },
+   "old1": {
+      "description": "",
+      "message": "Sana toleo la zamani wa Chrome"
+   },
+   "old2": {
+      "description": "",
+      "message": "Chrome kutumia Hola"
+   },
+   "on": {
+      "description": "",
+      "message": "KUHUSU"
+   },
+   "settings": {
+      "description": "",
+      "message": "mazingira"
+   },
+   "sitelist": {
+      "description": "",
+      "message": "unblocker tovuti orodha"
+   },
+   "start": {
+      "description": "",
+      "message": "Kurejea kwenye kupata kuanza"
+   },
+   "update": {
+      "description": "",
+      "message": "Mwisho"
+   }
+}

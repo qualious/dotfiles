@@ -1,0 +1,24 @@
+{
+   "author": "Nils Caspar",
+   "content_scripts": [ {
+      "js": [ "js/jquery.min.js", "js/please.js", "js/autolinker.js", "js/staydown.js", "js/rechat.chrome.js", "js/rechat.js" ],
+      "matches": [ "http://www.twitch.tv/*" ]
+   } ],
+   "content_security_policy": "script-src 'self' https://api.twitch.tv/; object-src 'self'",
+   "description": "Adds chat messages from the past to your favorite Twitch VODs.",
+   "homepage_url": "https://www.rechat.org/",
+   "icons": {
+      "128": "icon128.png",
+      "16": "icon16.png",
+      "48": "icon48.png",
+      "64": "icon64.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAnxzX+f4LwpHCakLOyDhf8+pLEn7fQFnjjKIoZW10gu4nOaHrgsQCF4BQYfXb88SjoZb4XF/Tf6e6YqAf4LcGY0PpKnBJODISijnQvufMwLfoYT0JEW2ei4DE8ftwQJ+d7jtTTZS2fACHG2LqHLKRsU8vFo+GSz3KRi1Wr9LS12C0UbeH5r7AfkEqZBIWyGHRl0azpZrjBozzzlgC647ijBPosk9Zq4QJtccbBZ3/vAPpS6UnsSb80UhUTW7DD+wFwBTR0bU3sApV7X6619JqqWCjBHGJSaALzeNwEvGr7g+DW3Kffb0cjWFNJxFf0M8U7eSZ8g+BSGFTcEo7CNcKxwIDAQAB",
+   "manifest_version": 2,
+   "name": "ReChat for Twitch™",
+   "permissions": [ "http://www.twitch.tv/", "https://api.twitch.tv/kraken/", "http://*.rechat.org/" ],
+   "short_name": "ReChat",
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "0.18.1",
+   "web_accessible_resources": [ "js/injected.js" ]
+}

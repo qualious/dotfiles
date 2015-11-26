@@ -1,0 +1,1655 @@
+{
+   "branding_default_locationbar_search_url": {
+      "message": "http://yandex.ru/search/?clid={clid9}&text="
+   },
+   "branding_default_logo_alt": {
+      "message": "Yandex"
+   },
+   "branding_default_logo_title": {
+      "message": "Go to Yandex Home"
+   },
+   "branding_default_product_copyright": {
+      "message": "© 2012—2015 &quot;[Yandex](http://www.yandex.ru)&quot;"
+   },
+   "branding_default_product_copyright_fx": {
+      "message": "© 2012—2015 &quot;[Yandex](http://www.yandex.ru)&quot;"
+   },
+   "branding_default_product_copyright_ie": {
+      "message": "© 2012—2015 &quot;[Yandex](http://www.yandex.ru)&quot;"
+   },
+   "branding_default_product_description": {
+      "message": "Keep all your favorite sites in one place with Visual Bookmarks. Simply click on the one of the mini webpages to visit a site. You can customize the number and order in which the bookmarks are displayed, change the background image and search the web with Yandex."
+   },
+   "branding_default_product_goodbye_url_fx": {
+      "message": "https://element.yandex.ru/goodbye/vb/"
+   },
+   "branding_default_product_homepage": {
+      "message": "http://visual.yandex.ru"
+   },
+   "branding_default_product_license_url_fx": {
+      "message": "http://legal.yandex.ru/desktop_software_agreement/?lang=en"
+   },
+   "branding_default_product_license_url_ie": {
+      "message": "http://legal.yandex.ru/desktop_software_agreement/?lang=en"
+   },
+   "branding_default_product_name_acc": {
+      "message": "Visual Bookmarks"
+   },
+   "branding_default_product_name_dat": {
+      "message": "Visual Bookmarks"
+   },
+   "branding_default_product_name_gen": {
+      "message": "Visual Bookmarks"
+   },
+   "branding_default_product_name_ins": {
+      "message": "Visual Bookmarks"
+   },
+   "branding_default_product_name_loc": {
+      "message": "Visual Bookmarks"
+   },
+   "branding_default_product_name_nom": {
+      "message": "Visual Bookmarks"
+   },
+   "branding_default_product_name_pre": {
+      "message": "About Visual Bookmarks"
+   },
+   "branding_default_product_note_fx": {
+      "message": "for Firefox"
+   },
+   "branding_default_product_note_ie": {
+      "message": "for Internet Explorer"
+   },
+   "branding_default_product_shortname_acc": {
+      "message": "VBs"
+   },
+   "branding_default_product_shortname_dat": {
+      "message": "VBs"
+   },
+   "branding_default_product_shortname_gen": {
+      "message": "VBs"
+   },
+   "branding_default_product_shortname_ins": {
+      "message": "VBs"
+   },
+   "branding_default_product_shortname_loc": {
+      "message": "Visual Bookmarks"
+   },
+   "branding_default_product_shortname_nom": {
+      "message": "VBs"
+   },
+   "branding_default_product_shortname_pre": {
+      "message": "About VBs"
+   },
+   "branding_default_search_navigate_title": {
+      "message": "find with Yandex"
+   },
+   "branding_default_thumb_lentaru": {
+      "message": "Lenta.ru"
+   },
+   "branding_default_thumb_vkontakte": {
+      "message": "VKontakte"
+   },
+   "branding_default_thumb_yamail": {
+      "message": "Yandex.Mail"
+   },
+   "branding_default_thumb_yamaps": {
+      "message": "Yandex.Maps"
+   },
+   "branding_default_thumb_yamarket": {
+      "message": "Yandex.Market"
+   },
+   "branding_default_thumb_yamusic": {
+      "message": "Yandex.Music"
+   },
+   "branding_default_thumb_yandex": {
+      "message": "Yandex"
+   },
+   "branding_default_thumb_yasoft": {
+      "message": "Yandex.Software"
+   },
+   "branding_default_thumb_youtube": {
+      "message": "YouTube"
+   },
+   "branding_default_vendor_name_acc": {
+      "message": "Yandex"
+   },
+   "branding_default_vendor_name_dat": {
+      "message": "Yandex"
+   },
+   "branding_default_vendor_name_gen": {
+      "message": "Yandex"
+   },
+   "branding_default_vendor_name_ins": {
+      "message": "Yandex"
+   },
+   "branding_default_vendor_name_loc": {
+      "message": "Yandex"
+   },
+   "branding_default_vendor_name_nom": {
+      "message": "Yandex"
+   },
+   "branding_default_vendor_name_pre": {
+      "message": "Yandex"
+   },
+   "branding_default_yandex_label": {
+      "message": "Yandex"
+   },
+   "branding_default_yandex_qs_keywordsearch": {
+      "message": "http://yandex.ru/search/?clid={clid9}&text={searchTerms}"
+   },
+   "branding_default_yandex_qs_suggestions": {
+      "message": "http://suggest.yandex.ru/suggest-ff.cgi?uil=en&part={searchTerms}"
+   },
+   "branding_default_yandex_qs_url": {
+      "message": "http://yandex.ru/search/?clid={clid6}&text={searchTerms}"
+   },
+   "branding_default_yandex_search_site_url": {
+      "message": "http://yandex.ru/search/?text={searchTerms}&surl_manually=true&surl={searchSite}"
+   },
+   "branding_default_yandex_search_tooltip": {
+      "message": "Search on Yandex"
+   },
+   "branding_default_yandex_search_url": {
+      "message": "http://yandex.ru/search/?text={searchTerms}"
+   },
+   "branding_default_yandex_url": {
+      "message": "http://www.yandex.ru"
+   },
+   "branding_turkey_besiktas_locationbar_search_url": {
+      "message": "http://yandex.com.tr/search/?clid={clid9}&text="
+   },
+   "branding_turkey_besiktas_logo_alt": {
+      "message": "Yandex"
+   },
+   "branding_turkey_besiktas_logo_title": {
+      "message": "Yandex"
+   },
+   "branding_turkey_besiktas_product_copyright": {
+      "message": "© 2012—2015 &quot;[Yandex](http://www.yandex.com.tr)&quot;"
+   },
+   "branding_turkey_besiktas_product_copyright_fx": {
+      "message": "© 2012—2015 &quot;[Yandex](http://www.yandex.com.tr)&quot;"
+   },
+   "branding_turkey_besiktas_product_copyright_ie": {
+      "message": "© 2012—2015 &quot;[Yandex](http://www.yandex.com.tr)&quot;"
+   },
+   "branding_turkey_besiktas_product_description": {
+      "message": "Keep all your favorite sites in one place with Visual Bookmarks. Simply click on the one of the mini webpages to visit a site. You can customize the number and order in which the bookmarks are displayed, change the background image and search the web with Yandex."
+   },
+   "branding_turkey_besiktas_product_goodbye_url_fx": {
+      "message": "https://element.yandex.com.tr/goodbye/vb/"
+   },
+   "branding_turkey_besiktas_product_homepage": {
+      "message": "http://visual.yandex.com.tr"
+   },
+   "branding_turkey_besiktas_product_license_url_fx": {
+      "message": "http://legal.yandex.com.tr/desktop_software_agreement/"
+   },
+   "branding_turkey_besiktas_product_license_url_ie": {
+      "message": "http://legal.yandex.com.tr/desktop_software_agreement/"
+   },
+   "branding_turkey_besiktas_product_name_acc": {
+      "message": "Visual Bookmarks"
+   },
+   "branding_turkey_besiktas_product_name_dat": {
+      "message": "Visual Bookmarks"
+   },
+   "branding_turkey_besiktas_product_name_gen": {
+      "message": "Visual Bookmarks"
+   },
+   "branding_turkey_besiktas_product_name_ins": {
+      "message": "Visual Bookmarks"
+   },
+   "branding_turkey_besiktas_product_name_loc": {
+      "message": "Visual Bookmarks"
+   },
+   "branding_turkey_besiktas_product_name_nom": {
+      "message": "Visual Bookmarks"
+   },
+   "branding_turkey_besiktas_product_name_pre": {
+      "message": "About Visual Bookmarks"
+   },
+   "branding_turkey_besiktas_product_note_fx": {
+      "message": "for Firefox"
+   },
+   "branding_turkey_besiktas_product_note_ie": {
+      "message": "for Internet Explorer"
+   },
+   "branding_turkey_besiktas_product_shortname_acc": {
+      "message": "VBs"
+   },
+   "branding_turkey_besiktas_product_shortname_dat": {
+      "message": "VBs"
+   },
+   "branding_turkey_besiktas_product_shortname_gen": {
+      "message": "VBs"
+   },
+   "branding_turkey_besiktas_product_shortname_ins": {
+      "message": "VBs"
+   },
+   "branding_turkey_besiktas_product_shortname_loc": {
+      "message": "Visual Bookmarks"
+   },
+   "branding_turkey_besiktas_product_shortname_nom": {
+      "message": "VBs"
+   },
+   "branding_turkey_besiktas_product_shortname_pre": {
+      "message": "About VBs"
+   },
+   "branding_turkey_besiktas_search_navigate_title": {
+      "message": "find with Yandex"
+   },
+   "branding_turkey_besiktas_search_placeholder": {
+      "message": "Start searching here"
+   },
+   "branding_turkey_besiktas_thumb_1": {
+      "message": "Besiktas"
+   },
+   "branding_turkey_besiktas_thumb_10": {
+      "message": "Wikipedia"
+   },
+   "branding_turkey_besiktas_thumb_11": {
+      "message": "Eksisozluk"
+   },
+   "branding_turkey_besiktas_thumb_12": {
+      "message": "Gittigidiyor"
+   },
+   "branding_turkey_besiktas_thumb_13": {
+      "message": "Dailymotion"
+   },
+   "branding_turkey_besiktas_thumb_14": {
+      "message": "Youtube"
+   },
+   "branding_turkey_besiktas_thumb_15": {
+      "message": "Yemek Sepeti"
+   },
+   "branding_turkey_besiktas_thumb_16": {
+      "message": "HotMail"
+   },
+   "branding_turkey_besiktas_thumb_17": {
+      "message": "Izlesene.com"
+   },
+   "branding_turkey_besiktas_thumb_18": {
+      "message": "Tureng.com"
+   },
+   "branding_turkey_besiktas_thumb_19": {
+      "message": "Turkish Airlines"
+   },
+   "branding_turkey_besiktas_thumb_2": {
+      "message": "Kartalyuvasi"
+   },
+   "branding_turkey_besiktas_thumb_20": {
+      "message": "Biletix"
+   },
+   "branding_turkey_besiktas_thumb_21": {
+      "message": "Kariyer.net"
+   },
+   "branding_turkey_besiktas_thumb_22": {
+      "message": "Sahibinden"
+   },
+   "branding_turkey_besiktas_thumb_23": {
+      "message": "Hepsiburada"
+   },
+   "branding_turkey_besiktas_thumb_24": {
+      "message": "Mynet"
+   },
+   "branding_turkey_besiktas_thumb_25": {
+      "message": "MSN Türkiye"
+   },
+   "branding_turkey_besiktas_thumb_26": {
+      "message": "HABERTURK"
+   },
+   "branding_turkey_besiktas_thumb_27": {
+      "message": "Sabah"
+   },
+   "branding_turkey_besiktas_thumb_28": {
+      "message": "HÜRRİYET"
+   },
+   "branding_turkey_besiktas_thumb_29": {
+      "message": "Milliyet News"
+   },
+   "branding_turkey_besiktas_thumb_3": {
+      "message": "Vodafone Arena"
+   },
+   "branding_turkey_besiktas_thumb_30": {
+      "message": "Tatil"
+   },
+   "branding_turkey_besiktas_thumb_31": {
+      "message": "Beyazperde"
+   },
+   "branding_turkey_besiktas_thumb_32": {
+      "message": "ekolay"
+   },
+   "branding_turkey_besiktas_thumb_33": {
+      "message": "e-Okul"
+   },
+   "branding_turkey_besiktas_thumb_34": {
+      "message": "Türk Dil Kurumu Ana Sayfası"
+   },
+   "branding_turkey_besiktas_thumb_4": {
+      "message": "Kart 1903"
+   },
+   "branding_turkey_besiktas_thumb_5": {
+      "message": "Twitter"
+   },
+   "branding_turkey_besiktas_thumb_6": {
+      "message": "Facebook"
+   },
+   "branding_turkey_besiktas_thumb_7": {
+      "message": "BJK Yandex"
+   },
+   "branding_turkey_besiktas_thumb_8": {
+      "message": "Mail.Yandex"
+   },
+   "branding_turkey_besiktas_thumb_9": {
+      "message": "Google"
+   },
+   "branding_turkey_besiktas_vendor_name_acc": {
+      "message": "Yandex"
+   },
+   "branding_turkey_besiktas_vendor_name_dat": {
+      "message": "Yandex"
+   },
+   "branding_turkey_besiktas_vendor_name_gen": {
+      "message": "Yandex"
+   },
+   "branding_turkey_besiktas_vendor_name_ins": {
+      "message": "Yandex"
+   },
+   "branding_turkey_besiktas_vendor_name_loc": {
+      "message": "Yandex"
+   },
+   "branding_turkey_besiktas_vendor_name_nom": {
+      "message": "Yandex"
+   },
+   "branding_turkey_besiktas_vendor_name_pre": {
+      "message": "Yandex"
+   },
+   "branding_turkey_besiktas_yagorsel_label": {
+      "message": "Yandex.Görsel"
+   },
+   "branding_turkey_besiktas_yagorsel_search_site_url": {
+      "message": "http://gorsel.yandex.com.tr/yandsearch?text={searchTerms}&surl_manually=true&site={searchSite}"
+   },
+   "branding_turkey_besiktas_yagorsel_search_tooltip": {
+      "message": "Yandex.Görsel'de bul"
+   },
+   "branding_turkey_besiktas_yagorsel_search_url": {
+      "message": "http://gorsel.yandex.com.tr/yandsearch?text={searchTerms}"
+   },
+   "branding_turkey_besiktas_yagorsel_suggestions_url": {
+      "message": "http://suggest-images.yandex.com.tr/suggest-ff.cgi?part={searchTerms}&uil=en"
+   },
+   "branding_turkey_besiktas_yagorsel_url": {
+      "message": "http://www.gorsel.yandex.com.tr/"
+   },
+   "branding_turkey_besiktas_yahaber_label": {
+      "message": "Yandex.Haberler"
+   },
+   "branding_turkey_besiktas_yahaber_search_tooltip": {
+      "message": "Yandex.Haberler'de bul"
+   },
+   "branding_turkey_besiktas_yahaber_search_url": {
+      "message": "http://haber.yandex.com.tr/yandsearch?text={searchTerms}&rpt=nnews2&grhow=clutop"
+   },
+   "branding_turkey_besiktas_yahaber_url": {
+      "message": "http://haber.yandex.com.tr/"
+   },
+   "branding_turkey_besiktas_yandex_label": {
+      "message": "Yandex"
+   },
+   "branding_turkey_besiktas_yandex_qs_keywordsearch": {
+      "message": "http://yandex.com.tr/search/?clid={clid9}&text={searchTerms}"
+   },
+   "branding_turkey_besiktas_yandex_search_site_url": {
+      "message": "http://yandex.com.tr/search/?text={searchTerms}&surl_manually=true&surl={searchSite}"
+   },
+   "branding_turkey_besiktas_yandex_search_tooltip": {
+      "message": "Yandex'te bul"
+   },
+   "branding_turkey_besiktas_yandex_search_url": {
+      "message": "http://yandex.com.tr/search/?text={searchTerms}"
+   },
+   "branding_turkey_besiktas_yandex_suggestions_url": {
+      "message": "http://suggest.yandex.com.tr/suggest-ff.cgi?part={searchTerms}&uil=en"
+   },
+   "branding_turkey_besiktas_yandex_url": {
+      "message": "http://www.yandex.com.tr/"
+   },
+   "branding_turkey_besiktas_yavideo_label": {
+      "message": "Yandex.Video"
+   },
+   "branding_turkey_besiktas_yavideo_search_tooltip": {
+      "message": "Yandex.Video'da bul"
+   },
+   "branding_turkey_besiktas_yavideo_search_url": {
+      "message": "http://video.yandex.com.tr/#search?text={searchTerms}"
+   },
+   "branding_turkey_besiktas_yavideo_suggestions_url": {
+      "message": "http://suggest-video.yandex.com.tr/suggest-ff.cgi?part={searchTerms}&uil=en"
+   },
+   "branding_turkey_besiktas_yavideo_url": {
+      "message": "http://www.video.yandex.com.tr/"
+   },
+   "branding_turkey_elements_locationbar_search_url": {
+      "message": "http://yandex.com.tr/search/?clid={clid9}&text="
+   },
+   "branding_turkey_elements_logo_alt": {
+      "message": "Yandex"
+   },
+   "branding_turkey_elements_logo_title": {
+      "message": "Yandex"
+   },
+   "branding_turkey_elements_product_copyright": {
+      "message": "© 2012—2015 &quot;[Yandex](http://www.yandex.com.tr)&quot;"
+   },
+   "branding_turkey_elements_product_copyright_fx": {
+      "message": "© 2012—2015 &quot;[Yandex](http://www.yandex.com.tr)&quot;"
+   },
+   "branding_turkey_elements_product_copyright_ie": {
+      "message": "© 2012—2015 &quot;[Yandex](http://www.yandex.com.tr)&quot;"
+   },
+   "branding_turkey_elements_product_description": {
+      "message": "Keep all your favorite sites in one place with Visual Bookmarks. Simply click on one of the mini-webpages to visit a site. You can customize the number and order in which the bookmarks are displayed, change the background image and search the web with Yandex."
+   },
+   "branding_turkey_elements_product_goodbye_url_fx": {
+      "message": "https://element.yandex.com.tr/goodbye/vb/"
+   },
+   "branding_turkey_elements_product_homepage": {
+      "message": "http://visual.yandex.com.tr"
+   },
+   "branding_turkey_elements_product_license_url_fx": {
+      "message": "http://legal.yandex.com.tr/desktop_software_agreement/"
+   },
+   "branding_turkey_elements_product_license_url_ie": {
+      "message": "http://legal.yandex.com.tr/desktop_software_agreement/"
+   },
+   "branding_turkey_elements_product_name_acc": {
+      "message": "Visual Bookmarks"
+   },
+   "branding_turkey_elements_product_name_dat": {
+      "message": "Visual Bookmarks"
+   },
+   "branding_turkey_elements_product_name_gen": {
+      "message": "Visual Bookmarks"
+   },
+   "branding_turkey_elements_product_name_ins": {
+      "message": "Visual Bookmarks"
+   },
+   "branding_turkey_elements_product_name_loc": {
+      "message": "Visual Bookmarks"
+   },
+   "branding_turkey_elements_product_name_nom": {
+      "message": "Visual Bookmarks"
+   },
+   "branding_turkey_elements_product_name_pre": {
+      "message": "About Visual Bookmarks"
+   },
+   "branding_turkey_elements_product_note_fx": {
+      "message": "for Firefox"
+   },
+   "branding_turkey_elements_product_note_ie": {
+      "message": "for Internet Explorer"
+   },
+   "branding_turkey_elements_product_shortname_acc": {
+      "message": "VBs"
+   },
+   "branding_turkey_elements_product_shortname_dat": {
+      "message": "VBs"
+   },
+   "branding_turkey_elements_product_shortname_gen": {
+      "message": "VBs"
+   },
+   "branding_turkey_elements_product_shortname_ins": {
+      "message": "VBs"
+   },
+   "branding_turkey_elements_product_shortname_loc": {
+      "message": "Visual Bookmarks"
+   },
+   "branding_turkey_elements_product_shortname_nom": {
+      "message": "VBs"
+   },
+   "branding_turkey_elements_product_shortname_pre": {
+      "message": "About VBs"
+   },
+   "branding_turkey_elements_search_navigate_title": {
+      "message": "find with Yandex"
+   },
+   "branding_turkey_elements_search_placeholder": {
+      "message": "Start searching here"
+   },
+   "branding_turkey_elements_thumb_facebook": {
+      "message": "Facebook"
+   },
+   "branding_turkey_elements_thumb_milliyet": {
+      "message": "Milliyet"
+   },
+   "branding_turkey_elements_thumb_mynet": {
+      "message": "Mynet"
+   },
+   "branding_turkey_elements_thumb_yamail": {
+      "message": "Yandex.Mail"
+   },
+   "branding_turkey_elements_thumb_yamaps": {
+      "message": "Yandex.Maps"
+   },
+   "branding_turkey_elements_thumb_yamarket": {
+      "message": "Yandex.Market"
+   },
+   "branding_turkey_elements_thumb_yandex": {
+      "message": "Yandex"
+   },
+   "branding_turkey_elements_thumb_yasoft": {
+      "message": "Yandex.Software"
+   },
+   "branding_turkey_elements_thumb_youtube": {
+      "message": "YouTube"
+   },
+   "branding_turkey_elements_vendor_name_acc": {
+      "message": "Yandex"
+   },
+   "branding_turkey_elements_vendor_name_dat": {
+      "message": "Yandex"
+   },
+   "branding_turkey_elements_vendor_name_gen": {
+      "message": "Yandex"
+   },
+   "branding_turkey_elements_vendor_name_ins": {
+      "message": "Yandex"
+   },
+   "branding_turkey_elements_vendor_name_loc": {
+      "message": "Yandex"
+   },
+   "branding_turkey_elements_vendor_name_nom": {
+      "message": "Yandex"
+   },
+   "branding_turkey_elements_vendor_name_pre": {
+      "message": "Yandex"
+   },
+   "branding_turkey_elements_yagorsel_label": {
+      "message": "Yandex.Görsel"
+   },
+   "branding_turkey_elements_yagorsel_search_site_url": {
+      "message": "http://gorsel.yandex.com.tr/yandsearch?text={searchTerms}&surl_manually=true&site={searchSite}"
+   },
+   "branding_turkey_elements_yagorsel_search_tooltip": {
+      "message": "Yandex.Görsel'de bul"
+   },
+   "branding_turkey_elements_yagorsel_search_url": {
+      "message": "http://gorsel.yandex.com.tr/yandsearch?text={searchTerms}"
+   },
+   "branding_turkey_elements_yagorsel_suggestions_url": {
+      "message": "http://suggest-images.yandex.com.tr/suggest-ff.cgi?part={searchTerms}&uil=en"
+   },
+   "branding_turkey_elements_yagorsel_url": {
+      "message": "http://www.gorsel.yandex.com.tr/"
+   },
+   "branding_turkey_elements_yahaber_label": {
+      "message": "Yandex.Haberler"
+   },
+   "branding_turkey_elements_yahaber_search_tooltip": {
+      "message": "Yandex.Haberler'de bul"
+   },
+   "branding_turkey_elements_yahaber_search_url": {
+      "message": "http://haber.yandex.com.tr/yandsearch?text={searchTerms}&rpt=nnews2&grhow=clutop"
+   },
+   "branding_turkey_elements_yahaber_url": {
+      "message": "http://haber.yandex.com.tr/"
+   },
+   "branding_turkey_elements_yandex_label": {
+      "message": "Yandex"
+   },
+   "branding_turkey_elements_yandex_qs_keywordsearch": {
+      "message": "http://yandex.com.tr/search/?clid={clid9}&text={searchTerms}"
+   },
+   "branding_turkey_elements_yandex_search_site_url": {
+      "message": "http://yandex.com.tr/search/?text={searchTerms}&surl_manually=true&surl={searchSite}"
+   },
+   "branding_turkey_elements_yandex_search_tooltip": {
+      "message": "Yandex'te bul"
+   },
+   "branding_turkey_elements_yandex_search_url": {
+      "message": "http://yandex.com.tr/search/?text={searchTerms}"
+   },
+   "branding_turkey_elements_yandex_suggestions_url": {
+      "message": "http://suggest.yandex.com.tr/suggest-ff.cgi?part={searchTerms}&uil=en"
+   },
+   "branding_turkey_elements_yandex_url": {
+      "message": "http://www.yandex.com.tr/"
+   },
+   "branding_turkey_elements_yavideo_label": {
+      "message": "Yandex.Video"
+   },
+   "branding_turkey_elements_yavideo_search_tooltip": {
+      "message": "Yandex.Video'da bul"
+   },
+   "branding_turkey_elements_yavideo_search_url": {
+      "message": "http://video.yandex.com.tr/#search?text={searchTerms}"
+   },
+   "branding_turkey_elements_yavideo_suggestions_url": {
+      "message": "http://suggest-video.yandex.com.tr/suggest-ff.cgi?part={searchTerms}&uil=en"
+   },
+   "branding_turkey_elements_yavideo_url": {
+      "message": "http://www.video.yandex.com.tr/"
+   },
+   "branding_turkey_fenerbahce_locationbar_search_url": {
+      "message": "http://yandex.com.tr/search/?clid={clid9}&text="
+   },
+   "branding_turkey_fenerbahce_logo_alt": {
+      "message": "Yandex"
+   },
+   "branding_turkey_fenerbahce_logo_title": {
+      "message": "Yandex"
+   },
+   "branding_turkey_fenerbahce_product_copyright": {
+      "message": "© 2012—2015 &quot;[Yandex](http://www.yandex.com.tr)&quot;"
+   },
+   "branding_turkey_fenerbahce_product_copyright_fx": {
+      "message": "© 2012—2015 &quot;[Yandex](http://www.yandex.com.tr)&quot;"
+   },
+   "branding_turkey_fenerbahce_product_copyright_ie": {
+      "message": "© 2012—2015 &quot;[Yandex](http://www.yandex.com.tr)&quot;"
+   },
+   "branding_turkey_fenerbahce_product_description": {
+      "message": "Keep all your favorite sites in one place with Visual Bookmarks. Simply click on the one of the mini webpages to visit a site. You can customize the number and order in which the bookmarks are displayed, change the background image and search the web with Yandex."
+   },
+   "branding_turkey_fenerbahce_product_goodbye_url_fx": {
+      "message": "https://element.yandex.com.tr/goodbye/vb/"
+   },
+   "branding_turkey_fenerbahce_product_homepage": {
+      "message": "http://visual.yandex.com.tr"
+   },
+   "branding_turkey_fenerbahce_product_license_url_fx": {
+      "message": "http://legal.yandex.com.tr/desktop_software_agreement/"
+   },
+   "branding_turkey_fenerbahce_product_license_url_ie": {
+      "message": "http://legal.yandex.com.tr/desktop_software_agreement/"
+   },
+   "branding_turkey_fenerbahce_product_name_acc": {
+      "message": "Visual Bookmarks"
+   },
+   "branding_turkey_fenerbahce_product_name_dat": {
+      "message": "Visual Bookmarks"
+   },
+   "branding_turkey_fenerbahce_product_name_gen": {
+      "message": "Visual Bookmarks"
+   },
+   "branding_turkey_fenerbahce_product_name_ins": {
+      "message": "Visual Bookmarks"
+   },
+   "branding_turkey_fenerbahce_product_name_loc": {
+      "message": "Visual Bookmarks"
+   },
+   "branding_turkey_fenerbahce_product_name_nom": {
+      "message": "Visual Bookmarks"
+   },
+   "branding_turkey_fenerbahce_product_name_pre": {
+      "message": "About Visual Bookmarks"
+   },
+   "branding_turkey_fenerbahce_product_note_fx": {
+      "message": "for Firefox"
+   },
+   "branding_turkey_fenerbahce_product_note_ie": {
+      "message": "for Internet Explorer"
+   },
+   "branding_turkey_fenerbahce_product_shortname_acc": {
+      "message": "VBs"
+   },
+   "branding_turkey_fenerbahce_product_shortname_dat": {
+      "message": "VBs"
+   },
+   "branding_turkey_fenerbahce_product_shortname_gen": {
+      "message": "VBs"
+   },
+   "branding_turkey_fenerbahce_product_shortname_ins": {
+      "message": "VBs"
+   },
+   "branding_turkey_fenerbahce_product_shortname_loc": {
+      "message": "Visual Bookmarks"
+   },
+   "branding_turkey_fenerbahce_product_shortname_nom": {
+      "message": "VBs"
+   },
+   "branding_turkey_fenerbahce_product_shortname_pre": {
+      "message": "About VBs"
+   },
+   "branding_turkey_fenerbahce_search_navigate_title": {
+      "message": "find with Yandex"
+   },
+   "branding_turkey_fenerbahce_search_placeholder": {
+      "message": "Start searching here"
+   },
+   "branding_turkey_fenerbahce_thumb_1": {
+      "message": "FB Yandex"
+   },
+   "branding_turkey_fenerbahce_thumb_10": {
+      "message": "Yemek Sepeti"
+   },
+   "branding_turkey_fenerbahce_thumb_11": {
+      "message": "Eksisozluk"
+   },
+   "branding_turkey_fenerbahce_thumb_12": {
+      "message": "Gittigidiyor"
+   },
+   "branding_turkey_fenerbahce_thumb_13": {
+      "message": "Dailymotion"
+   },
+   "branding_turkey_fenerbahce_thumb_14": {
+      "message": "HotMail"
+   },
+   "branding_turkey_fenerbahce_thumb_15": {
+      "message": "Google"
+   },
+   "branding_turkey_fenerbahce_thumb_17": {
+      "message": "Izlesene.com"
+   },
+   "branding_turkey_fenerbahce_thumb_18": {
+      "message": "Tureng.com"
+   },
+   "branding_turkey_fenerbahce_thumb_19": {
+      "message": "Turkish Airlines"
+   },
+   "branding_turkey_fenerbahce_thumb_2": {
+      "message": "Fenerbahce.Org"
+   },
+   "branding_turkey_fenerbahce_thumb_20": {
+      "message": "Biletix"
+   },
+   "branding_turkey_fenerbahce_thumb_21": {
+      "message": "Kariyer.net"
+   },
+   "branding_turkey_fenerbahce_thumb_22": {
+      "message": "Sahibinden"
+   },
+   "branding_turkey_fenerbahce_thumb_23": {
+      "message": "Hepsiburada"
+   },
+   "branding_turkey_fenerbahce_thumb_24": {
+      "message": "Mynet"
+   },
+   "branding_turkey_fenerbahce_thumb_25": {
+      "message": "MSN Türkiye"
+   },
+   "branding_turkey_fenerbahce_thumb_26": {
+      "message": "HABERTURK"
+   },
+   "branding_turkey_fenerbahce_thumb_27": {
+      "message": "Sabah"
+   },
+   "branding_turkey_fenerbahce_thumb_28": {
+      "message": "HÜRRİYET"
+   },
+   "branding_turkey_fenerbahce_thumb_29": {
+      "message": "Milliyet News"
+   },
+   "branding_turkey_fenerbahce_thumb_3": {
+      "message": "Fenerium"
+   },
+   "branding_turkey_fenerbahce_thumb_30": {
+      "message": "Tatil"
+   },
+   "branding_turkey_fenerbahce_thumb_31": {
+      "message": "Beyazperde"
+   },
+   "branding_turkey_fenerbahce_thumb_32": {
+      "message": "ekolay"
+   },
+   "branding_turkey_fenerbahce_thumb_33": {
+      "message": "e-Okul"
+   },
+   "branding_turkey_fenerbahce_thumb_34": {
+      "message": "Türk Dil Kurumu Ana Sayfası"
+   },
+   "branding_turkey_fenerbahce_thumb_4": {
+      "message": "Fenerbahce.Com.Tr"
+   },
+   "branding_turkey_fenerbahce_thumb_5": {
+      "message": "Facebook"
+   },
+   "branding_turkey_fenerbahce_thumb_6": {
+      "message": "Twitter"
+   },
+   "branding_turkey_fenerbahce_thumb_7": {
+      "message": "Wikipedia"
+   },
+   "branding_turkey_fenerbahce_thumb_8": {
+      "message": "Mail.Yandex"
+   },
+   "branding_turkey_fenerbahce_thumb_9": {
+      "message": "Youtube"
+   },
+   "branding_turkey_fenerbahce_vendor_name_acc": {
+      "message": "Yandex"
+   },
+   "branding_turkey_fenerbahce_vendor_name_dat": {
+      "message": "Yandex"
+   },
+   "branding_turkey_fenerbahce_vendor_name_gen": {
+      "message": "Yandex"
+   },
+   "branding_turkey_fenerbahce_vendor_name_ins": {
+      "message": "Yandex"
+   },
+   "branding_turkey_fenerbahce_vendor_name_loc": {
+      "message": "Yandex"
+   },
+   "branding_turkey_fenerbahce_vendor_name_nom": {
+      "message": "Yandex"
+   },
+   "branding_turkey_fenerbahce_vendor_name_pre": {
+      "message": "Yandex"
+   },
+   "branding_turkey_fenerbahce_yagorsel_label": {
+      "message": "Yandex.Görsel"
+   },
+   "branding_turkey_fenerbahce_yagorsel_search_site_url": {
+      "message": "http://gorsel.yandex.com.tr/yandsearch?text={searchTerms}&surl_manually=true&site={searchSite}"
+   },
+   "branding_turkey_fenerbahce_yagorsel_search_tooltip": {
+      "message": "Yandex.Görsel'de bul"
+   },
+   "branding_turkey_fenerbahce_yagorsel_search_url": {
+      "message": "http://gorsel.yandex.com.tr/yandsearch?text={searchTerms}"
+   },
+   "branding_turkey_fenerbahce_yagorsel_suggestions_url": {
+      "message": "http://suggest-images.yandex.com.tr/suggest-ff.cgi?part={searchTerms}&uil=en"
+   },
+   "branding_turkey_fenerbahce_yagorsel_url": {
+      "message": "http://www.gorsel.yandex.com.tr/"
+   },
+   "branding_turkey_fenerbahce_yahaber_label": {
+      "message": "Yandex.Haberler"
+   },
+   "branding_turkey_fenerbahce_yahaber_search_tooltip": {
+      "message": "Yandex.Haberler'de bul"
+   },
+   "branding_turkey_fenerbahce_yahaber_search_url": {
+      "message": "http://haber.yandex.com.tr/yandsearch?text={searchTerms}&rpt=nnews2&grhow=clutop"
+   },
+   "branding_turkey_fenerbahce_yahaber_url": {
+      "message": "http://haber.yandex.com.tr/"
+   },
+   "branding_turkey_fenerbahce_yandex_label": {
+      "message": "Yandex"
+   },
+   "branding_turkey_fenerbahce_yandex_qs_keywordsearch": {
+      "message": "http://yandex.com.tr/search/?clid={clid9}&text={searchTerms}"
+   },
+   "branding_turkey_fenerbahce_yandex_search_site_url": {
+      "message": "http://yandex.com.tr/search/?text={searchTerms}&surl_manually=true&surl={searchSite}"
+   },
+   "branding_turkey_fenerbahce_yandex_search_tooltip": {
+      "message": "Yandex'te bul"
+   },
+   "branding_turkey_fenerbahce_yandex_search_url": {
+      "message": "http://yandex.com.tr/search/?text={searchTerms}"
+   },
+   "branding_turkey_fenerbahce_yandex_suggestions_url": {
+      "message": "http://suggest.yandex.com.tr/suggest-ff.cgi?part={searchTerms}&uil=en"
+   },
+   "branding_turkey_fenerbahce_yandex_url": {
+      "message": "http://www.yandex.com.tr/"
+   },
+   "branding_turkey_fenerbahce_yavideo_label": {
+      "message": "Yandex.Video"
+   },
+   "branding_turkey_fenerbahce_yavideo_search_tooltip": {
+      "message": "Yandex.Video'da bul"
+   },
+   "branding_turkey_fenerbahce_yavideo_search_url": {
+      "message": "http://video.yandex.com.tr/#search?text={searchTerms}"
+   },
+   "branding_turkey_fenerbahce_yavideo_suggestions_url": {
+      "message": "http://suggest-video.yandex.com.tr/suggest-ff.cgi?part={searchTerms}&uil=en"
+   },
+   "branding_turkey_fenerbahce_yavideo_url": {
+      "message": "http://www.video.yandex.com.tr/"
+   },
+   "branding_turkey_galatasaray_locationbar_search_url": {
+      "message": "http://yandex.com.tr/search/?clid={clid9}&text="
+   },
+   "branding_turkey_galatasaray_logo_alt": {
+      "message": "Yandex"
+   },
+   "branding_turkey_galatasaray_logo_title": {
+      "message": "Yandex"
+   },
+   "branding_turkey_galatasaray_product_copyright": {
+      "message": "© 2012—2015 &quot;[Yandex](http://www.yandex.com.tr)&quot;"
+   },
+   "branding_turkey_galatasaray_product_copyright_fx": {
+      "message": "© 2012—2015 &quot;[Yandex](http://www.yandex.com.tr)&quot;"
+   },
+   "branding_turkey_galatasaray_product_copyright_ie": {
+      "message": "© 2012—2015 &quot;[Yandex](http://www.yandex.com.tr)&quot;"
+   },
+   "branding_turkey_galatasaray_product_description": {
+      "message": "Keep all your favorite sites in one place with Visual Bookmarks. Simply click on the one of the mini webpages to visit a site. You can customize the number and order in which the bookmarks are displayed, change the background image and search the web with Yandex."
+   },
+   "branding_turkey_galatasaray_product_goodbye_url_fx": {
+      "message": "https://element.yandex.com.tr/goodbye/vb/"
+   },
+   "branding_turkey_galatasaray_product_homepage": {
+      "message": "http://visual.yandex.com.tr"
+   },
+   "branding_turkey_galatasaray_product_license_url_fx": {
+      "message": "http://legal.yandex.com.tr/desktop_software_agreement/"
+   },
+   "branding_turkey_galatasaray_product_license_url_ie": {
+      "message": "http://legal.yandex.com.tr/desktop_software_agreement/"
+   },
+   "branding_turkey_galatasaray_product_name_acc": {
+      "message": "Visual Bookmarks"
+   },
+   "branding_turkey_galatasaray_product_name_dat": {
+      "message": "Visual Bookmarks"
+   },
+   "branding_turkey_galatasaray_product_name_gen": {
+      "message": "Visual Bookmarks"
+   },
+   "branding_turkey_galatasaray_product_name_ins": {
+      "message": "Visual Bookmarks"
+   },
+   "branding_turkey_galatasaray_product_name_loc": {
+      "message": "Visual Bookmarks"
+   },
+   "branding_turkey_galatasaray_product_name_nom": {
+      "message": "Visual Bookmarks"
+   },
+   "branding_turkey_galatasaray_product_name_pre": {
+      "message": "About Visual Bookmarks"
+   },
+   "branding_turkey_galatasaray_product_note_fx": {
+      "message": "for Firefox"
+   },
+   "branding_turkey_galatasaray_product_note_ie": {
+      "message": "for Internet Explorer"
+   },
+   "branding_turkey_galatasaray_product_shortname_acc": {
+      "message": "VBs"
+   },
+   "branding_turkey_galatasaray_product_shortname_dat": {
+      "message": "VBs"
+   },
+   "branding_turkey_galatasaray_product_shortname_gen": {
+      "message": "VBs"
+   },
+   "branding_turkey_galatasaray_product_shortname_ins": {
+      "message": "VBs"
+   },
+   "branding_turkey_galatasaray_product_shortname_loc": {
+      "message": "Visual Bookmarks"
+   },
+   "branding_turkey_galatasaray_product_shortname_nom": {
+      "message": "VBs"
+   },
+   "branding_turkey_galatasaray_product_shortname_pre": {
+      "message": "About VBs"
+   },
+   "branding_turkey_galatasaray_search_navigate_title": {
+      "message": "find with Yandex"
+   },
+   "branding_turkey_galatasaray_search_placeholder": {
+      "message": "Start searching here"
+   },
+   "branding_turkey_galatasaray_thumb_1": {
+      "message": "GS Yandex"
+   },
+   "branding_turkey_galatasaray_thumb_10": {
+      "message": "Yemek Sepeti"
+   },
+   "branding_turkey_galatasaray_thumb_11": {
+      "message": "Eksisozluk"
+   },
+   "branding_turkey_galatasaray_thumb_12": {
+      "message": "Gittigidiyor"
+   },
+   "branding_turkey_galatasaray_thumb_13": {
+      "message": "Dailymotion"
+   },
+   "branding_turkey_galatasaray_thumb_14": {
+      "message": "HotMail"
+   },
+   "branding_turkey_galatasaray_thumb_15": {
+      "message": "Google"
+   },
+   "branding_turkey_galatasaray_thumb_18": {
+      "message": "Tureng.com"
+   },
+   "branding_turkey_galatasaray_thumb_19": {
+      "message": "Turkish Airlines"
+   },
+   "branding_turkey_galatasaray_thumb_2": {
+      "message": "Galatasaray"
+   },
+   "branding_turkey_galatasaray_thumb_20": {
+      "message": "Biletix"
+   },
+   "branding_turkey_galatasaray_thumb_21": {
+      "message": "Kariyer.net"
+   },
+   "branding_turkey_galatasaray_thumb_22": {
+      "message": "Sahibinden"
+   },
+   "branding_turkey_galatasaray_thumb_23": {
+      "message": "Hepsiburada"
+   },
+   "branding_turkey_galatasaray_thumb_24": {
+      "message": "Mynet"
+   },
+   "branding_turkey_galatasaray_thumb_25": {
+      "message": "MSN Türkiye"
+   },
+   "branding_turkey_galatasaray_thumb_26": {
+      "message": "HABERTURK"
+   },
+   "branding_turkey_galatasaray_thumb_27": {
+      "message": "Sabah"
+   },
+   "branding_turkey_galatasaray_thumb_28": {
+      "message": "HÜRRİYET"
+   },
+   "branding_turkey_galatasaray_thumb_29": {
+      "message": "Milliyet News"
+   },
+   "branding_turkey_galatasaray_thumb_3": {
+      "message": "Twitter"
+   },
+   "branding_turkey_galatasaray_thumb_30": {
+      "message": "Tatil"
+   },
+   "branding_turkey_galatasaray_thumb_31": {
+      "message": "Beyazperde"
+   },
+   "branding_turkey_galatasaray_thumb_32": {
+      "message": "ekolay"
+   },
+   "branding_turkey_galatasaray_thumb_33": {
+      "message": "e-Okul"
+   },
+   "branding_turkey_galatasaray_thumb_34": {
+      "message": "Türk Dil Kurumu Ana Sayfası"
+   },
+   "branding_turkey_galatasaray_thumb_4": {
+      "message": "Gsstore"
+   },
+   "branding_turkey_galatasaray_thumb_5": {
+      "message": "Facebook"
+   },
+   "branding_turkey_galatasaray_thumb_6": {
+      "message": "Wikipedia"
+   },
+   "branding_turkey_galatasaray_thumb_7": {
+      "message": "Izlesene.com"
+   },
+   "branding_turkey_galatasaray_thumb_8": {
+      "message": "Mail.Yandex"
+   },
+   "branding_turkey_galatasaray_thumb_9": {
+      "message": "Youtube"
+   },
+   "branding_turkey_galatasaray_vendor_name_acc": {
+      "message": "Yandex"
+   },
+   "branding_turkey_galatasaray_vendor_name_dat": {
+      "message": "Yandex"
+   },
+   "branding_turkey_galatasaray_vendor_name_gen": {
+      "message": "Yandex"
+   },
+   "branding_turkey_galatasaray_vendor_name_ins": {
+      "message": "Yandex"
+   },
+   "branding_turkey_galatasaray_vendor_name_loc": {
+      "message": "Yandex"
+   },
+   "branding_turkey_galatasaray_vendor_name_nom": {
+      "message": "Yandex"
+   },
+   "branding_turkey_galatasaray_vendor_name_pre": {
+      "message": "Yandex"
+   },
+   "branding_turkey_galatasaray_yagorsel_label": {
+      "message": "Yandex.Görsel"
+   },
+   "branding_turkey_galatasaray_yagorsel_search_site_url": {
+      "message": "http://gorsel.yandex.com.tr/yandsearch?text={searchTerms}&surl_manually=true&site={searchSite}"
+   },
+   "branding_turkey_galatasaray_yagorsel_search_tooltip": {
+      "message": "Yandex.Görsel'de bul"
+   },
+   "branding_turkey_galatasaray_yagorsel_search_url": {
+      "message": "http://gorsel.yandex.com.tr/yandsearch?text={searchTerms}"
+   },
+   "branding_turkey_galatasaray_yagorsel_suggestions_url": {
+      "message": "http://suggest-images.yandex.com.tr/suggest-ff.cgi?part={searchTerms}&uil=en"
+   },
+   "branding_turkey_galatasaray_yagorsel_url": {
+      "message": "http://www.gorsel.yandex.com.tr/"
+   },
+   "branding_turkey_galatasaray_yahaber_label": {
+      "message": "Yandex.Haberler"
+   },
+   "branding_turkey_galatasaray_yahaber_search_tooltip": {
+      "message": "Yandex.Haberler'de bul"
+   },
+   "branding_turkey_galatasaray_yahaber_search_url": {
+      "message": "http://haber.yandex.com.tr/yandsearch?text={searchTerms}&rpt=nnews2&grhow=clutop"
+   },
+   "branding_turkey_galatasaray_yahaber_url": {
+      "message": "http://haber.yandex.com.tr/"
+   },
+   "branding_turkey_galatasaray_yandex_label": {
+      "message": "Yandex"
+   },
+   "branding_turkey_galatasaray_yandex_qs_keywordsearch": {
+      "message": "http://yandex.com.tr/search/?clid={clid9}&text={searchTerms}"
+   },
+   "branding_turkey_galatasaray_yandex_search_site_url": {
+      "message": "http://yandex.com.tr/search/?text={searchTerms}&surl_manually=true&surl={searchSite}"
+   },
+   "branding_turkey_galatasaray_yandex_search_tooltip": {
+      "message": "Yandex'te bul"
+   },
+   "branding_turkey_galatasaray_yandex_search_url": {
+      "message": "http://yandex.com.tr/search/?text={searchTerms}"
+   },
+   "branding_turkey_galatasaray_yandex_suggestions_url": {
+      "message": "http://suggest.yandex.com.tr/suggest-ff.cgi?part={searchTerms}&uil=en"
+   },
+   "branding_turkey_galatasaray_yandex_url": {
+      "message": "http://www.yandex.com.tr/"
+   },
+   "branding_turkey_galatasaray_yavideo_label": {
+      "message": "Yandex.Video"
+   },
+   "branding_turkey_galatasaray_yavideo_search_tooltip": {
+      "message": "Yandex.Video'da bul"
+   },
+   "branding_turkey_galatasaray_yavideo_search_url": {
+      "message": "http://video.yandex.com.tr/#search?text={searchTerms}"
+   },
+   "branding_turkey_galatasaray_yavideo_suggestions_url": {
+      "message": "http://suggest-video.yandex.com.tr/suggest-ff.cgi?part={searchTerms}&uil=en"
+   },
+   "branding_turkey_galatasaray_yavideo_url": {
+      "message": "http://www.video.yandex.com.tr/"
+   },
+   "branding_ua_locationbar_search_url": {
+      "message": "http://yandex.ua/search/?clid={clid9}&text="
+   },
+   "branding_ua_logo_alt": {
+      "message": "Yandex"
+   },
+   "branding_ua_logo_title": {
+      "message": "Go to Yandex Home"
+   },
+   "branding_ua_product_copyright": {
+      "message": "© 2012—2015 &quot;[Yandex](http://www.yandex.ua)&quot;"
+   },
+   "branding_ua_product_copyright_fx": {
+      "message": "© 2012—2015 &quot;[Yandex](http://www.yandex.ua)&quot;"
+   },
+   "branding_ua_product_copyright_ie": {
+      "message": "© 2012—2015 &quot;[Yandex](http://www.yandex.ua)&quot;"
+   },
+   "branding_ua_product_description": {
+      "message": "Keep all your favorite sites in one place with Visual Bookmarks. Simply click on the one of the mini webpages to visit a site. You can customize the number and order in which the bookmarks are displayed, change the background image and search the web with Yandex."
+   },
+   "branding_ua_product_goodbye_url_fx": {
+      "message": "https://element.yandex.ua/goodbye/vb/"
+   },
+   "branding_ua_product_homepage": {
+      "message": "http://visual.yandex.ua"
+   },
+   "branding_ua_product_license_url_fx": {
+      "message": "http://legal.yandex.ru/desktop_software_agreement/?lang=en"
+   },
+   "branding_ua_product_license_url_ie": {
+      "message": "http://legal.yandex.ru/desktop_software_agreement/?lang=en"
+   },
+   "branding_ua_product_name_acc": {
+      "message": "Visual Bookmarks"
+   },
+   "branding_ua_product_name_dat": {
+      "message": "Visual Bookmarks"
+   },
+   "branding_ua_product_name_gen": {
+      "message": "Visual Bookmarks"
+   },
+   "branding_ua_product_name_ins": {
+      "message": "Visual Bookmarks"
+   },
+   "branding_ua_product_name_loc": {
+      "message": "Visual Bookmarks"
+   },
+   "branding_ua_product_name_nom": {
+      "message": "Visual Bookmarks"
+   },
+   "branding_ua_product_name_pre": {
+      "message": "About Visual Bookmarks"
+   },
+   "branding_ua_product_note_fx": {
+      "message": "for Firefox"
+   },
+   "branding_ua_product_note_ie": {
+      "message": "for Internet Explorer"
+   },
+   "branding_ua_product_shortname_acc": {
+      "message": "VBs"
+   },
+   "branding_ua_product_shortname_dat": {
+      "message": "VBs"
+   },
+   "branding_ua_product_shortname_gen": {
+      "message": "VBs"
+   },
+   "branding_ua_product_shortname_ins": {
+      "message": "VBs"
+   },
+   "branding_ua_product_shortname_loc": {
+      "message": "Visual Bookmarks"
+   },
+   "branding_ua_product_shortname_nom": {
+      "message": "VBs"
+   },
+   "branding_ua_product_shortname_pre": {
+      "message": "About VBs"
+   },
+   "branding_ua_search_navigate_title": {
+      "message": "find with Yandex"
+   },
+   "branding_ua_thumb_korrespondent": {
+      "message": "Correspondent"
+   },
+   "branding_ua_thumb_vkontakte": {
+      "message": "VKontakte"
+   },
+   "branding_ua_thumb_yamail": {
+      "message": "Yandex.Mail"
+   },
+   "branding_ua_thumb_yamaps": {
+      "message": "Yandex.Maps"
+   },
+   "branding_ua_thumb_yamarket": {
+      "message": "Yandex.Market"
+   },
+   "branding_ua_thumb_yamusic": {
+      "message": "Yandex.Music"
+   },
+   "branding_ua_thumb_yandex": {
+      "message": "Yandex"
+   },
+   "branding_ua_thumb_yasoft": {
+      "message": "Yandex.Software"
+   },
+   "branding_ua_thumb_youtube": {
+      "message": "YouTube"
+   },
+   "branding_ua_vendor_name_acc": {
+      "message": "Yandex"
+   },
+   "branding_ua_vendor_name_dat": {
+      "message": "Yandex"
+   },
+   "branding_ua_vendor_name_gen": {
+      "message": "Yandex"
+   },
+   "branding_ua_vendor_name_ins": {
+      "message": "Yandex"
+   },
+   "branding_ua_vendor_name_loc": {
+      "message": "Yandex"
+   },
+   "branding_ua_vendor_name_nom": {
+      "message": "Yandex"
+   },
+   "branding_ua_vendor_name_pre": {
+      "message": "Yandex"
+   },
+   "branding_ua_yandex_label": {
+      "message": "Yandex"
+   },
+   "branding_ua_yandex_qs_keywordsearch": {
+      "message": "http://yandex.ua/search/?clid={clid9}&text={searchTerms}"
+   },
+   "branding_ua_yandex_qs_suggestions": {
+      "message": "http://suggest.yandex.ua/suggest-ff.cgi?uil=en&part={searchTerms}"
+   },
+   "branding_ua_yandex_qs_url": {
+      "message": "http://yandex.ua/search/?clid={clid6}&text={searchTerms}"
+   },
+   "branding_ua_yandex_search_site_url": {
+      "message": "http://yandex.ua/search/?text={searchTerms}&surl_manually=true&surl={searchSite}"
+   },
+   "branding_ua_yandex_search_tooltip": {
+      "message": "Search on Yandex"
+   },
+   "branding_ua_yandex_search_url": {
+      "message": "http://yandex.ua/search/?text={searchTerms}"
+   },
+   "branding_ua_yandex_url": {
+      "message": "http://www.yandex.ua"
+   },
+   "else_goodbye_page_url": {
+      "message": "https://element.yandex.ru/goodbye/vb/"
+   },
+   "layout_advertisement_addThumb_text": {
+      "message": "Click here to add a new bookmark"
+   },
+   "layout_advertisement_backgrounds_done": {
+      "message": "Done"
+   },
+   "layout_advertisement_homepage_done": {
+      "message": "Yandex set as home page"
+   },
+   "layout_advertisement_homepage_setDefault": {
+      "message": "Make Yandex your [home page]"
+   },
+   "layout_advertisement_search_done": {
+      "message": "Yandex set as default search engine"
+   },
+   "layout_advertisement_search_setDefault": {
+      "message": "Make Yandex your [default search engine]"
+   },
+   "layout_advertisement_yandexBrowser_docs": {
+      "message": "Open documents right in Yandex.Browser"
+   },
+   "layout_advertisement_yandexBrowser_downloads": {
+      "message": "Download"
+   },
+   "layout_advertisement_yandexBrowser_open": {
+      "message": "Open Yandex.Browser"
+   },
+   "layout_advertisement_yandexBrowser_updated": {
+      "message": "Try the updated Yandex.Browser"
+   },
+   "layout_app_closedWindow": {
+      "message": "Closed window"
+   },
+   "layout_app_confirmRemoveThumb": {
+      "message": "Would you like to delete this bookmark?"
+   },
+   "layout_app_editThumb": {
+      "message": "options"
+   },
+   "layout_app_empty": {
+      "message": "Empty"
+   },
+   "layout_app_name": {
+      "message": "{product1.nom}"
+   },
+   "layout_app_newBackgroundsAdvert": {
+      "message": "Try new backgrounds"
+   },
+   "layout_app_noInternet": {
+      "message": "No connection with the server. Please try again later."
+   },
+   "layout_app_pinThumb": {
+      "message": "pin"
+   },
+   "layout_app_removeThumb": {
+      "message": "remove"
+   },
+   "layout_app_searchButtonTitle": {
+      "message": "Search"
+   },
+   "layout_app_searchExampleTitle": {
+      "message": "For example"
+   },
+   "layout_app_searchTutorial_description": {
+      "message": "You can search Yandex and enter website URLs here."
+   },
+   "layout_app_searchTutorial_example": {
+      "message": "the capital of Congo"
+   },
+   "layout_app_searchTutorial_thanks": {
+      "message": "OK"
+   },
+   "layout_app_setBackgroundsAdvert": {
+      "message": "You can change the background in settings"
+   },
+   "layout_app_sync": {
+      "message": "Syncing"
+   },
+   "layout_app_unpinThumb": {
+      "message": "unpin"
+   },
+   "layout_auth_addUser": {
+      "message": "Switch user"
+   },
+   "layout_auth_passport": {
+      "message": "Passport"
+   },
+   "layout_auth_signin": {
+      "message": "Sign in"
+   },
+   "layout_auth_signout": {
+      "message": "Sign out"
+   },
+   "layout_auth_tune": {
+      "message": "{vendor.gen} settings"
+   },
+   "layout_bookmarks_otherBookmarks": {
+      "message": "Other bookmarks"
+   },
+   "layout_contextmenu_addThumb": {
+      "message": "Add bookmark"
+   },
+   "layout_contextmenu_editThumb": {
+      "message": "Bookmark settings"
+   },
+   "layout_contextmenu_openSettings": {
+      "message": "Change background of Visual Bookmarks"
+   },
+   "layout_contextmenu_pinThumb": {
+      "message": "Pin bookmark"
+   },
+   "layout_contextmenu_removeThumb": {
+      "message": "Delete bookmark"
+   },
+   "layout_contextmenu_unpinThumb": {
+      "message": "Unpin bookmark"
+   },
+   "layout_dialog_cancel": {
+      "message": "Cancel"
+   },
+   "layout_dialog_no": {
+      "message": "No"
+   },
+   "layout_dialog_ok": {
+      "message": "OK"
+   },
+   "layout_dialog_yes": {
+      "message": "Yes"
+   },
+   "layout_footer_addThumb": {
+      "message": "Add bookmark"
+   },
+   "layout_footer_apps": {
+      "message": "Apps"
+   },
+   "layout_footer_apps_missing": {
+      "message": "There are no apps"
+   },
+   "layout_footer_bookmarks": {
+      "message": "Bookmarks"
+   },
+   "layout_footer_closedTabs": {
+      "message": "Closed tabs"
+   },
+   "layout_footer_downloads": {
+      "message": "Downloads"
+   },
+   "layout_footer_history": {
+      "message": "History"
+   },
+   "layout_modalStat_accept": {
+      "message": "Allow {vendor.dat} to collect data"
+   },
+   "layout_modalStat_cancel": {
+      "message": "Don't Allow"
+   },
+   "layout_modalStat_header": {
+      "message": "Help {vendor.dat} improve our products"
+   },
+   "layout_modalStat_list_collect": {
+      "message": "We gather the following data"
+   },
+   "layout_modalStat_list_item_addon": {
+      "message": "{vendor.nom} add-on usage"
+   },
+   "layout_modalStat_list_item_bookmarks": {
+      "message": "Bookmarks"
+   },
+   "layout_modalStat_list_item_history": {
+      "message": "Browsing History"
+   },
+   "layout_modalStat_moreInfoLink": {
+      "message": "http://legal.yandex.ru/confidential?lang=en"
+   },
+   "layout_modalStat_moreInfoText": {
+      "message": "More information"
+   },
+   "layout_modalStat_text": {
+      "message": "In order to improve our products and services, we&#39;d like to collect some data about how you use browser and our add-ons. All data is anonymized and aggregated when we receive it. For more information, please see our [privacy policy]."
+   },
+   "layout_modal_cancel": {
+      "message": "Cancel"
+   },
+   "layout_modal_ok": {
+      "message": "OK"
+   },
+   "layout_restorepopup_button": {
+      "message": "Undo"
+   },
+   "layout_restorepopup_tumb": {
+      "message": "Bookmark deleted"
+   },
+   "layout_restorepopup_tumbs": {
+      "message": "{N} bookmark deleted;{N} bookmarks deleted;{N} bookmarks deleted"
+   },
+   "layout_rightchoice_text": {
+      "message": "Нажмите «Сохранить изменения», чтобы в новой вкладке открывались ваши Визуальные закладки."
+   },
+   "layout_settings": {
+      "message": "Settings"
+   },
+   "layout_settings_backgroundImage": {
+      "message": "Background"
+   },
+   "layout_settings_cancel": {
+      "message": "Cancel"
+   },
+   "layout_settings_collapsed": {
+      "message": "More settings"
+   },
+   "layout_settings_copyright": {
+      "message": "{branding}"
+   },
+   "layout_settings_editTitle": {
+      "message": "Edit description"
+   },
+   "layout_settings_isHomePage": {
+      "message": "{product1.nom} is your current home page"
+   },
+   "layout_settings_lastVisited": {
+      "message": "Recently visited"
+   },
+   "layout_settings_layoutX": {
+      "message": "horizontally"
+   },
+   "layout_settings_layoutY": {
+      "message": "vertically"
+   },
+   "layout_settings_licenseAgreement_link": {
+      "message": "{branding}"
+   },
+   "layout_settings_licenseAgreement_title": {
+      "message": "License Agreement"
+   },
+   "layout_settings_otherSoft": {
+      "message": "Other Yandex programs"
+   },
+   "layout_settings_popularSites": {
+      "message": "Popular"
+   },
+   "layout_settings_releaseDate": {
+      "message": "release date"
+   },
+   "layout_settings_save": {
+      "message": "Save"
+   },
+   "layout_settings_sendstat": {
+      "message": "Help us improve Yandex services by sharing anonymous browser usage data"
+   },
+   "layout_settings_setAsHomePage": {
+      "message": "Set as homepage "
+   },
+   "layout_settings_showAdvertisement": {
+      "message": "Show contextual ads in Visual Bookmarks"
+   },
+   "layout_settings_showBookmarksPanel": {
+      "message": "Show bookmarks panel"
+   },
+   "layout_settings_showSearchForm": {
+      "message": "Show search bar"
+   },
+   "layout_settings_showSites": {
+      "message": "Bookmarks view"
+   },
+   "layout_settings_thumbStyle_logosAndScreenshots": {
+      "message": "Logos and screenshots"
+   },
+   "layout_settings_thumbStyle_logosAndTitles": {
+      "message": "Logos and titles"
+   },
+   "layout_settings_thumbStyle_screenshots": {
+      "message": "Screenshots"
+   },
+   "layout_settings_thumbsNum": {
+      "message": "Number of bookmarks"
+   },
+   "layout_settings_titleInput_placeholder": {
+      "message": "Enter the page name"
+   },
+   "layout_settings_upload": {
+      "message": "Upload"
+   },
+   "layout_settings_urlInput_placeholder": {
+      "message": "Enter the page address"
+   },
+   "layout_sync_advertText": {
+      "message": "Your Visual Bookmarks, favorite sites&#160;and passwords will all be available on different computers&#160;— for example, at&#160;home&#160;and at&#160;work."
+   },
+   "layout_sync_closeAdvert": {
+      "message": "Close"
+   },
+   "layout_sync_enable": {
+      "message": "Enable syncing"
+   },
+   "layout_sync_enabled": {
+      "message": "Syncing turned on"
+   },
+   "layout_sync_offerText": {
+      "message": "You are already using synchronization, but are not synchronizing Visual Bookmarks. Do you want to synchronize them? [Yes, I want to](url)"
+   },
+   "layout_sync_outdated": {
+      "message": "Authorization outdated"
+   },
+   "layout_sync_repair": {
+      "message": "Fix"
+   },
+   "layout_sync_settings": {
+      "message": "Sync settings"
+   },
+   "layout_sync_turnOn": {
+      "message": "Enable"
+   },
+   "layout_sync_vbDisabled": {
+      "message": "Syncing Visual Bookmarks has been disabled"
+   },
+   "layout_sync_vbEnabled": {
+      "message": "Syncing Visual Bookmarks has been enabled"
+   }
+}

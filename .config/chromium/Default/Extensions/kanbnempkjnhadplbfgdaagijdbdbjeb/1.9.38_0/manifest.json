@@ -1,0 +1,20 @@
+{
+   "content_scripts": [ {
+      "css": [ "content/youtubeautoreplay.css" ],
+      "js": [ "tp/jquery.js", "content/youtubeautoreplay.js" ],
+      "matches": [ "http://www.youtube.com/*", "https://www.youtube.com/*" ],
+      "run_at": "document_end"
+   } ],
+   "description": "Adds an Auto Replay button in YouTube™ Page. For Issues or Feature requests, mail to: sridhar.pg@gmail.com.",
+   "icons": {
+      "18": "youtubereplay18.png",
+      "24": "youtubereplay24.png",
+      "48": "youtubereplay48.png",
+      "64": "youtubereplay64.png"
+   },
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDMe+13BeUwCynnQ2lxb/CMkTPF/WaR3HFLGD9W4ZvWYA7ModYU8tJ+bNtqBeGBKfO6iGgUmnyLl8xDY2F8zCebV/+Zm86Iuay8OLeFKfYXBOhfG61R3jxjspS2YrUGZ+lUpCd5FODLiiqVh7AJ2C6yRvSyW4j2TQCKZDQMuF3x8QIDAQAB",
+   "manifest_version": 2,
+   "name": "Auto Replay for YouTube™",
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.9.38"
+}

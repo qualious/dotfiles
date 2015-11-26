@@ -1,0 +1,102 @@
+{
+   "accelerator": {
+      "description": "",
+      "message": "Luasaire"
+   },
+   "appDesc": {
+      "description": "An cur síos ar an t-iarratas, ar taispeáint sa siopa idirlín.",
+      "message": "Láithreáin ghréasáin Rochtain bac i do thír féin, chuideachta nó scoil le Hola! Tá Hola saor in aisce agus éasca le húsáid!"
+   },
+   "appDesc_nohola": {
+      "description": "",
+      "message": "Gréasáin rochtana bac i do thír, chuideachta nó scoil! is é seo an síneadh saor in aisce agus éasca le húsáid!"
+   },
+   "appName": {
+      "description": "An teideal an t-iarratas, ar taispeáint sa siopa idirlín.",
+      "message": "Hola Fearr Idirlín"
+   },
+   "appName_nohola": {
+      "description": "",
+      "message": "Unlimited saor in aisce Proxy VPN"
+   },
+   "back": {
+      "description": "",
+      "message": "ar ais go dtí"
+   },
+   "blocked": {
+      "description": "",
+      "message": "bac?"
+   },
+   "changing": {
+      "description": "",
+      "message": "athrú"
+   },
+   "conflict1": {
+      "description": "",
+      "message": "Do shocruithe um sheachfhreastalaithe líonra á bhainistiú ag síneadh eile"
+   },
+   "conflict2": {
+      "description": "",
+      "message": "Díchumasaigh go síneadh"
+   },
+   "conflict3": {
+      "description": "",
+      "message": "chun leanúint ar aghaidh leis an Hola"
+   },
+   "evenmore": {
+      "description": "",
+      "message": "fiú níos mó"
+   },
+   "initial": {
+      "description": "",
+      "message": "Initializing, le do thoil go fóill"
+   },
+   "loading": {
+      "description": "",
+      "message": "Ag luchtú ..."
+   },
+   "more": {
+      "description": "",
+      "message": "níos mó ..."
+   },
+   "notworking": {
+      "description": "",
+      "message": "nach bhfuil ag obair? roghanna níos mó ..."
+   },
+   "off": {
+      "description": "",
+      "message": "Off"
+   },
+   "old1": {
+      "description": "",
+      "message": "Leagan an-sean de Chrome"
+   },
+   "old2": {
+      "description": "",
+      "message": "Chrome a úsáid Hola"
+   },
+   "on": {
+      "description": "",
+      "message": "AR"
+   },
+   "settings": {
+      "description": "",
+      "message": "suímh"
+   },
+   "sitelist": {
+      "description": "",
+      "message": "Liosta láithreán unblocker"
+   },
+   "start": {
+      "description": "",
+      "message": "Cas ar chun tús a chur"
+   },
+   "unblocked": {
+      "description": "",
+      "message": "Unblocked"
+   },
+   "update": {
+      "description": "",
+      "message": "Nuashonrú"
+   }
+}

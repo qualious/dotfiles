@@ -1,0 +1,90 @@
+{
+   "appDesc": {
+      "description": "Beskrivelsen af ansøgningen, der vises i web-butik.",
+      "message": "Få adgang til HELE Internettet! Gå til blokering side -> klik på Hola ikonet -> skift nationalflag -> NYD DET!"
+   },
+   "appDesc_nohola": {
+      "description": "",
+      "message": "Adgang hjemmesider blokeret i dit land, virksomhed eller skole! denne udvidelse er gratis og nem at bruge!"
+   },
+   "appName": {
+      "description": "Titlen på ansøgningen, der vises i web-butik.",
+      "message": "Hola Bedre Internet"
+   },
+   "appName_nohola": {
+      "description": "",
+      "message": "Ubegrænset gratis proxy VPN"
+   },
+   "back": {
+      "description": "",
+      "message": "tilbage til"
+   },
+   "blocked": {
+      "description": "",
+      "message": "blokeret?"
+   },
+   "changing": {
+      "description": "",
+      "message": "skiftende"
+   },
+   "conflict1": {
+      "description": "",
+      "message": "Dit netværk proxy-indstillinger administreres af et andet lokalnummer"
+   },
+   "conflict2": {
+      "description": "",
+      "message": "Deaktiver denne forlængelse"
+   },
+   "conflict3": {
+      "description": "",
+      "message": "at fortsætte med Hola"
+   },
+   "evenmore": {
+      "description": "",
+      "message": "endnu mere"
+   },
+   "initial": {
+      "description": "",
+      "message": "Initialisering, vent venligst"
+   },
+   "loading": {
+      "description": "",
+      "message": "Indlæser ..."
+   },
+   "more": {
+      "description": "",
+      "message": "mere ..."
+   },
+   "notworking": {
+      "description": "",
+      "message": "ikke fungerer? flere valgmuligheder ..."
+   },
+   "old1": {
+      "description": "",
+      "message": "Meget gamle version af Chrome"
+   },
+   "old2": {
+      "description": "",
+      "message": "Chrome til at bruge Hola"
+   },
+   "settings": {
+      "description": "",
+      "message": "indstillinger"
+   },
+   "sitelist": {
+      "description": "",
+      "message": "unblocker websted liste"
+   },
+   "start": {
+      "description": "",
+      "message": "Tænd for at komme i gang"
+   },
+   "unblocked": {
+      "description": "",
+      "message": "ublokeret"
+   },
+   "update": {
+      "description": "",
+      "message": "Opdatering"
+   }
+}

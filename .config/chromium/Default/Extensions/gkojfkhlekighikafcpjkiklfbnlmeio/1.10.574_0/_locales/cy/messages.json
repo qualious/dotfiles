@@ -1,0 +1,94 @@
+{
+   "accelerator": {
+      "description": "",
+      "message": "Cyflymydd"
+   },
+   "appDesc": {
+      "description": "Mae'r disgrifiad o'r cais, eu harddangos yn y siop ar y we.",
+      "message": "Gwefannau Mynediad wedi blocio yn eich gwlad, cwmni neu ysgol gyda Hola! Hola yn rhad ac am ddim ac yn hawdd i&#39;w defnyddio!"
+   },
+   "appDesc_nohola": {
+      "description": "",
+      "message": "Gwefannau Mynediad wedi blocio yn eich gwlad, cwmni neu ysgol! estyniad hwn yn rhad ac am ddim ac yn hawdd i&#39;w defnyddio!"
+   },
+   "appName": {
+      "description": "Mae teitl y cais, eu harddangos yn y siop ar y we.",
+      "message": "Hola Gwell Rhyngrwyd"
+   },
+   "appName_nohola": {
+      "description": "",
+      "message": "Unlimited am ddim Proxy VPN"
+   },
+   "back": {
+      "description": "",
+      "message": "yn ôl i'r"
+   },
+   "blocked": {
+      "description": "",
+      "message": "blocio?"
+   },
+   "changing": {
+      "description": "",
+      "message": "newid"
+   },
+   "conflict1": {
+      "description": "",
+      "message": "Mae eich gosodiadau dirprwy rhwydwaith yn cael eu rheoli gan estyniad arall"
+   },
+   "conflict2": {
+      "description": "",
+      "message": "Analluoga estyniad hwnnw"
+   },
+   "conflict3": {
+      "description": "",
+      "message": "i barhau â Hola"
+   },
+   "evenmore": {
+      "description": "",
+      "message": "hyd yn oed mwy"
+   },
+   "initial": {
+      "description": "",
+      "message": "Ymgychwyn, arhoswch"
+   },
+   "loading": {
+      "description": "",
+      "message": "Llwytho ..."
+   },
+   "more": {
+      "description": "",
+      "message": "mwy ..."
+   },
+   "notworking": {
+      "description": "",
+      "message": "ddim yn gweithio? mwy o ddewisiadau ..."
+   },
+   "old1": {
+      "description": "",
+      "message": "Hen iawn fersiwn Chrome"
+   },
+   "old2": {
+      "description": "",
+      "message": "Chrome i ddefnyddio Hola"
+   },
+   "settings": {
+      "description": "",
+      "message": "lleoliadau"
+   },
+   "sitelist": {
+      "description": "",
+      "message": "Rhestr y safle unblocker"
+   },
+   "start": {
+      "description": "",
+      "message": "Troi ar i ddechrau arni"
+   },
+   "unblocked": {
+      "description": "",
+      "message": "dadflocio"
+   },
+   "update": {
+      "description": "",
+      "message": "Diweddariad"
+   }
+}

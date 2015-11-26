@@ -1,0 +1,98 @@
+{
+   "accelerator": {
+      "description": "",
+      "message": "Acelerador"
+   },
+   "appDesc": {
+      "description": "A descrición da aplicación, exhibido na tenda web.",
+      "message": "Acceder a sitios bloqueadas no seu país, empresa ou escola con Hola! Hola é gratis e doado de usar!"
+   },
+   "appDesc_nohola": {
+      "description": "",
+      "message": "Acceder a sitios bloqueadas no seu país, empresa ou escola! esta extensión é gratis e doado de usar!"
+   },
+   "appName": {
+      "description": "O título da aplicación, exhibido na tenda web.",
+      "message": "Hola Mellor Internet"
+   },
+   "appName_nohola": {
+      "description": "",
+      "message": "Gratuíto e ilimitado Proxy VPN"
+   },
+   "back": {
+      "description": "",
+      "message": "de volta a"
+   },
+   "blocked": {
+      "description": "",
+      "message": "bloqueado?"
+   },
+   "changing": {
+      "description": "",
+      "message": "cambiando"
+   },
+   "conflict1": {
+      "description": "",
+      "message": "As opcións de proxy de rede están sendo administrados por outra extensión"
+   },
+   "conflict2": {
+      "description": "",
+      "message": "Desactivar esta extensión"
+   },
+   "conflict3": {
+      "description": "",
+      "message": "para continuar coa Hola"
+   },
+   "evenmore": {
+      "description": "",
+      "message": "aínda máis"
+   },
+   "initial": {
+      "description": "",
+      "message": "Arrincar, por favor espere"
+   },
+   "loading": {
+      "description": "",
+      "message": "Cargando ..."
+   },
+   "more": {
+      "description": "",
+      "message": "Máis ..."
+   },
+   "notworking": {
+      "description": "",
+      "message": "non funciona? máis opcións ..."
+   },
+   "old1": {
+      "description": "",
+      "message": "Versión moi antiga de Chrome"
+   },
+   "old2": {
+      "description": "",
+      "message": "Chrome para usar Hola"
+   },
+   "reload": {
+      "description": "",
+      "message": "Recargar"
+   },
+   "settings": {
+      "description": "",
+      "message": "definicións"
+   },
+   "sitelist": {
+      "description": "",
+      "message": "lista de sitios unblocker"
+   },
+   "start": {
+      "description": "",
+      "message": "Chame comezar"
+   },
+   "unblocked": {
+      "description": "",
+      "message": "desbloqueado"
+   },
+   "update": {
+      "description": "",
+      "message": "Actualizar"
+   }
+}

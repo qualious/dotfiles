@@ -1,0 +1,21 @@
+[Added Associations]
+text/plain=sublime_text_3.desktop;
+application/x-shellscript=sublime_text_3.desktop;xterm.desktop;
+text/css=sublime_text_3.desktop;
+text/html=sublime_text_3.desktop;firefox.desktop;
+application/x-compressed-tar=xarchiver.desktop;
+image/png=gpicview.desktop;
+application/json=sublime_text_3.desktop;
+image/jpeg=gpicview.desktop;
+text/x-python=sublime_text_3.desktop;
+application/zip=xarchiver.desktop;
+text/x-matlab=sublime_text_3.desktop;
+image/svg+xml=gpicview.desktop;
+image/x-tga=gpicview.desktop;
+text/markdown=sublime_text_3.desktop;
+application/pdf=chromium.desktop;
+application/x-php=sublime_text_3.desktop;
+audio/x-wav=vlc.desktop;
+
+[Default Applications]
+text/plain=sublime_text_3.desktop

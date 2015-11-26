@@ -1,0 +1,168 @@
+{
+   "checksum": "28e63b3b38449fa16aa3d6ad43c44ae1",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13076839894288715",
+            "id": "7",
+            "meta_info": {
+               "stars.flags": "5",
+               "stars.id": "ssc_bea2b9f7206769a1",
+               "stars.version": "sync.server.Chrome43"
+            },
+            "name": "Bookmarks",
+            "type": "url",
+            "url": "chrome://bookmarks/"
+         }, {
+            "date_added": "13010858021768191",
+            "id": "8",
+            "name": "monoface",
+            "type": "url",
+            "url": "http://www.mono-1.com/monoface/main.html"
+         }, {
+            "date_added": "13010858021781905",
+            "id": "9",
+            "meta_info": {
+               "stars.id": "ssc_77ea3468017f7e5c",
+               "stars.version": "sync.server.Chrome46"
+            },
+            "name": "RainyMood.com: Rain makes everything better.",
+            "type": "url",
+            "url": "http://www.rainymood.com/"
+         }, {
+            "date_added": "13010858021782616",
+            "id": "10",
+            "name": "Free Nature Sounds Mixer",
+            "type": "url",
+            "url": "http://naturesoundsfor.me/"
+         }, {
+            "date_added": "13010858021785761",
+            "id": "11",
+            "name": "HowStuffWorks \"Learn how Everything Works!\"",
+            "type": "url",
+            "url": "http://www.howstuffworks.com/"
+         }, {
+            "date_added": "13033030708998613",
+            "id": "12",
+            "meta_info": {
+               "stars.flags": "6",
+               "stars.id": "ssc_885ff9e2cc92f954",
+               "stars.imageData": "Cg56Y3JpakFka1YxWl9kTRJpCmFodHRwOi8vMS5icC5ibG9nc3BvdC5jb20vLVY0TzU0aTJ3bHFNL1VzTHVEUFd4cjRJL0FBQUFBQUFBRFk0L3JuSjhodUt4VG8wL3MzMjAvdGVhY2hlcitwaXJhdGUuanBnEOsBGNcBGmMKW2h0dHA6Ly90MS5nc3RhdGljLmNvbS9pbWFnZXM/cT10Ym46QU5kOUdjU29XMVhPb1FCQXZzbzZRNHBZREJvQVBNLUotcUQ0WGliQnZNU2tFTFAtdlVvS0w2M3gQ6wEY1wEiEwgBEOsBGNcBIMtIQgYSBJMDZ3w=",
+               "stars.pageData": "Ig5PZ1pvcUQ2VVFZOHR0TQ==",
+               "stars.version": "sync.server.Chrome43"
+            },
+            "name": "reddit",
+            "type": "url",
+            "url": "http://blog.reddit.com/2013/12/top-posts-of-2013-stats-and-snoo-years.html"
+         }, {
+            "date_added": "13035838909626402",
+            "id": "13",
+            "meta_info": {
+               "stars.id": "ssc_307cb4d647a2e92b",
+               "stars.version": "sync.server.Chrome46"
+            },
+            "name": "hs1KO.gif (300×168)",
+            "type": "url",
+            "url": "http://i.imgur.com/hs1KO.gif"
+         }, {
+            "date_added": "13037401164530041",
+            "id": "14",
+            "meta_info": {
+               "stars.id": "ssc_7ab361482d08a533",
+               "stars.version": "sync.server.Chrome45"
+            },
+            "name": "earth wind map",
+            "type": "url",
+            "url": "http://earth.nullschool.net/#current/wind/surface/level/orthographic=-325.76,37.52,3000"
+         }, {
+            "date_added": "13043365548635713",
+            "id": "15",
+            "name": "Philosophy Experiments",
+            "type": "url",
+            "url": "http://www.philosophyexperiments.com/"
+         }, {
+            "date_added": "13043864761127597",
+            "id": "16",
+            "name": "Global Breakfast Radio",
+            "type": "url",
+            "url": "http://www.globalbreakfastradio.com/"
+         }, {
+            "date_added": "13044222934130421",
+            "id": "17",
+            "name": "Roquelaire",
+            "type": "url",
+            "url": "http://roquelaire.com/"
+         }, {
+            "date_added": "13046272472352983",
+            "id": "18",
+            "name": "Supercook: recipe search by ingredients you have at home",
+            "type": "url",
+            "url": "http://www.supercook.com/#/recipes/All%2520recipes"
+         }, {
+            "date_added": "13088191596094664",
+            "id": "19",
+            "meta_info": {
+               "stars.flags": "5",
+               "stars.id": "ssc_1640aef1b7a35a91",
+               "stars.version": "sync.server.Chrome45"
+            },
+            "name": "Suggested Sites",
+            "type": "url",
+            "url": "https://ieonline.microsoft.com/#ieslice"
+         }, {
+            "date_added": "13088355603134529",
+            "id": "20",
+            "meta_info": {
+               "stars.id": "ssc_253f10a5f14c8949",
+               "stars.version": "sync.server.Chrome45"
+            },
+            "name": "rom",
+            "type": "url",
+            "url": "https://www.google.com.tr/search?q=aicp+lp9+nightly&oq=aicp+lp9+nightly&aqs=chrome..69i57&sourceid=chrome&es_sm=0&ie=UTF-8"
+         }, {
+            "date_added": "13088359502090935",
+            "id": "21",
+            "meta_info": {
+               "stars.flags": "5",
+               "stars.id": "ssc_926e52f6b5d61c93",
+               "stars.version": "sync.server.Chrome45"
+            },
+            "name": "[ROM] [07Jul] AICP - 10.0 - LP 5.1.1_r4 sham… - Pg. 115 | Nexus 6 | XDA Forums",
+            "type": "url",
+            "url": "http://forum.xda-developers.com/nexus-6/development/rom-aicp-8-0-lp-5-0-2r1-shamu-t3026266/page115"
+         } ],
+         "date_added": "13092527258482754",
+         "date_modified": "13088359502090935",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13092527258482759",
+         "date_modified": "0",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [ {
+            "date_added": "13010858021749083",
+            "id": "6",
+            "meta_info": {
+               "stars.id": "ssc_a25c6e714dc0f6b8",
+               "stars.version": "sync.server.Chrome45"
+            },
+            "name": "Forum Konusu : SEZEN AKSU",
+            "type": "url",
+            "url": "https://docs.google.com/document/d/1p0q62yfrG_dG36IyJBKDmC_DYxlB5N5c5UtWyQXi24g/mobilebasic"
+         } ],
+         "date_added": "13092527258482760",
+         "date_modified": "13010858021749083",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

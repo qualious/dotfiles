@@ -1,0 +1,110 @@
+{
+   "accelerator": {
+      "description": "",
+      "message": "ವೇಗವರ್ಧಕ"
+   },
+   "appDesc": {
+      "description": "ವೆಬ್ ಅಂಗಡಿ ಪ್ರದರ್ಶಿಸಲಾಗುತ್ತದೆ ಅಪ್ಲಿಕೇಶನ್ ವಿವರಣೆ,.",
+      "message": "ಪ್ರವೇಶ ವೆಬ್ಸೈಟ್ ಹೊಲಾ ನಿಮ್ಮ ದೇಶದ, ಕಂಪನಿ ಅಥವಾ ಶಾಲೆಯಲ್ಲಿ ನಿರ್ಬಂಧಿಸಲಾಗಿದೆ! ಹೊಲಾ ಉಚಿತ ಮತ್ತು ಬಳಸಲು ಸುಲಭ!"
+   },
+   "appDesc_nohola": {
+      "description": "",
+      "message": "ಪ್ರವೇಶ ವೆಬ್ಸೈಟ್ ನಿಮ್ಮ ದೇಶದ, ಕಂಪನಿ ಅಥವಾ ಶಾಲೆಯಲ್ಲಿ ನಿರ್ಬಂಧಿಸಲಾಗಿದೆ! ಈ ವಿಸ್ತರಣೆಯನ್ನು ಉಚಿತ ಮತ್ತು ಬಳಸಲು ಸುಲಭ!"
+   },
+   "appName": {
+      "description": "ವೆಬ್ ಅಂಗಡಿ ಪ್ರದರ್ಶಿಸಲಾಗುತ್ತದೆ ಅಪ್ಲಿಕೇಶನ್ ಶೀರ್ಷಿಕೆ.",
+      "message": "ಹೊಲಾ ಉತ್ತಮ ಇಂಟರ್ನೆಟ್"
+   },
+   "appName_nohola": {
+      "description": "",
+      "message": "ಅನ್ಲಿಮಿಟೆಡ್ ಉಚಿತ ಪ್ರಾಕ್ಸಿ VPN"
+   },
+   "back": {
+      "description": "",
+      "message": "ಹಿಂದೆ"
+   },
+   "blocked": {
+      "description": "",
+      "message": "ನಿರ್ಬಂಧಿಸಲಾಗಿದೆ?"
+   },
+   "changing": {
+      "description": "",
+      "message": "ಬದಲಾಗುತ್ತಿರುವ"
+   },
+   "conflict1": {
+      "description": "",
+      "message": "ನಿಮ್ಮ ನೆಟ್ವರ್ಕ್ ಪ್ರಾಕ್ಸಿ ಸೆಟ್ಟಿಂಗ್ಗಳನ್ನು ಮತ್ತೊಂದು ವಿಸ್ತರಣೆ ನಿಭಾಯಿಸುತ್ತದೆ"
+   },
+   "conflict2": {
+      "description": "",
+      "message": "ವಿಸ್ತರಣೆ ನಿಷ್ಕ್ರಿಯಗೊಳಿಸಿ"
+   },
+   "conflict3": {
+      "description": "",
+      "message": "ಹೊಲಾ ಮುಂದುವರೆಯಲು"
+   },
+   "evenmore": {
+      "description": "",
+      "message": "ಇನ್ನಷ್ಟು"
+   },
+   "hola": {
+      "description": "",
+      "message": "ಹೊಲಾ"
+   },
+   "initial": {
+      "description": "",
+      "message": "ಆರಂಭಿಸುವಿಕೆ, ದಯವಿಟ್ಟು ನಿರೀಕ್ಷಿಸಿ"
+   },
+   "loading": {
+      "description": "",
+      "message": "ಲೋಡ್ ಆಗುತ್ತಿದೆ ..."
+   },
+   "more": {
+      "description": "",
+      "message": "ಹೆಚ್ಚು ..."
+   },
+   "notworking": {
+      "description": "",
+      "message": "ಕೆಲಸ? ಹೆಚ್ಚು ಆಯ್ಕೆಗಳನ್ನು ..."
+   },
+   "off": {
+      "description": "",
+      "message": "ಆಫ್"
+   },
+   "old1": {
+      "description": "",
+      "message": "Chrome ನ ಹಳೆಯ ಆವೃತ್ತಿಯನ್ನು"
+   },
+   "old2": {
+      "description": "",
+      "message": "ಹೊಲಾ ಬಳಸಲು ಕ್ರೋಮ್"
+   },
+   "on": {
+      "description": "",
+      "message": "ಮೇಲೆ"
+   },
+   "reload": {
+      "description": "",
+      "message": "ರೀಲೋಡ್"
+   },
+   "settings": {
+      "description": "",
+      "message": "ಸೆಟ್ಟಿಂಗ್ಗಳನ್ನು"
+   },
+   "sitelist": {
+      "description": "",
+      "message": "unblocker ಸೈಟ್ ಪಟ್ಟಿ"
+   },
+   "start": {
+      "description": "",
+      "message": "ಆನ್ ಮಾಡಿ ಪ್ರಾರಂಭಿಸಲು"
+   },
+   "unblocked": {
+      "description": "",
+      "message": "ಅವರನ್ನು ನಿರ್ಬಂಧಿಸಲಾಗಿದೆ"
+   },
+   "update": {
+      "description": "",
+      "message": "ಅಪ್ಡೇಟ್"
+   }
+}

@@ -1,0 +1,94 @@
+{
+   "appDesc": {
+      "description": "Các mô tả của ứng dụng, hiển thị trong cửa hàng web.",
+      "message": "Truy cập trang web bị chặn trong nước, công ty hay trường học của bạn với Hola! Hola là miễn phí và dễ sử dụng!"
+   },
+   "appDesc_nohola": {
+      "description": "",
+      "message": "Access websites blocked in your country, company or school! this extension is free and easy to use!"
+   },
+   "appName": {
+      "description": "Tiêu đề của các ứng dụng, hiển thị trong các cửa hàng web.",
+      "message": "Hola Better Internet"
+   },
+   "appName_nohola": {
+      "description": "",
+      "message": "Unlimited Free Proxy VPN"
+   },
+   "back": {
+      "description": "",
+      "message": "Quay lại"
+   },
+   "blocked": {
+      "description": "",
+      "message": "bị chặn?"
+   },
+   "changing": {
+      "description": "",
+      "message": "thay đổi"
+   },
+   "conflict1": {
+      "description": "",
+      "message": "Cài đặt proxy mạng của bạn đang được quản lý bởi phần mở rộng khác"
+   },
+   "conflict2": {
+      "description": "",
+      "message": "Vô hiệu hóa phần mở rộng"
+   },
+   "conflict3": {
+      "description": "",
+      "message": "tiếp tục với Hola"
+   },
+   "evenmore": {
+      "description": "",
+      "message": "thậm chí nhiều hơn"
+   },
+   "initial": {
+      "description": "",
+      "message": "Khởi tạo, xin vui lòng chờ đợi"
+   },
+   "loading": {
+      "description": "",
+      "message": "Đang tải ..."
+   },
+   "more": {
+      "description": "",
+      "message": "nhiều hơn ..."
+   },
+   "notworking": {
+      "description": "",
+      "message": "không làm việc? lựa chọn khác ..."
+   },
+   "old1": {
+      "description": "",
+      "message": "Phiên bản rất cũ của Chrome"
+   },
+   "old2": {
+      "description": "",
+      "message": "Chrome sử dụng Hola"
+   },
+   "reload": {
+      "description": "",
+      "message": "Nạp lại"
+   },
+   "settings": {
+      "description": "",
+      "message": "cài đặt"
+   },
+   "sitelist": {
+      "description": "",
+      "message": "danh sách trang web unblocker"
+   },
+   "start": {
+      "description": "",
+      "message": "Bật để bắt đầu"
+   },
+   "unblocked": {
+      "description": "",
+      "message": "cấm"
+   },
+   "update": {
+      "description": "",
+      "message": "Cập nhật"
+   }
+}

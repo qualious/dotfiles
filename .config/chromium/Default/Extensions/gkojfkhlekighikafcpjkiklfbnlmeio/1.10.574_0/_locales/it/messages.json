@@ -1,0 +1,98 @@
+{
+   "accelerator": {
+      "description": "",
+      "message": "Acceleratore"
+   },
+   "appDesc": {
+      "description": "La descrizione dell&#39;applicazione, visualizzata nel negozio.",
+      "message": "Visita qualsiasi sito, ovunque! Vai sul sito bloccato -> clicca sull'icona Hola -> cambia la bandiera del paese -> GODITI IL SITO!"
+   },
+   "appDesc_nohola": {
+      "description": "",
+      "message": "Accedere a siti Web bloccati nel vostro paese, la società o la scuola! questa estensione è gratuito e facile da usare!"
+   },
+   "appName": {
+      "description": "Il titolo della domanda, visualizzata nel negozio web.",
+      "message": "Hola Internet migliore"
+   },
+   "appName_nohola": {
+      "description": "",
+      "message": "VPN illimitata proxy gratuito"
+   },
+   "back": {
+      "description": "",
+      "message": "torna a"
+   },
+   "blocked": {
+      "description": "",
+      "message": "bloccato?"
+   },
+   "changing": {
+      "description": "",
+      "message": "mutevole"
+   },
+   "conflict1": {
+      "description": "",
+      "message": "Le impostazioni del proxy di rete sono attualmente gestite da un altro interno"
+   },
+   "conflict2": {
+      "description": "",
+      "message": "Disattivare tale estensione"
+   },
+   "conflict3": {
+      "description": "",
+      "message": "per continuare con Hola"
+   },
+   "evenmore": {
+      "description": "",
+      "message": "ancora di più"
+   },
+   "initial": {
+      "description": "",
+      "message": "Inizializzazione, attendere prego"
+   },
+   "loading": {
+      "description": "",
+      "message": "Caricamento in corso ..."
+   },
+   "more": {
+      "description": "",
+      "message": "Di più ..."
+   },
+   "notworking": {
+      "description": "",
+      "message": "non funziona? più opzioni ..."
+   },
+   "old1": {
+      "description": "",
+      "message": "Molto vecchia versione di Chrome"
+   },
+   "old2": {
+      "description": "",
+      "message": "Chrome per usare Hola"
+   },
+   "reload": {
+      "description": "",
+      "message": "Ricaricare"
+   },
+   "settings": {
+      "description": "",
+      "message": "Impostazioni"
+   },
+   "sitelist": {
+      "description": "",
+      "message": "elenco dei siti unblocker"
+   },
+   "start": {
+      "description": "",
+      "message": "Attivare per iniziare"
+   },
+   "unblocked": {
+      "description": "",
+      "message": "sbloccato"
+   },
+   "update": {
+      "description": "",
+      "message": "Aggiornare"
+   }
+}

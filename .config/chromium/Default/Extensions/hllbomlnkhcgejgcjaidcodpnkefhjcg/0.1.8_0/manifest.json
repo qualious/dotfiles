@@ -1,0 +1,17 @@
+{
+   "content_scripts": [ {
+      "css": [ "bar.css" ],
+      "matches": [ "\u003Call_urls>" ]
+   } ],
+   "description": "A minimal scrollbar that gets out of your way.",
+   "icons": {
+      "128": "128.png",
+      "16": "16.png",
+      "48": "48.png"
+   },
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDlkHs7iF/2P2YhEAnpQ8zDsDWa5zSDoP8TtkZY5tqt+kWf76ow/wPbcTeI6aI6DYG56zq4MwYgKOR3X/hJbBRkiNZlc/PP/rX9WhlCA9rLjDqhJis3sB4qEx5T1xqQpQLmeNeKe+OYcljgmBx4Q1i7UnWX1g9Eauw3sZR4JVUnLQIDAQAB",
+   "manifest_version": 2,
+   "name": "Better Scrollbar",
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "0.1.8"
+}

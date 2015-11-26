@@ -1,0 +1,98 @@
+{
+   "accelerator": {
+      "description": "",
+      "message": "Accélérateur"
+   },
+   "appDesc": {
+      "description": "La description de l&#39;application, affiché dans la boutique en ligne.",
+      "message": "Accéder aux sites Web à partir de n'importe où! Ouvert site bloqué > cliquez Hola > changez le drapeau du pays > PROFITEZ!"
+   },
+   "appDesc_nohola": {
+      "description": "",
+      "message": "Sites d&#39;accès bloqué dans votre pays, la société ou l&#39;école! cette extension est gratuit et facile à utiliser!"
+   },
+   "appName": {
+      "description": "Le titre de l&#39;application, affiché dans la boutique en ligne.",
+      "message": "Hola - VPN gratuitx"
+   },
+   "appName_nohola": {
+      "description": "",
+      "message": "Illimité Proxy VPN gratuit"
+   },
+   "back": {
+      "description": "",
+      "message": "retour à"
+   },
+   "blocked": {
+      "description": "",
+      "message": "bloqué?"
+   },
+   "changing": {
+      "description": "",
+      "message": "changement"
+   },
+   "conflict1": {
+      "description": "",
+      "message": "Vos paramètres de proxy réseau sont gérées par un autre poste"
+   },
+   "conflict2": {
+      "description": "",
+      "message": "Désactivez cette extension"
+   },
+   "conflict3": {
+      "description": "",
+      "message": "pour continuer avec Hola"
+   },
+   "evenmore": {
+      "description": "",
+      "message": "même plus"
+   },
+   "initial": {
+      "description": "",
+      "message": "Initialisation, s&#39;il vous plaît patienter"
+   },
+   "loading": {
+      "description": "",
+      "message": "Chargement ..."
+   },
+   "more": {
+      "description": "",
+      "message": "Plus ..."
+   },
+   "notworking": {
+      "description": "",
+      "message": "ne fonctionne pas? plus d&#39;options ..."
+   },
+   "old1": {
+      "description": "",
+      "message": "Très ancienne version de Chrome"
+   },
+   "old2": {
+      "description": "",
+      "message": "Chrome pour utiliser Hola"
+   },
+   "reload": {
+      "description": "",
+      "message": "Recharger"
+   },
+   "settings": {
+      "description": "",
+      "message": "paramètres"
+   },
+   "sitelist": {
+      "description": "",
+      "message": "liste des sites déboucheur"
+   },
+   "start": {
+      "description": "",
+      "message": "Allumez pour commencer"
+   },
+   "unblocked": {
+      "description": "",
+      "message": "débloqué"
+   },
+   "update": {
+      "description": "",
+      "message": "Mettre à jour"
+   }
+}

@@ -1,0 +1,21 @@
+background no
+out_to_console yes
+out_to_x no
+own_window no
+update_interval 1
+total_run_times 0
+short_units yes
+pad_percents 3
+cpu_avg_samples 2
+TEXT
+[
+{"full_text":"  ${exec /home/qual/.config/i3/Scripts/spotify-nowplaying.sh }","color":"\#51C879"},
+{"full_text": " $uptime_short","color":"\#cda869"},
+{"full_text": "${if_existing /proc/net/route wlan0} :${addr wlan0}${endif}","color":"\#89b859"},
+{"full_text": "${if_existing /proc/net/route wlan0}${wireless_essid wlan0} ${wireless_link_qual_perc wlan0}%${endif}", "color":"\#00AAAA"},
+{"full_text": " $mem","color":"\#CC575D"},
+{"full_text": "${exec /home/qual/.config/i3/Scripts/vol.sh }", "color":"\#51C8A4" },
+{"full_text": " ${time %A, %d/%m}", "color":"\#afc4db"}, 
+{"full_text": " ${time %H:%M}", "color":"\#B19CD9"}
+
+],

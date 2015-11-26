@@ -1,0 +1,98 @@
+{
+   "appDesc": {
+      "description": "వెబ్ స్టోర్ ప్రదర్శించబడుతుంది అప్లికేషన్ యొక్క వివరణ.",
+      "message": "యాక్సెస్ వెబ్సైట్లు హోలా తో మీ దేశం, కంపెనీ లేదా పాఠశాలలో బ్లాక్! హోలా ఉచితం మరియు ఉపయోగించడానికి సులభం!"
+   },
+   "appDesc_nohola": {
+      "description": "",
+      "message": "యాక్సెస్ వెబ్సైట్లు మీ దేశం, కంపెనీ లేదా పాఠశాలలో బ్లాక్! ఈ పొడిగింపు ఉచితం మరియు ఉపయోగించడానికి సులభం!"
+   },
+   "appName": {
+      "description": "వెబ్ స్టోర్ ప్రదర్శించబడుతుంది అప్లికేషన్ యొక్క టైటిల్.",
+      "message": "హోలా బెటర్ ఇంటర్నెట్"
+   },
+   "appName_nohola": {
+      "description": "",
+      "message": "అపరిమిత ఉచిత ప్రాక్సీ VPN"
+   },
+   "back": {
+      "description": "",
+      "message": "తిరిగి"
+   },
+   "blocked": {
+      "description": "",
+      "message": "బ్లాక్ చేయబడిందా?"
+   },
+   "changing": {
+      "description": "",
+      "message": "మారుతున్న"
+   },
+   "conflict1": {
+      "description": "",
+      "message": "మీ నెట్వర్క్ ప్రాక్సీ సెట్టింగ్లు మరొక పొడిగింపు ద్వారా నిర్వహించబడుతున్నాయి"
+   },
+   "conflict2": {
+      "description": "",
+      "message": "అది ఎక్స్టెన్షన్ డిసేబుల్"
+   },
+   "conflict3": {
+      "description": "",
+      "message": "హోలా కొనసాగించాలని"
+   },
+   "evenmore": {
+      "description": "",
+      "message": "మరింత"
+   },
+   "hola": {
+      "description": "",
+      "message": "హోలా"
+   },
+   "initial": {
+      "description": "",
+      "message": "ప్రారంభించడం, దయచేసి వేచి ఉండండి"
+   },
+   "loading": {
+      "description": "",
+      "message": "లోడ్ అవుతోంది ..."
+   },
+   "more": {
+      "description": "",
+      "message": "మరింత ..."
+   },
+   "notworking": {
+      "description": "",
+      "message": "పని లేదు? మరిన్ని ఎంపికలు ..."
+   },
+   "old1": {
+      "description": "",
+      "message": "Chrome యొక్క చాలా పాత వెర్షన్"
+   },
+   "old2": {
+      "description": "",
+      "message": "హోలా ఉపయోగించడానికి Chrome"
+   },
+   "reload": {
+      "description": "",
+      "message": "రీలోడ్"
+   },
+   "settings": {
+      "description": "",
+      "message": "సెట్టింగులను"
+   },
+   "sitelist": {
+      "description": "",
+      "message": "unblocker సైట్ జాబితా"
+   },
+   "start": {
+      "description": "",
+      "message": "ఆన్ ప్రారంభించడానికి"
+   },
+   "unblocked": {
+      "description": "",
+      "message": "అనుమతించారు"
+   },
+   "update": {
+      "description": "",
+      "message": "నవీకరణ"
+   }
+}

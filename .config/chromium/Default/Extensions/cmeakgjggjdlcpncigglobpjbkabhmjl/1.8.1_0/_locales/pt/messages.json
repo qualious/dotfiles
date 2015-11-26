@@ -1,0 +1,126 @@
+{
+   "about": {
+      "description": "",
+      "message": "About"
+   },
+   "bookmarks": {
+      "description": "",
+      "message": "Bookmarks"
+   },
+   "extension_description": {
+      "description": "Descrição da Extensão",
+      "message": "Ofecere muitas utilidades para o inventário e mercado da Steam (notificações de ofertas, venda rápida, compra, ofertas de trocas, checagem de preços)"
+   },
+   "faq": {
+      "description": "Frequently asked questions",
+      "message": "FAQ"
+   },
+   "langcode": {
+      "description": "",
+      "message": "pt"
+   },
+   "settings": {
+      "description": "",
+      "message": "Configurações"
+   },
+   "settings_autoreply": {
+      "description": "",
+      "message": "Auto reply"
+   },
+   "settings_blockinvites": {
+      "description": "",
+      "message": "Block invites below"
+   },
+   "settings_buyset": {
+      "description": "",
+      "message": "Botões de \"Buy set\""
+   },
+   "settings_currency": {
+      "description": "",
+      "message": "Moeda"
+   },
+   "settings_custombuttons": {
+      "description": "Manage custom buttons for trade offer windows",
+      "message": "Custom buttons"
+   },
+   "settings_displaynof": {
+      "description": "",
+      "message": "Exibir notificações"
+   },
+   "settings_displayvector": {
+      "description": "",
+      "message": "Show vector price"
+   },
+   "settings_highligh": {
+      "description": "",
+      "message": "Highlight overpriced"
+   },
+   "settings_ignoreinvites": {
+      "description": "",
+      "message": "Ignore invites below"
+   },
+   "settings_language": {
+      "description": "",
+      "message": "Linguagem"
+   },
+   "settings_listdelay": {
+      "description": "",
+      "message": "Delay between listings"
+   },
+   "settings_no_history": {
+      "description": "",
+      "message": "History page size"
+   },
+   "settings_no_listings": {
+      "description": "",
+      "message": "Número na listagem"
+   },
+   "settings_nofsound": {
+      "description": "",
+      "message": "Som de notificação"
+   },
+   "settings_nofsound_vol": {
+      "description": "",
+      "message": "Sound volume"
+   },
+   "settings_note": {
+      "description": "",
+      "message": "Você precisa atualizar a página atual para que as mudanças tenham efeito"
+   },
+   "settings_offer_autodecline": {
+      "description": "",
+      "message": "Decline unavailable offers"
+   },
+   "settings_offer_delay": {
+      "description": "",
+      "message": "Atraso ao checar o preço da oferta"
+   },
+   "settings_offer_getprice": {
+      "description": "",
+      "message": "Obter automaticamente os preços quando oferecer"
+   },
+   "settings_quickbuy": {
+      "description": "",
+      "message": "Botões de \"Quick buy\""
+   },
+   "settings_quicksell": {
+      "description": "",
+      "message": "Botões de \"Quick sell\""
+   },
+   "settings_quickselldif": {
+      "description": "",
+      "message": "Diferencial na venda rápida"
+   },
+   "settings_showsteamrep": {
+      "description": "Show Steamrep panel on invites page",
+      "message": "Show Steamrep"
+   },
+   "settings_simpify": {
+      "description": "",
+      "message": "Simplifique UI"
+   },
+   "settings_totalrow": {
+      "description": "",
+      "message": "Total row"
+   }
+}

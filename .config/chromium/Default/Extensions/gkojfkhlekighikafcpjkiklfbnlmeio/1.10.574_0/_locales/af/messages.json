@@ -1,0 +1,94 @@
+{
+   "appDesc": {
+      "description": "Die beskrywing van die aansoek, vertoon in die web winkel.",
+      "message": "Toegang webtuistes geblokkeer in jou land, maatskappy of skool met Hola! Hola is gratis en maklik om te gebruik!"
+   },
+   "appDesc_nohola": {
+      "description": "",
+      "message": "Toegang webtuistes geblokkeer in jou land, maatskappy of skool! hierdie uitbreiding is gratis en maklik om te gebruik!"
+   },
+   "appName": {
+      "description": "Die titel van die aansoek, vertoon in die web winkel.",
+      "message": "Hola Beter Internet"
+   },
+   "appName_nohola": {
+      "description": "",
+      "message": "Unlimited Free Proxy VPN"
+   },
+   "back": {
+      "description": "",
+      "message": "terug na"
+   },
+   "blocked": {
+      "description": "",
+      "message": "geblokkeer?"
+   },
+   "changing": {
+      "description": "",
+      "message": "verander"
+   },
+   "conflict1": {
+      "description": "",
+      "message": "Jou netwerk proxy-instellings bestuur word deur &#39;n ander uitbreiding"
+   },
+   "conflict2": {
+      "description": "",
+      "message": "Skakel die verlenging"
+   },
+   "conflict3": {
+      "description": "",
+      "message": "om voort te gaan met Hola"
+   },
+   "evenmore": {
+      "description": "",
+      "message": "selfs meer"
+   },
+   "initial": {
+      "description": "",
+      "message": "Inisialiseer, wag asseblief"
+   },
+   "loading": {
+      "description": "",
+      "message": "Laai ..."
+   },
+   "more": {
+      "description": "",
+      "message": "meer ..."
+   },
+   "notworking": {
+      "description": "",
+      "message": "nie werk nie? meer opsies ..."
+   },
+   "old1": {
+      "description": "",
+      "message": "Baie ou weergawe van Chrome"
+   },
+   "old2": {
+      "description": "",
+      "message": "Chrome te gebruik Hola"
+   },
+   "on": {
+      "description": "",
+      "message": "OP"
+   },
+   "settings": {
+      "description": "",
+      "message": "instellings"
+   },
+   "sitelist": {
+      "description": "",
+      "message": "Ontstopper webwerf lys"
+   },
+   "start": {
+      "description": "",
+      "message": "Skakel om te begin"
+   },
+   "unblocked": {
+      "description": "",
+      "message": "gedeblokkeerd"
+   },
+   "unblocker": {
+      "description": "",
+      "message": "Ontstopper"
+   }
+}

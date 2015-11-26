@@ -1,0 +1,106 @@
+{
+   "accelerator": {
+      "description": "",
+      "message": "முடுக்கி"
+   },
+   "appDesc": {
+      "description": "வலை ஸ்டோர் காட்டப்படும் பயன்பாட்டின் குறிப்பைக்.",
+      "message": "அணுகல் வலைத்தளங்களில் ஹோலா கொண்டு, உங்கள் நாடு, நிறுவனம் அல்லது பள்ளி தடுக்கப்பட்டது! ஹோலா இலவசமாக பயன்படுத்த எளிதானது!"
+   },
+   "appDesc_nohola": {
+      "description": "",
+      "message": "அணுகல் வலைத்தளங்களில் உங்கள் நாடு, நிறுவனம் அல்லது பள்ளி தடுக்கப்பட்டது! இந்த நீட்டிப்பு இலவச மற்றும் பயன்படுத்த எளிதானது!"
+   },
+   "appName": {
+      "description": "வலை ஸ்டோர் காட்டப்படும் விண்ணப்ப தலைப்பு,.",
+      "message": "ஹோலா இணையத்தை"
+   },
+   "appName_nohola": {
+      "description": "",
+      "message": "வரம்பற்ற இலவச பதிலாள் மெ.த.பி.க்குள்ளேயே"
+   },
+   "back": {
+      "description": "",
+      "message": "மீண்டும்"
+   },
+   "blocked": {
+      "description": "",
+      "message": "தடுக்கப்பட்டது?"
+   },
+   "changing": {
+      "description": "",
+      "message": "மாறிவரும்"
+   },
+   "conflict1": {
+      "description": "",
+      "message": "உங்கள் நெட்வொர்க் ப்ராக்ஸி அமைப்புகள் மற்றொரு நீட்டிப்பு மூலம் நிர்வகிக்கப்படுகிறது"
+   },
+   "conflict2": {
+      "description": "",
+      "message": "என்று நீட்டிப்பு முடக்கவும்"
+   },
+   "conflict3": {
+      "description": "",
+      "message": "ஹோலா தொடர"
+   },
+   "evenmore": {
+      "description": "",
+      "message": "இன்னும்"
+   },
+   "hola": {
+      "description": "",
+      "message": "ஹோலா"
+   },
+   "initial": {
+      "description": "",
+      "message": "துவக்குகிறது, தயவு செய்து காத்திருக்கவும்"
+   },
+   "loading": {
+      "description": "",
+      "message": "ஏற்றுகிறது ..."
+   },
+   "more": {
+      "description": "",
+      "message": "மேலும் ..."
+   },
+   "notworking": {
+      "description": "",
+      "message": "வேலை? விருப்பங்கள் ..."
+   },
+   "off": {
+      "description": "",
+      "message": "இனிய"
+   },
+   "old1": {
+      "description": "",
+      "message": "Chrome இன் மிகவும் பழைய பதிப்பு"
+   },
+   "old2": {
+      "description": "",
+      "message": "ஹோலா பயன்படுத்துவதற்கு Chrome"
+   },
+   "on": {
+      "description": "",
+      "message": "மீது"
+   },
+   "settings": {
+      "description": "",
+      "message": "அமைப்புகளை"
+   },
+   "sitelist": {
+      "description": "",
+      "message": "unblocker தளப் பட்டியல்"
+   },
+   "start": {
+      "description": "",
+      "message": "ஆன் தொடங்குவதற்கு"
+   },
+   "unblocked": {
+      "description": "",
+      "message": "அவர் விடுவிக்கப்படும்"
+   },
+   "update": {
+      "description": "",
+      "message": "புதுப்பிக்கப்பட்டது"
+   }
+}

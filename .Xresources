@@ -1,0 +1,179 @@
+! URxvt
+
+! General settings
+URxvt.saveLines: 2000
+URxvt.scrollBar: False
+URxvt.scrollstyle: rxvt
+URxvt.termName: xterm-256color
+URxvt.urgentOnBell: True
+URxvt.cursorBlink: False
+URxvt.geometry: 80x20
+URxvt.url-launcher: /usr/bin/firefox
+URxvt.matcher.button: 1
+! Extensions
+URxvt.perl-ext-common: default,clipboard,matcher
+URxvt.urlLauncher: xdg-open
+URxvt.urlButton: 1
+URxvt.underlineURLs: True
+URxvt.iso14755: False
+
+
+! Keybindings
+URxvt.keysym.Control-C: perl:clipboard:copy
+URxvt.keysym.Control-V: perl:clipboard:paste
+URxvt.keysym.Shift-Control-V: perl:clipboard:paste_escaped
+! Fonts
+
+!Courier
+!URxvt.font: xft:Courier-10
+
+!Inconsolata
+URxvt.font: ttf:Hack-Regular-12
+URxvt.boldFont: xft:Lucida Console-11
+URxvt.letterSpace: -1
+
+!Inconsolata-g
+!URxvt.font: xft:InconsolataG-10
+!URxvt.letterSpace: -1
+
+!Anonymous Pro
+!URxvt.font: xft:Anonymous\ Pro-12
+!URxvt.letterSpace: -1
+
+!Monaco
+!URxvt.font: xft:Monaco-10
+!URxvt.letterSpace: -1
+
+!Droid Sans Mono
+!URxvt.font: xft:Droid Sans Mono-10
+!URxvt.letterSpace: -1
+
+!DejaVu Sans
+!URxvt.font: xft:DejaVu Sans Mono-10
+!URxvt.letterSpace: -1
+
+!Manospace
+!URxvt.font: xft:Monospace-10
+!URxvt.letterSpace: -1
+
+!Terminus
+!URxvt.font: xft:Terminus-10
+
+! Tango theme
+
+URxvt.background: #ffffff
+URxvt.foreground: #c85951
+URxvt.cursorColor: #c85951
+
+!BLK
+URxvt.color0:     #303030
+URxvt.color8:     #686868
+
+!RED
+URxvt.color9:     #a04740
+URxvt.color1:     #c85951
+
+!GRN
+URxvt.color10:    #40a047
+URxvt.color2:     #51c859
+
+!BLU
+URxvt.color12:    #6095c5
+URxvt.color4:     #7faad0
+
+!YEL
+URxvt.color11:    #bf976f
+URxvt.color3:     #EFBD8B
+
+!CYN
+URxvt.color14:    #007a7a
+URxvt.color6:     #00a3a3
+
+!MAG
+URxvt.color13:    #8962b1
+URxvt.color5:     #AC7BDE
+
+!WHT
+URxvt.color7:     #CFCFCF
+URxvt.color15:    #FFFFFF
+
+
+! XTerm
+
+! General settings
+XTerm*termName: xterm-256color
+XTerm*geometry: 80x24
+XTerm*saveLines: 1024
+XTerm*scrollBar: False
+XTerm*loginshell: False
+XTerm*cursorBlink: False
+
+! Fonts and Encoding
+XTerm*utf8: True
+XTerm*locale: True
+XTerm*utf8Title: True
+XTerm*renderFont: True
+XTerm*preeditType: Root
+XTerm*xftAntialias: true
+XTerm*faceName: xft:Inconsolata-12
+
+! Trim trailing spaces
+XTerm*trimSelection: true
+
+! Fix alt-key inputting
+XTerm*eightBitInput: false
+XTerm*metaSendsEscape: true
+
+! Copy and paste with clipboard
+XTerm*translations: #override \
+	Ctrl Shift <KeyPress> C: copy-selection(CLIPBOARD) \n\
+	Ctrl Shift <KeyPress> V: insert-selection(CLIPBOARD)
+
+! Allow selecting email/url by double-click
+XTerm*charClass: 33:48,37-38:48,45-47:48,64:48,58:48,126:48,61:48,63:48,43:48,35:48
+
+! Tango Theme
+
+XTerm*background: #1C1C1C
+XTerm*foreground: #DEDEDE
+
+! black
+XTerm*color0  : #2E3436
+XTerm*color8  : #555753
+! red
+XTerm*color1  : #CC0000
+XTerm*color9  : #EF2929
+! green
+XTerm*color2  : #4E9A06
+XTerm*color10 : #8AE234
+! yellow
+XTerm*color3  : #C4A000
+XTerm*color11 : #FCE94F
+! blue
+XTerm*color4  : #3465A4
+XTerm*color12 : #729FCF
+! magenta
+XTerm*color5  : #75507B
+XTerm*color13 : #AD7FA8
+! cyan
+XTerm*color6  : #06989A
+XTerm*color14 : #34E2E2
+! white
+XTerm*color7  : #D3D7CF
+XTerm*color15 : #EEEEEC
+
+UXTerm*faceName: Source Code Pro for Powerline
+UXTerm*faceSize: 12
+
+let g:Powerline_symbols = 'fancy'
+XTerm*loginshell: 1
+XTerm*locale: 1
+XTerm.utf8: 1
+XTerm*utf8Title: 1
+
+XTerm*bellIsUrgent: 1
+XTerm*borderWidth: 0
+XTerm*scrollBar: 0
+
+XTerm*xftAntialias: 1
+XTerm*cjkWidth: 0

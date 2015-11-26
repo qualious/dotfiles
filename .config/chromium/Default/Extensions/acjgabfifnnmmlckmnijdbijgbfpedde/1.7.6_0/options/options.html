@@ -1,0 +1,175 @@
+<!DOCTYPE html>
+<html>
+<head><title>Hide Fedora Options</title>
+<link href='http://fonts.googleapis.com/css?family=Open+Sans:400,700' rel='stylesheet' type='text/css'>
+<link rel="stylesheet" href="/assets/bootstrap/css/bootstrap.min.css">
+<link rel="stylesheet" href="options.css">
+<script src="/assets/underscore/underscore-min.js"></script>
+<script src="/assets/jquery/jquery.min.js"></script>
+<script src="/assets/bootstrap/js/bootstrap.min.js"></script>
+</head>
+<body>
+
+	<div class="container">
+
+		<div class="row">
+			<div class="col-xs-12">
+				<div class="page-header">
+					<h1>Hide Fedora Options</h1>
+				</div>
+			</div>
+		</div>
+
+		<div class="row">
+			<div class="col-xs-12">
+
+				<div role="tabpanel">
+
+					<ul class="nav nav-tabs" role="tablist">
+				    	<li role="presentation" class="active"><a href="#options" aria-controls="options" role="tab" data-toggle="tab">Options</a></li>
+						<li role="presentation"><a href="#banned" aria-controls="banned" role="tab" data-toggle="tab">Banned Profiles</a></li>
+						<li role="presentation"><a href="#bannedWords" aria-controls="bannedWords" role="tab" data-toggle="tab">Banned Words</a></li>
+					</ul>
+
+					<div class="tab-content">
+						<div role="tabpanel" class="tab-pane active" id="options">
+							
+							<form role="form">
+								<div class="form-group">
+
+							    	<label for="removal-method">Fedora removal method</label>
+									<select id="removal-method" class="form-control">
+						 				<option value="hide">Hide (default)</option>
+						 				<option value="replace-fedora-cat">Replace fedora with a cat</option>
+									</select>
+
+								</div>
+
+								<div class="form-group">
+
+							    	<label for="show-report-button">Show 'Report &amp; Ban' button</label><br />
+							    	<input type="checkbox" id="show-report-button">
+
+								</div>
+
+							</form>
+
+						</div>
+
+
+						<div role="tabpanel" class="tab-pane" id="banned">
+
+							<div class="row unban-all-container">
+								<div class="col-xs-12">
+
+									<div class="pull-right"><button type="button" class="btn btn-default btn-xs unban-all-btn">Unban All</button></div>
+
+								</div>
+							</div>
+
+							<div class="row">
+								<div class="col-xs-12">
+
+									<table class="table table-hover table-condensed banned-table">
+										<thead>
+											<tr>
+												<th>Profile</th>
+												<th></th>
+											</tr>
+										</thead>
+										<tbody>
+										</tbody>
+									</table>
+
+									<span class="empty-notice"><em>No banned profiles.</em></span>
+
+								</div>
+							</div>
+
+							<hr />
+
+							<div class="row">
+								<div class="col-xs-12">
+
+									<p class="pull-right"><small>Locally banned profiles. Profiles added to the Hide Fedora blacklist will still be removed.</small></p>
+
+								</div>
+							</div>
+
+						</div>
+
+						<div role="tabpanel" class="tab-pane" id="bannedWords">
+
+							<div class="row unban-all-container">
+								<div class="col-xs-12">
+
+									<div class="pull-right"><button type="button" class="btn btn-default btn-xs unban-all-btn">Unban All</button></div>
+
+								</div>
+							</div>
+
+							<div class="row">
+								<div class="col-xs-12">
+
+									<table class="table table-hover table-condensed bannedWords-table">
+										<thead>
+											<tr>
+												<th>Word or phrase</th>
+												<th></th>
+											</tr>
+										</thead>
+										<tbody>
+										</tbody>
+									</table>
+
+									<span class="empty-notice"><em>No banned words.</em></span>
+
+								</div>
+							</div>
+
+							<div class="row">
+								<div class="col-xs-12">
+
+									<form role="form" class="form-inline">
+										<div class="form-group">
+											<input type="text" class="form-control word-text" placeholder="Word or phrase" maxlength="80" />
+											<button type="button" class="btn btn-default add-word-btn">Add</button>
+										</div>
+									</form>
+								</div>
+							</div>
+
+
+							<hr />
+
+							<div class="row">
+								<div class="col-xs-12">
+
+									<p class="pull-right"><small>Banned words or phrases that will get the comment removed. Examples: <em>le reddit</em>, <em>m'lady</em>, <em>r/</em></small></p>
+
+								</div>
+							</div>
+
+						</div>
+
+					</div>
+
+				</div>
+
+			</div>
+		</div>
+
+
+	</div>
+
+	<footer class="footer">
+		<div class="container">
+			<p class="text-muted pull-left">Accepting <strong><a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=X8G9LLWRP36ZJ" target="_blank">PayPal</a></strong> and <strong><a href="https://blockchain.info/address/1BJfBK8LW8L2PcxQerorc61JGoUdguqxrG" target="_blank">Bitcoin</a></strong> donations because servers.</p>
+			<p class="text-muted pull-right"><a href="https://github.com/hadalin/chrome-hidefedora">Source code on GitHub</a> &bull; <a href="https://chrome.google.com/webstore/detail/hide-fedora/acjgabfifnnmmlckmnijdbijgbfpedde">Chrome Web Store listing</a> &bull; <a href="http://hidefedora.hadal.in">Homepage</a></p>
+		</div>
+	</footer>
+
+	<script src="options.js"></script>
+
+</body>
+</html>

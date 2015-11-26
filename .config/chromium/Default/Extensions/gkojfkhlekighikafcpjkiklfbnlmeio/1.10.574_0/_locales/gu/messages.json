@@ -1,0 +1,106 @@
+{
+   "accelerator": {
+      "description": "",
+      "message": "એક્સેલેટર"
+   },
+   "appDesc": {
+      "description": "વેબ સ્ટોર પ્રદર્શિત અરજી વર્ણન.",
+      "message": "ઇન્ટરનેટ બધા ઍક્સેસ! અવરોધિત સાઇટ પર જાઓ -> Hola ચિહ્ન પર ક્લિક કરો -> બદલો દેશ ધ્વજ -> આનંદ!"
+   },
+   "appDesc_nohola": {
+      "description": "",
+      "message": "વેબસાઇટ્સ ઍક્સેસ તમારા દેશમાં, કંપની અથવા શાળામાં અવરોધિત! આ એક્સટેન્શન મફત અને વાપરવા માટે સરળ છે!"
+   },
+   "appName": {
+      "description": "વેબ સ્ટોર પ્રદર્શિત અરજી શીર્ષક.",
+      "message": "Hola બેહતર ઈંટરનેટ"
+   },
+   "appName_nohola": {
+      "description": "",
+      "message": "અનલિમિટેડ મુક્ત પ્રોક્સી વીપીએન"
+   },
+   "back": {
+      "description": "",
+      "message": "પાછળ"
+   },
+   "blocked": {
+      "description": "",
+      "message": "અવરોધિત?"
+   },
+   "changing": {
+      "description": "",
+      "message": "બદલાતી"
+   },
+   "conflict1": {
+      "description": "",
+      "message": "તમારી નેટવર્ક પ્રોક્સી સેટિંગ્સ અન્ય એક્સટેંશન દ્વારા મેનેજ કરવામાં આવી રહી છે"
+   },
+   "conflict2": {
+      "description": "",
+      "message": "કે એક્સ્ટેંશનને અક્ષમ કરો"
+   },
+   "conflict3": {
+      "description": "",
+      "message": "Hola સાથે ચાલુ રાખવા માટે"
+   },
+   "evenmore": {
+      "description": "",
+      "message": "પણ વધુ"
+   },
+   "initial": {
+      "description": "",
+      "message": "પ્રારંભ, કૃપા કરીને રાહ જુઓ"
+   },
+   "loading": {
+      "description": "",
+      "message": "લોડ કરી રહ્યું છે ..."
+   },
+   "more": {
+      "description": "",
+      "message": "વધુ ..."
+   },
+   "notworking": {
+      "description": "",
+      "message": "કામ નથી? વધુ વિકલ્પો ..."
+   },
+   "off": {
+      "description": "",
+      "message": "બંધ"
+   },
+   "old1": {
+      "description": "",
+      "message": "Chrome ના ખૂબ જૂના આવૃત્તિ"
+   },
+   "old2": {
+      "description": "",
+      "message": "Hola ઉપયોગ કરવા માટે Chrome"
+   },
+   "on": {
+      "description": "",
+      "message": "પર"
+   },
+   "reload": {
+      "description": "",
+      "message": "ફરી લાવો"
+   },
+   "settings": {
+      "description": "",
+      "message": "સેટિંગ્સ"
+   },
+   "sitelist": {
+      "description": "",
+      "message": "unblocker સાઇટ યાદી"
+   },
+   "start": {
+      "description": "",
+      "message": "ચાલુ પ્રારંભ કરવા માટે"
+   },
+   "unblocked": {
+      "description": "",
+      "message": "અનાવરોધિત"
+   },
+   "update": {
+      "description": "",
+      "message": "સુધારો"
+   }
+}

@@ -1,0 +1,94 @@
+{
+   "accelerator": {
+      "description": "",
+      "message": "Eldsneytisgjöf"
+   },
+   "appDesc": {
+      "description": "Í lýsingu á umsókn, birtist í vefverslun.",
+      "message": "Aðgangur vefsíður lokað í þínu landi, fyrirtæki eða skóla með Hola! Hola er ókeypis og auðvelt að nota!"
+   },
+   "appDesc_nohola": {
+      "description": "",
+      "message": "Aðgangur vefsíður lokað í þínu landi, fyrirtæki eða skóla! þetta eftirnafn er ókeypis og auðvelt að nota!"
+   },
+   "appName": {
+      "description": "Titill umsókn, birtist í vefverslun.",
+      "message": "Ótakmarkaður Frjáls VPN - Hola"
+   },
+   "appName_nohola": {
+      "description": "",
+      "message": "Ótakmarkaður Frjáls Proxy VPN"
+   },
+   "back": {
+      "description": "",
+      "message": "aftur til"
+   },
+   "blocked": {
+      "description": "",
+      "message": "læst?"
+   },
+   "changing": {
+      "description": "",
+      "message": "breyta"
+   },
+   "conflict1": {
+      "description": "",
+      "message": "Net proxy-stillingar þínar eru stjórnað af öðru eftirnafn"
+   },
+   "conflict2": {
+      "description": "",
+      "message": "Gera þessi eftirnafn"
+   },
+   "conflict3": {
+      "description": "",
+      "message": "að halda áfram með Hola"
+   },
+   "evenmore": {
+      "description": "",
+      "message": "jafnvel meira"
+   },
+   "initial": {
+      "description": "",
+      "message": "Frumstilli, vinsamlegast bíða"
+   },
+   "loading": {
+      "description": "",
+      "message": "Loading ..."
+   },
+   "more": {
+      "description": "",
+      "message": "meira ..."
+   },
+   "notworking": {
+      "description": "",
+      "message": "ekki að virka? fleiri möguleikar ..."
+   },
+   "old1": {
+      "description": "",
+      "message": "Mjög gamall útgáfa af Króm"
+   },
+   "old2": {
+      "description": "",
+      "message": "Chrome til að nota Hola"
+   },
+   "settings": {
+      "description": "",
+      "message": "Stillingar"
+   },
+   "sitelist": {
+      "description": "",
+      "message": "unblocker síða lista"
+   },
+   "start": {
+      "description": "",
+      "message": "Kveiktu á til að byrja"
+   },
+   "unblocked": {
+      "description": "",
+      "message": "flækjunni"
+   },
+   "update": {
+      "description": "",
+      "message": "Uppfæra"
+   }
+}

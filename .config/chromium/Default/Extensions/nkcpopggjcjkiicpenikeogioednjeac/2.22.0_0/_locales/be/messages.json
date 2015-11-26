@@ -1,0 +1,635 @@
+{
+   "branding_default_locationbar_search_url": {
+      "message": "http://yandex.by/search/?clid={clid9}&text="
+   },
+   "branding_default_logo_alt": {
+      "message": "Яндекс"
+   },
+   "branding_default_logo_title": {
+      "message": "Перайсці да галоўнай старонкі Яндекса"
+   },
+   "branding_default_product_copyright": {
+      "message": "© 2012—2015 ООО «[Яндекс](http://www.yandex.ru)»"
+   },
+   "branding_default_product_copyright_fx": {
+      "message": "© 2012—2015 ООО «[Яндекс](http://www.yandex.ru)»"
+   },
+   "branding_default_product_copyright_ie": {
+      "message": "© 2012—2015 ООО «[Яндекс](http://www.yandex.ru)»"
+   },
+   "branding_default_product_description": {
+      "message": "Візуальныя закладкі – гэта старонка, на якой сабраныя вашы любімыя сайты. Каб перайсці да аднаго з іх, дастаткова пстрыкнуць на мініяцюры. Мяняйце колькасць мініяцюр на старонцы, перамешвайце, мяняйце назвы, абірайце фон паводле свайго жадання, а таксама шукайце ў інтэрнеце – пошукавы радок Яндекса заўсёды побач."
+   },
+   "branding_default_product_goodbye_url_fx": {
+      "message": "https://element.yandex.ru/goodbye/vb/"
+   },
+   "branding_default_product_homepage": {
+      "message": "http://visual.yandex.ru"
+   },
+   "branding_default_product_license_url_fx": {
+      "message": "http://legal.yandex.ru/desktop_software_agreement/"
+   },
+   "branding_default_product_license_url_ie": {
+      "message": "http://legal.yandex.ru/desktop_software_agreement/"
+   },
+   "branding_default_product_name_acc": {
+      "message": "Візуальныя закладкі"
+   },
+   "branding_default_product_name_dat": {
+      "message": "Візуальным закладкам"
+   },
+   "branding_default_product_name_gen": {
+      "message": "Візуальных закладак"
+   },
+   "branding_default_product_name_ins": {
+      "message": "Візуальнымі закладкамі"
+   },
+   "branding_default_product_name_loc": {
+      "message": "Візуальных закладках"
+   },
+   "branding_default_product_name_nom": {
+      "message": "Візуальныя закладкі"
+   },
+   "branding_default_product_name_pre": {
+      "message": "Пра візуальныя закладкі"
+   },
+   "branding_default_product_note_fx": {
+      "message": "для Firefox"
+   },
+   "branding_default_product_note_ie": {
+      "message": "для Internet Explorer"
+   },
+   "branding_default_product_shortname_acc": {
+      "message": "ВЗ"
+   },
+   "branding_default_product_shortname_dat": {
+      "message": "ВЗ"
+   },
+   "branding_default_product_shortname_gen": {
+      "message": "ВЗ"
+   },
+   "branding_default_product_shortname_ins": {
+      "message": "ВЗ"
+   },
+   "branding_default_product_shortname_loc": {
+      "message": "Візуальных закладках"
+   },
+   "branding_default_product_shortname_nom": {
+      "message": "ВЗ"
+   },
+   "branding_default_product_shortname_pre": {
+      "message": "Пра ВЗ"
+   },
+   "branding_default_search_navigate_title": {
+      "message": "знайсці Яндексам"
+   },
+   "branding_default_thumb_lentaru": {
+      "message": "Лента.ру"
+   },
+   "branding_default_thumb_vkontakte": {
+      "message": "ВКонтакте"
+   },
+   "branding_default_thumb_yamail": {
+      "message": "Яндекс.Пошта"
+   },
+   "branding_default_thumb_yamaps": {
+      "message": "Яндекс.Мапы"
+   },
+   "branding_default_thumb_yamarket": {
+      "message": "Яндекс.Маркет"
+   },
+   "branding_default_thumb_yamusic": {
+      "message": "Яндекс.Музыка"
+   },
+   "branding_default_thumb_yandex": {
+      "message": "Яндекс"
+   },
+   "branding_default_thumb_yasoft": {
+      "message": "Яндекс.Праграмы"
+   },
+   "branding_default_thumb_youtube": {
+      "message": "Youtube"
+   },
+   "branding_default_vendor_name_acc": {
+      "message": "Яндекс"
+   },
+   "branding_default_vendor_name_dat": {
+      "message": "Яндексу"
+   },
+   "branding_default_vendor_name_gen": {
+      "message": "Яндекса"
+   },
+   "branding_default_vendor_name_ins": {
+      "message": "Яндексам"
+   },
+   "branding_default_vendor_name_loc": {
+      "message": "Яндексе"
+   },
+   "branding_default_vendor_name_nom": {
+      "message": "Яндекс"
+   },
+   "branding_default_vendor_name_pre": {
+      "message": "Яндексе"
+   },
+   "branding_default_yandex_label": {
+      "message": "Яндекс"
+   },
+   "branding_default_yandex_qs_keywordsearch": {
+      "message": "http://yandex.by/search/?clid={clid9}&text={searchTerms}"
+   },
+   "branding_default_yandex_qs_suggestions": {
+      "message": "http://suggest.yandex.by/suggest-ff.cgi?uil=be&part={searchTerms}"
+   },
+   "branding_default_yandex_qs_url": {
+      "message": "http://yandex.by/search/?clid={clid6}&text={searchTerms}"
+   },
+   "branding_default_yandex_search_site_url": {
+      "message": "http://yandex.by/search/?text={searchTerms}&surl_manually=true&surl={searchSite}"
+   },
+   "branding_default_yandex_search_tooltip": {
+      "message": "Пашукаць у Яндексе"
+   },
+   "branding_default_yandex_search_url": {
+      "message": "http://yandex.by/search/?text={searchTerms}"
+   },
+   "branding_default_yandex_url": {
+      "message": "http://www.yandex.by"
+   },
+   "branding_ua_locationbar_search_url": {
+      "message": "http://yandex.ua/search/?clid={clid9}&text="
+   },
+   "branding_ua_logo_alt": {
+      "message": "Яндекс"
+   },
+   "branding_ua_logo_title": {
+      "message": "Перайсці да галоўнай старонкі Яндекса"
+   },
+   "branding_ua_product_copyright": {
+      "message": "© 2012—2015 ООО «[Яндекс](http://www.yandex.ua)»"
+   },
+   "branding_ua_product_copyright_fx": {
+      "message": "© 2012—2015 ООО «[Яндекс](http://www.yandex.ua)»"
+   },
+   "branding_ua_product_copyright_ie": {
+      "message": "© 2012—2015 ООО «[Яндекс](http://www.yandex.ua)»"
+   },
+   "branding_ua_product_description": {
+      "message": "Візуальныя закладкі – гэта старонка, на якой сабраныя вашы любімыя сайты. Каб перайсці да аднаго з іх, дастаткова пстрыкнуць на мініяцюры. Мяняйце колькасць мініяцюр на старонцы, перамешвайце, мяняйце назвы, абірайце фон паводле свайго жадання, а таксама шукайце ў інтэрнеце – пошукавы радок Яндекса заўсёды побач."
+   },
+   "branding_ua_product_goodbye_url_fx": {
+      "message": "https://element.yandex.ua/goodbye/vb/"
+   },
+   "branding_ua_product_homepage": {
+      "message": "http://visual.yandex.ua"
+   },
+   "branding_ua_product_license_url_fx": {
+      "message": "http://legal.yandex.ua/desktop_software_agreement/"
+   },
+   "branding_ua_product_license_url_ie": {
+      "message": "http://legal.yandex.ua/desktop_software_agreement/"
+   },
+   "branding_ua_product_name_acc": {
+      "message": "Візуальныя закладкі"
+   },
+   "branding_ua_product_name_dat": {
+      "message": "Візуальным закладкам"
+   },
+   "branding_ua_product_name_gen": {
+      "message": "Візуальных закладак"
+   },
+   "branding_ua_product_name_ins": {
+      "message": "Візуальнымі закладкамі"
+   },
+   "branding_ua_product_name_loc": {
+      "message": "Візуальных закладках"
+   },
+   "branding_ua_product_name_nom": {
+      "message": "Візуальныя закладкі"
+   },
+   "branding_ua_product_name_pre": {
+      "message": "Пра візуальныя закладкі"
+   },
+   "branding_ua_product_note_fx": {
+      "message": "для Firefox"
+   },
+   "branding_ua_product_note_ie": {
+      "message": "для Internet Explorer"
+   },
+   "branding_ua_product_shortname_acc": {
+      "message": "ВЗ"
+   },
+   "branding_ua_product_shortname_dat": {
+      "message": "ВЗ"
+   },
+   "branding_ua_product_shortname_gen": {
+      "message": "ВЗ"
+   },
+   "branding_ua_product_shortname_ins": {
+      "message": "ВЗ"
+   },
+   "branding_ua_product_shortname_loc": {
+      "message": "Візуальных закладках"
+   },
+   "branding_ua_product_shortname_nom": {
+      "message": "ВЗ"
+   },
+   "branding_ua_product_shortname_pre": {
+      "message": "Пра ВЗ"
+   },
+   "branding_ua_search_navigate_title": {
+      "message": "знайсці Яндексам"
+   },
+   "branding_ua_thumb_korrespondent": {
+      "message": "Карэспандэнт"
+   },
+   "branding_ua_thumb_vkontakte": {
+      "message": "ВКонтакте"
+   },
+   "branding_ua_thumb_yamail": {
+      "message": "Яндекс.Пошта"
+   },
+   "branding_ua_thumb_yamaps": {
+      "message": "Яндекс.Мапы"
+   },
+   "branding_ua_thumb_yamarket": {
+      "message": "Яндекс.Маркет"
+   },
+   "branding_ua_thumb_yamusic": {
+      "message": "Яндекс.Музыка"
+   },
+   "branding_ua_thumb_yandex": {
+      "message": "Яндекс"
+   },
+   "branding_ua_thumb_yasoft": {
+      "message": "Яндекс.Праграмы"
+   },
+   "branding_ua_thumb_youtube": {
+      "message": "Youtube"
+   },
+   "branding_ua_vendor_name_acc": {
+      "message": "Яндекс"
+   },
+   "branding_ua_vendor_name_dat": {
+      "message": "Яндексу"
+   },
+   "branding_ua_vendor_name_gen": {
+      "message": "Яндекса"
+   },
+   "branding_ua_vendor_name_ins": {
+      "message": "Яндексам"
+   },
+   "branding_ua_vendor_name_loc": {
+      "message": "Яндексе"
+   },
+   "branding_ua_vendor_name_nom": {
+      "message": "Яндекс"
+   },
+   "branding_ua_vendor_name_pre": {
+      "message": "Яндексе"
+   },
+   "branding_ua_yandex_label": {
+      "message": "Яндекс"
+   },
+   "branding_ua_yandex_qs_keywordsearch": {
+      "message": "http://yandex.ua/search/?clid={clid9}&text={searchTerms}"
+   },
+   "branding_ua_yandex_qs_suggestions": {
+      "message": "http://suggest.yandex.ua/suggest-ff.cgi?uil=be&part={searchTerms}"
+   },
+   "branding_ua_yandex_qs_url": {
+      "message": "http://yandex.ua/search/?clid={clid6}&text={searchTerms}"
+   },
+   "branding_ua_yandex_search_site_url": {
+      "message": "http://yandex.ua/search/?text={searchTerms}&surl_manually=true&surl={searchSite}"
+   },
+   "branding_ua_yandex_search_tooltip": {
+      "message": "Пашукаць у Яндексе"
+   },
+   "branding_ua_yandex_search_url": {
+      "message": "http://yandex.ua/search/?text={searchTerms}"
+   },
+   "branding_ua_yandex_url": {
+      "message": "http://www.yandex.ua"
+   },
+   "else_goodbye_page_url": {
+      "message": "https://element.yandex.ru/goodbye/vb/"
+   },
+   "layout_advertisement_addThumb_text": {
+      "message": "Каб дадаць новую закладку, націсніце сюды"
+   },
+   "layout_advertisement_backgrounds_done": {
+      "message": "Гатова"
+   },
+   "layout_advertisement_homepage_done": {
+      "message": "Яндекс усталяваны пачатковай старонкай"
+   },
+   "layout_advertisement_homepage_setDefault": {
+      "message": "Зрабіць Яндекс [пачатковай старонкай]"
+   },
+   "layout_advertisement_search_done": {
+      "message": "Яндекс усталяваны перадвызначаным пошукам"
+   },
+   "layout_advertisement_search_setDefault": {
+      "message": "Зрабіць Яндекс [перадвызначаным пошукам]"
+   },
+   "layout_advertisement_yandexBrowser_docs": {
+      "message": "Адчыняйце дакументы проста ў Яндекс.Браўзеры"
+   },
+   "layout_advertisement_yandexBrowser_downloads": {
+      "message": "Спампаваць"
+   },
+   "layout_advertisement_yandexBrowser_open": {
+      "message": "Адчыніць Яндекс.Браўзер"
+   },
+   "layout_advertisement_yandexBrowser_updated": {
+      "message": "Паспрабуйце абноўлены Яндекс.Браўзер"
+   },
+   "layout_app_closedWindow": {
+      "message": "Зачыненае акно"
+   },
+   "layout_app_confirmRemoveThumb": {
+      "message": "Выдаліць закладку?"
+   },
+   "layout_app_editThumb": {
+      "message": "наладзіць"
+   },
+   "layout_app_empty": {
+      "message": "Пуста"
+   },
+   "layout_app_name": {
+      "message": "{product1.nom}"
+   },
+   "layout_app_newBackgroundsAdvert": {
+      "message": "Паспрабуй новыя фоны"
+   },
+   "layout_app_noInternet": {
+      "message": "Няма сувязі з серверам. Паспрабуйце паўтарыць пазней."
+   },
+   "layout_app_pinThumb": {
+      "message": "замацаваць"
+   },
+   "layout_app_removeThumb": {
+      "message": "выдаліць"
+   },
+   "layout_app_searchButtonTitle": {
+      "message": "Знайсці"
+   },
+   "layout_app_searchExampleTitle": {
+      "message": "Напрыклад"
+   },
+   "layout_app_searchTutorial_description": {
+      "message": "Тут вы можаце ўводзіць не толькі адрасы, але і шукаць у Яндексе."
+   },
+   "layout_app_searchTutorial_example": {
+      "message": "сталіца Конга"
+   },
+   "layout_app_searchTutorial_thanks": {
+      "message": "Я ведаю, дзякуй"
+   },
+   "layout_app_setBackgroundsAdvert": {
+      "message": "Змяніць фон можна ў наладках"
+   },
+   "layout_app_sync": {
+      "message": "Сінхранізацыя"
+   },
+   "layout_app_unpinThumb": {
+      "message": "адмацаваць"
+   },
+   "layout_auth_addUser": {
+      "message": "Увайсці пад іншым імем"
+   },
+   "layout_auth_passport": {
+      "message": "Пашпарт"
+   },
+   "layout_auth_signin": {
+      "message": "Увайсці"
+   },
+   "layout_auth_signout": {
+      "message": "Выйсці"
+   },
+   "layout_auth_tune": {
+      "message": "Наладка {vendor.gen}"
+   },
+   "layout_bookmarks_otherBookmarks": {
+      "message": "Іншыя закладкі"
+   },
+   "layout_contextmenu_addThumb": {
+      "message": "Дадаць закладку"
+   },
+   "layout_contextmenu_editThumb": {
+      "message": "Наладкі закладкі"
+   },
+   "layout_contextmenu_openSettings": {
+      "message": "Змяніць фон у Візуальных закладках"
+   },
+   "layout_contextmenu_pinThumb": {
+      "message": "Замацаваць закладку"
+   },
+   "layout_contextmenu_removeThumb": {
+      "message": "Выдаліць закладку"
+   },
+   "layout_contextmenu_unpinThumb": {
+      "message": "Адмацаваць закладку"
+   },
+   "layout_dialog_cancel": {
+      "message": "Скасаваць"
+   },
+   "layout_dialog_no": {
+      "message": "Не"
+   },
+   "layout_dialog_ok": {
+      "message": "ОК"
+   },
+   "layout_dialog_yes": {
+      "message": "Так"
+   },
+   "layout_footer_addThumb": {
+      "message": "Дадаць закладку"
+   },
+   "layout_footer_apps": {
+      "message": "Карыстальніцкія праграмы"
+   },
+   "layout_footer_apps_missing": {
+      "message": "Карыстальніцкіх праграм няма"
+   },
+   "layout_footer_bookmarks": {
+      "message": "Закладкі"
+   },
+   "layout_footer_closedTabs": {
+      "message": "Зачыненыя ўкладкі"
+   },
+   "layout_footer_downloads": {
+      "message": "Спампаванае"
+   },
+   "layout_footer_history": {
+      "message": "Гісторыя"
+   },
+   "layout_modalStat_accept": {
+      "message": "Так"
+   },
+   "layout_modalStat_cancel": {
+      "message": "Не"
+   },
+   "layout_modalStat_header": {
+      "message": "Дапамагіце палепшыць {vendor.nom}"
+   },
+   "layout_modalStat_list_collect": {
+      "message": "Хочаце далучыцца да праграмы і дазволіць збіранне абязлічаных звестак"
+   },
+   "layout_modalStat_list_item_addon": {
+      "message": "дадаткі {vendor.gen} для браўзераў"
+   },
+   "layout_modalStat_list_item_bookmarks": {
+      "message": "закладкі"
+   },
+   "layout_modalStat_list_item_history": {
+      "message": "пра наведаныя сайты"
+   },
+   "layout_modalStat_moreInfoLink": {
+      "message": "http://legal.yandex.ru/confidential/"
+   },
+   "layout_modalStat_moreInfoText": {
+      "message": "Падрабязней"
+   },
+   "layout_modalStat_text": {
+      "message": "Каб рабіць свае сервісы зручнейшымі, мы перыядычна збіраем ссумавальную статыстыку таго, як карыстальнікі працуюць у браўзеры і з дадаткамі {vendor.gen}. Падрабязней пра тое, як {vendor.nom} апрацоўваюцца звесткі карыстальнікаў, чытайце ў [Палітыцы канфідэнцыйнасці]."
+   },
+   "layout_modal_cancel": {
+      "message": "Скасаваць"
+   },
+   "layout_modal_ok": {
+      "message": "ОК"
+   },
+   "layout_restorepopup_button": {
+      "message": "Скасаваць"
+   },
+   "layout_restorepopup_tumb": {
+      "message": "Закладка выдалена"
+   },
+   "layout_restorepopup_tumbs": {
+      "message": "{N} закладка выдалена;{N} закладкі выдалены;{N} закладак выдалена"
+   },
+   "layout_rightchoice_text": {
+      "message": "Нажмите «Сохранить изменения», чтобы в новой вкладке открывались ваши Визуальные закладки."
+   },
+   "layout_settings": {
+      "message": "Наладкi"
+   },
+   "layout_settings_backgroundImage": {
+      "message": "Фон"
+   },
+   "layout_settings_cancel": {
+      "message": "Адмена"
+   },
+   "layout_settings_collapsed": {
+      "message": "Іншыя параметры"
+   },
+   "layout_settings_copyright": {
+      "message": "{branding}"
+   },
+   "layout_settings_editTitle": {
+      "message": "Рэдагаваць апісанне"
+   },
+   "layout_settings_isHomePage": {
+      "message": "{product1.nom} з'яўляюцца вашай пачатковай старонкай"
+   },
+   "layout_settings_lastVisited": {
+      "message": "Нядаўна наведаныя"
+   },
+   "layout_settings_layoutX": {
+      "message": "па гарызанталі"
+   },
+   "layout_settings_layoutY": {
+      "message": "па вертыкалі"
+   },
+   "layout_settings_licenseAgreement_link": {
+      "message": "{branding}"
+   },
+   "layout_settings_licenseAgreement_title": {
+      "message": "Ліцэнзійнае пагадненне"
+   },
+   "layout_settings_otherSoft": {
+      "message": "Іншыя праграмы Яндекс"
+   },
+   "layout_settings_popularSites": {
+      "message": "Папулярныя"
+   },
+   "layout_settings_releaseDate": {
+      "message": "дата выпуску"
+   },
+   "layout_settings_save": {
+      "message": "Захаваць"
+   },
+   "layout_settings_sendstat": {
+      "message": "Прыняць удзел у паляпшэнні сэрвісаў Яндекса: аўтаматычна адпраўляць ананімную статыстыку выкарыстання браўзера"
+   },
+   "layout_settings_setAsHomePage": {
+      "message": "Зрабіць пачатковай старонкай"
+   },
+   "layout_settings_showAdvertisement": {
+      "message": "Паказваць кантэкстныя прапановы ў Візуальных закладках"
+   },
+   "layout_settings_showBookmarksPanel": {
+      "message": "Паказаць панэль закладак"
+   },
+   "layout_settings_showSearchForm": {
+      "message": "Паказваць пошукавы радок"
+   },
+   "layout_settings_showSites": {
+      "message": "Від закладак"
+   },
+   "layout_settings_thumbStyle_logosAndScreenshots": {
+      "message": "Лагатыпы і скрыншоты"
+   },
+   "layout_settings_thumbStyle_logosAndTitles": {
+      "message": "Лагатыпы і загалоўкі"
+   },
+   "layout_settings_thumbStyle_screenshots": {
+      "message": "Скрыншоты сайтаў"
+   },
+   "layout_settings_thumbsNum": {
+      "message": "Колькасць закладак"
+   },
+   "layout_settings_titleInput_placeholder": {
+      "message": " Увядзіце назву старонкі"
+   },
+   "layout_settings_upload": {
+      "message": "Запампаваць"
+   },
+   "layout_settings_urlInput_placeholder": {
+      "message": "Увядзіце адрас старонкі"
+   },
+   "layout_sync_advertText": {
+      "message": "Паспрабуйце: вашы візуальныя закладкі, упадабаныя&#160;сайты&#160;і паролі будуць даступныя на&#160;розных камп'ютарах&#160;— напрыклад, дома&#160;і на&#160;працы."
+   },
+   "layout_sync_closeAdvert": {
+      "message": "Зачыніць"
+   },
+   "layout_sync_enable": {
+      "message": "Уключыць сінхранізацыю"
+   },
+   "layout_sync_enabled": {
+      "message": "Сінхранізацыя ўключаная"
+   },
+   "layout_sync_offerText": {
+      "message": "Вы ўжо выкарыстоўваеце сінхранізацыю, але не сінхранізуеце Візуальныя Закладкі. Хочаце іх сінхранізаваць? [Так, хачу](url)"
+   },
+   "layout_sync_outdated": {
+      "message": "аўтарызацыя састарэла"
+   },
+   "layout_sync_repair": {
+      "message": "Выправіць"
+   },
+   "layout_sync_settings": {
+      "message": "Наладкі сінхранізацыі"
+   },
+   "layout_sync_turnOn": {
+      "message": "Уключыць"
+   },
+   "layout_sync_vbDisabled": {
+      "message": "Сінхранізацыя візуальных закладак выключаная"
+   },
+   "layout_sync_vbEnabled": {
+      "message": "Сінхранізацыя візуальных закладак уключаная"
+   }
+}

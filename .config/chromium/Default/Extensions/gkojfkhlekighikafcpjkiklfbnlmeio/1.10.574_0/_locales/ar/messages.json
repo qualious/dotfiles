@@ -1,0 +1,102 @@
+{
+   "accelerator": {
+      "description": "",
+      "message": "مسرع"
+   },
+   "appDesc": {
+      "description": "وصف التطبيق، عرض في متجر على شبكة الإنترنت.",
+      "message": "الوصول إلى أي موقع من أي بلد! الذهاب إلى موقع محجوب -> انقر فوق حولا ->غير بلد العلم -> استمتع!"
+   },
+   "appDesc_nohola": {
+      "description": "",
+      "message": "المواقع الوصول سدت في البلاد، شركتك أو المدرسة! هذا التمديد هو مجاني وسهل الاستخدام!"
+   },
+   "appName": {
+      "description": "عنوان التطبيق، عرض في متجر على شبكة الإنترنت.",
+      "message": "Hola - غير محدود مجانا VPN"
+   },
+   "appName_nohola": {
+      "description": "",
+      "message": "غير محدود وكيل الحرة VPN"
+   },
+   "back": {
+      "description": "",
+      "message": "ارجع الى"
+   },
+   "blocked": {
+      "description": "",
+      "message": "منعت؟"
+   },
+   "changing": {
+      "description": "",
+      "message": "متغير"
+   },
+   "conflict1": {
+      "description": "",
+      "message": "تدار إعدادات الوكيل الشبكة الخاصة بك عن طريق تمديد آخر"
+   },
+   "conflict2": {
+      "description": "",
+      "message": "تعطيل هذا التمديد"
+   },
+   "conflict3": {
+      "description": "",
+      "message": "الاستمرار في حولا"
+   },
+   "evenmore": {
+      "description": "",
+      "message": "أكثر"
+   },
+   "hola": {
+      "description": "",
+      "message": "حولا"
+   },
+   "initial": {
+      "description": "",
+      "message": "تهيئة، يرجى الانتظار"
+   },
+   "loading": {
+      "description": "",
+      "message": "تحميل ..."
+   },
+   "more": {
+      "description": "",
+      "message": "أكثر ..."
+   },
+   "notworking": {
+      "description": "",
+      "message": "لا يعمل؟ خيارات أخرى ..."
+   },
+   "old1": {
+      "description": "",
+      "message": "قديمة جدا من كروم نسخة"
+   },
+   "old2": {
+      "description": "",
+      "message": "الكروم لاستخدام حولا"
+   },
+   "reload": {
+      "description": "",
+      "message": "تحديث"
+   },
+   "settings": {
+      "description": "",
+      "message": "الإعدادات"
+   },
+   "sitelist": {
+      "description": "",
+      "message": "قائمة المواقع unblocker"
+   },
+   "start": {
+      "description": "",
+      "message": "بدوره على أن تبدأ"
+   },
+   "unblocked": {
+      "description": "",
+      "message": "الافراج"
+   },
+   "update": {
+      "description": "",
+      "message": "التحديث"
+   }
+}

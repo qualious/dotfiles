@@ -1,0 +1,106 @@
+{
+   "accelerator": {
+      "description": "",
+      "message": "加速器"
+   },
+   "appDesc": {
+      "description": "該應用程序的描述，在網上商店顯示。",
+      "message": "訪問網站擋在你的國家，公司或者學校HOLA！ HOLA是免費的，易於使用的！"
+   },
+   "appDesc_nohola": {
+      "description": "",
+      "message": "訪問網站擋在你的國家，公司或學校！這種擴展是免費的，易於使用的！"
+   },
+   "appName": {
+      "description": "該應用程序的標題，在網上商店顯示。",
+      "message": "HOLA更好的互聯網"
+   },
+   "appName_nohola": {
+      "description": "",
+      "message": "無限制免費代理VPN"
+   },
+   "back": {
+      "description": "",
+      "message": "回"
+   },
+   "blocked": {
+      "description": "",
+      "message": "受阻？"
+   },
+   "changing": {
+      "description": "",
+      "message": "改變"
+   },
+   "conflict1": {
+      "description": "",
+      "message": "您的網絡代理設置是由另一分機管理"
+   },
+   "conflict2": {
+      "description": "",
+      "message": "禁用擴展"
+   },
+   "conflict3": {
+      "description": "",
+      "message": "繼續與HOLA"
+   },
+   "evenmore": {
+      "description": "",
+      "message": "更"
+   },
+   "hola": {
+      "description": "",
+      "message": "HOLA"
+   },
+   "initial": {
+      "description": "",
+      "message": "初始化，請稍候"
+   },
+   "loading": {
+      "description": "",
+      "message": "加載中..."
+   },
+   "more": {
+      "description": "",
+      "message": "更多..."
+   },
+   "notworking": {
+      "description": "",
+      "message": "不工作？更多的選擇..."
+   },
+   "off": {
+      "description": "",
+      "message": "關閉"
+   },
+   "old1": {
+      "description": "",
+      "message": "很老版Chrome"
+   },
+   "old2": {
+      "description": "",
+      "message": "Chrome瀏覽器使用HOLA"
+   },
+   "reload": {
+      "description": "",
+      "message": "刷新"
+   },
+   "settings": {
+      "description": "",
+      "message": "設置"
+   },
+   "sitelist": {
+      "description": "",
+      "message": "unblocker網站列表"
+   },
+   "start": {
+      "description": "",
+      "message": "打開上手"
+   },
+   "unblocked": {
+      "description": "",
+      "message": "暢通"
+   },
+   "update": {
+      "description": "",
+      "message": "更新"
+   }
+}

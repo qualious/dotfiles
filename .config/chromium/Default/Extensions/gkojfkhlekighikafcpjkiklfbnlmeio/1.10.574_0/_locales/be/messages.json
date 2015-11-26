@@ -1,0 +1,106 @@
+{
+   "accelerator": {
+      "description": "",
+      "message": "Паскаральнік"
+   },
+   "appDesc": {
+      "description": "Апісанне прыкладання, адлюстроўваюцца ў вэб-краме.",
+      "message": "Сайты доступ да заблакаваным ў вашай краіне, кампаніі або школе з Hola! Hola з&#39;яўляецца бясплатным і простым ў выкарыстанні!"
+   },
+   "appDesc_nohola": {
+      "description": "",
+      "message": "Сайты заблакаваныя доступу ў вашай краіне, кампаніі ці школе! гэта пашырэнне свабоднай і просты ў выкарыстанні!"
+   },
+   "appName": {
+      "description": "Назва прыкладання, адлюстроўваюцца ў вэб-краме.",
+      "message": "Hola Лепш Інтэрнэт"
+   },
+   "appName_nohola": {
+      "description": "",
+      "message": "Неабмежаваная колькасць бясплатных проксі VPN"
+   },
+   "back": {
+      "description": "",
+      "message": "вярнуцца да"
+   },
+   "blocked": {
+      "description": "",
+      "message": "заблякаваны?"
+   },
+   "changing": {
+      "description": "",
+      "message": "змены"
+   },
+   "conflict1": {
+      "description": "",
+      "message": "Вашы сеткавыя налады проксі-сервера кіруецца іншым пашырэннем"
+   },
+   "conflict2": {
+      "description": "",
+      "message": "Адключыць гэта пашырэнне"
+   },
+   "conflict3": {
+      "description": "",
+      "message": "працягнуць Hola"
+   },
+   "evenmore": {
+      "description": "",
+      "message": "нават больш"
+   },
+   "initial": {
+      "description": "",
+      "message": "Ініцыялізацыя, калі ласка, пачакайце"
+   },
+   "loading": {
+      "description": "",
+      "message": "Загрузка ..."
+   },
+   "more": {
+      "description": "",
+      "message": "Больш за ..."
+   },
+   "notworking": {
+      "description": "",
+      "message": "не працуе? больш опцый ..."
+   },
+   "off": {
+      "description": "",
+      "message": "ВЫКЛ"
+   },
+   "old1": {
+      "description": "",
+      "message": "Вельмі старая версія Chrome"
+   },
+   "old2": {
+      "description": "",
+      "message": "Хром выкарыстоўваць Hola"
+   },
+   "on": {
+      "description": "",
+      "message": "ПА"
+   },
+   "reload": {
+      "description": "",
+      "message": "Перазагружаць"
+   },
+   "settings": {
+      "description": "",
+      "message": "налады"
+   },
+   "sitelist": {
+      "description": "",
+      "message": "Unblocker спіс сайтаў"
+   },
+   "start": {
+      "description": "",
+      "message": "Уключыце для пачатку"
+   },
+   "unblocked": {
+      "description": "",
+      "message": "адмыкнутая"
+   },
+   "update": {
+      "description": "",
+      "message": "Абнаўленне"
+   }
+}

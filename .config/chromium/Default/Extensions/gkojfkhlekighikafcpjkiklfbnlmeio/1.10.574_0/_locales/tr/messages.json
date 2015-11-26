@@ -1,0 +1,106 @@
+{
+   "accelerator": {
+      "description": "",
+      "message": "Hızlandırıcı"
+   },
+   "appDesc": {
+      "description": "web mağazası görüntülenen uygulama açıklaması.",
+      "message": "Erişim siteleri Hola ile ülke, şirket ya da okulda engellendi! Hola ücretsiz ve kullanımı kolay!"
+   },
+   "appDesc_nohola": {
+      "description": "",
+      "message": "Erişim web sitelerinin ülke, şirket ya da okulda engellendi! Bu uzantı ücretsiz ve kullanımı kolay!"
+   },
+   "appName": {
+      "description": "web mağazası görüntülenen uygulama başlığı.",
+      "message": "Hola - Ücretsiz Sınırsız VPN"
+   },
+   "appName_nohola": {
+      "description": "",
+      "message": "Sınırsız Ücretsiz Vekil VPN"
+   },
+   "back": {
+      "description": "",
+      "message": "geri"
+   },
+   "blocked": {
+      "description": "",
+      "message": "Engellenen?"
+   },
+   "changing": {
+      "description": "",
+      "message": "değişen"
+   },
+   "conflict1": {
+      "description": "",
+      "message": "Ağ proxy ayarlarınız başka uzantı tarafından yönetiliyor"
+   },
+   "conflict2": {
+      "description": "",
+      "message": "Bu uzantı devre dışı bırakma"
+   },
+   "conflict3": {
+      "description": "",
+      "message": "Hola ile devam etmek"
+   },
+   "evenmore": {
+      "description": "",
+      "message": "hatta daha fazla"
+   },
+   "initial": {
+      "description": "",
+      "message": "Başlatılıyor, lütfen bekleyin"
+   },
+   "loading": {
+      "description": "",
+      "message": "Yükleniyor ..."
+   },
+   "more": {
+      "description": "",
+      "message": "Daha ..."
+   },
+   "notworking": {
+      "description": "",
+      "message": "çalışmıyor? daha fazla seçenek ..."
+   },
+   "off": {
+      "description": "",
+      "message": "KAPALI"
+   },
+   "old1": {
+      "description": "",
+      "message": "Chrome Çok eski sürümü"
+   },
+   "old2": {
+      "description": "",
+      "message": "Hola kullanımı Krom"
+   },
+   "on": {
+      "description": "",
+      "message": "AÇIK"
+   },
+   "reload": {
+      "description": "",
+      "message": "Yükle"
+   },
+   "settings": {
+      "description": "",
+      "message": "Ayarlar"
+   },
+   "sitelist": {
+      "description": "",
+      "message": "unblocker sitesi listesi"
+   },
+   "start": {
+      "description": "",
+      "message": "Açın Başlamak için"
+   },
+   "unblocked": {
+      "description": "",
+      "message": "engellenmemiş"
+   },
+   "update": {
+      "description": "",
+      "message": "Güncelleştirme"
+   }
+}
