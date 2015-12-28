@@ -8,6 +8,5 @@ echo '['
 
 # We send an empty first array of blocks to make the loop simpler:
 echo '[],'
-
 # Now send blocks with information forever:
 exec conky -c $HOME/.config/i3/Scripts/conkyrc

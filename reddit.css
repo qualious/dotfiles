@@ -1,0 +1,940 @@
+@namespace url(http://www.w3.org/1999/xhtml);
+:root {
+    --bg-color: #2A303B;     --fg-color: #B3BDCB; /*var(--bg-color);*/
+}
+@-moz-document domain("reddit.com") {
+    
+body {
+    font: x-small SNS display;
+    z-index: 1;
+    min-height: 100%;
+    background-color: var(--bg-color) !important;
+}
+ .md blockquote, .md del {
+    color: var(--fg-color);
+}    
+    
+    
+ .md{
+     color: var(--fg-color);
+ } 
+    
+/*archived post warning*/
+.reddit-infobar {
+    display: none !important;
+    box-sizing: border-box;
+    background-color: var(--bg-color);
+    border-color: var(--bg-color);
+    color: var(--fg-color);
+    border-style: solid;
+    border-width: 1px;
+    margin-bottom: 10px;
+    margin-left: 0px;
+    margin-top: 5px;
+    overflow: auto;
+    padding: 10px;
+    position: relative;
+}
+    
+/*code*/    
+.md code, .md pre {
+    border: 0px solid  var(--fg-color);
+    background-color:  var(--fg-color) !important;
+    color:  var(--bg-color) !important;
+    border-radius: 2px;
+}
+ /*reply area*/
+ textarea {
+    border: 1px solid  var(--fg-color);
+    background-color:  var(--bg-color);
+    color:  var(--fg-color);
+}
+/*how many comments*/
+.panestack-title .title {
+    display: none !important;
+}
+/*save button*/
+.usertext button {
+    margin: 0px !important;
+    padding: 2px !important;
+    background: transparent !important;
+    font-size: small !important;
+    border: 1px solid  var(--fg-color);
+    color:  var(--fg-color) !important;
+}
+/*sorted menu*/
+.commentarea .menuarea {
+    color:  var(--fg-color);
+}
+.dropdown.lightdrop .selected {
+    position: relative;
+    background: transparent url("../droparrowgray.gif") no-repeat scroll right center;
+    padding-right: 21px;
+    text-decoration: underline;
+    color:  var(--fg-color);
+}
+.drop-choices {
+    position: absolute;
+    left: 0px;
+    border: 1px solid  var(--fg-color);
+    z-index: 100;
+    background-color: var(--bg-color);
+    color: var(--fg-color);
+    white-space: nowrap;
+    line-height: normal;
+    margin-top: 3px !important;
+    display: none;
+}    
+.drop-choices a.choice:hover {
+    background-color: var(--fg-color) ;
+    color: var(--bg-color)  !important;
+}    
+    
+/*infobar*/
+.infobar{
+    background-color: var(--bg-color) ;
+    border: 2px solid var(--fg-color) ;
+    padding-left: 10px;
+    color: var(--fg-color) ;
+}    
+    
+.usertext.border .usertext-body {
+    border: 1px solid var(--fg-color) ;
+    background-color: #2A303F;
+    margin-top: 10px;
+    padding-left: 5px;
+}
+  /*comment guideline*/
+.commentarea .sitetable .thing .child {
+border:none !important;
+}
+/*Display : none*/
+.organic-listing, /*weird thing*/
+.promotedlink, /*promoted link*/
+.sponsorshipbox,
+#ad_main,
+.nav-buttons .separator,
+.next-suggestions,
+.sr-list .separator,
+#userbarToggle,
+.grippy:hover:after,
+.grippy:after,
+#jumpToContent,
+#header-bottom-right .separator,
+#RESMainGearOverlay,
+.nub,
+.rank, /*number next to post*/
+.trending-subreddits, /*trending*/
+.interestbar, /*Interestbar*/
+/*.sr-list,list of subreddit*/
+#sr-more-link /*link to edit subreddit*/
+{
+    display:none !important;
+}
+ /*Multireddit*/
+.listing-chooser{
+    display:none !important;
+}
+/*General*/
+
+body.front-page .width-clip .sr-list{
+    display:inline !important;
+}
+body.front-page #srLeftContainer,
+body.front-page .width-clip .flat-list{
+    max-width: 300px;
+    position: absolute;
+    top: 40px;
+    background: #2a303b;
+    left: 0px;
+    min-height: 40px;
+    max-height: 40px;
+    min-width: 280px;
+    text-indent: 99999px
+}
+#RESStaticShortcuts,
+body.front-page #srLeftContainer{
+    max-width: 296px;
+}
+body.front-page .RESShortcutsCurrentSub,
+body.front-page .flat-list .selected{
+    position: absolute;
+    left: 0px;
+    top: 11px;
+    height: 30px;
+    text-indent: 20px;
+    z-index: 101
+}
+body.front-page .RESShortcutsCurrentSub{
+    font-weight: normal !important;
+    color:#999 !important;
+    margin-left:15px;
+}
+.front-page #sr-header-area a.RESShortcutsCurrentSub,
+body.front-page .flat-list .selected a{
+    font-size: 16px !important;
+}
+
+body.front-page .flat-list .selected a:after{
+    content:'/';
+    font-size: 25px;
+    color: var(--fg-color) !important;
+    position: absolute;
+    left:130px
+}
+a{
+    color: #fff !important;
+}
+/*Header*/
+
+#header{
+    width:300px !important;
+    height: 72px !important;
+    position: fixed !important;
+    background-color: var(--fg-color)  !important;
+    z-index: 102;
+    top:0;
+}
+#header-bottom-left {
+    height: 40px;
+    width: 300px;
+    display: block;
+    background: var(--bg-color) ;
+    top:0px
+}
+#sr-header-area {
+    border-bottom: 0px solid !important;
+}
+#header-img.default-header {
+    background-image: url('http://i.imgur.com/WMi0JEY.png') !important;
+    background-position: 15px 6px !important;
+    height: 40px;
+    width: 47px !important;
+    z-index: 100;
+    position: relative;
+}
+#header-img-a{
+    position:relative;
+    top:8px !important;
+    z-index: 150;
+    display:block !important;
+    height: 27px !important;
+    width: 47px !important;
+    overflow: hidden !important;
+    background: url('http://i.imgur.com/WMi0JEY.png') no-repeat 15px 0px !important;
+}
+#header-img-a img{
+    opacity:0
+}
+#RESShortcutsEditContainer,
+body .sr-list{
+    display:none !important;
+}
+/*User*/
+#header-bottom-right:before{
+    background : transparent;
+    width:20px;
+    height:20px;
+    border:2px solid white;
+    border-radius:30px;
+    content:"";
+    position:fixed !important;
+    top:9px !important;
+    left:72px!important;
+}
+#openRESPrefs{
+    width: 0px;
+    height:0px !important;
+    overflow:hidden;
+}
+#openRESPrefs:after{
+    position:absolute;
+    content: "Hover for RES Menu";
+    width:250px;
+    border:2px solid var(--fg-color) ;
+    border-radius:2px;
+    font-size:14px;
+    padding:0 0 0 15px;
+    margin:50px 0 0 -10px;
+    font-weight:bold;
+    color: var (--fg-color) !important;
+}
+#header-bottom-right{
+    background : white !important;
+    position: fixed !important;
+    top:40px !important;
+    left:-450px !important;
+    width:290px;
+    height:100% !important;
+    padding:50px 0 0 10px !important;
+    z-index: 103;
+    font-size: 14px;
+    line-height: 2.25em;
+    transition-delay: 0.4s;
+    -moz-transition-duration: 0.2s;
+    -webkit-transition-duration: 0.2s;
+    -o-transition-duration: 0.2s;
+    transition-duration: 0.2s;
+}
+#header-bottom-right:hover{
+    left:0px !important;
+}
+#header-bottom-right #mail{
+    margin-left:1em
+}
+#header-bottom-right .flat-list{
+    display:block !important;
+}
+
+#header-bottom-right a{
+    font-size: 14px !important;
+    color:#267be3;
+    margin-left:10px;
+}
+#header-bottom-right .havemail:before{
+    position:fixed;
+    width:10px;
+    height:10px;
+    border-radius:10px;
+    background:#ff1919;
+    top:8px;
+    left:90px;
+    content:"";
+    box-shadow: -1px 0 0 var(--bg-color) ,
+                0px 1px 0 var(--bg-color) ;
+}
+#RESPrefsDropdown{
+    position:fixed !important;
+    right:auto !important;
+    top:190px !important;
+    left:10px ;
+}
+/*subreddit chooser*/
+#sr-header-area{
+    width:0px;
+    height:0px !important;
+}
+#sr-header-area .dropdown.srdrop {
+    left:65px;
+    top:1px;
+}
+#srDropdownContainer a{
+    position: absolute;
+    left: -25px;
+    top: 0px;
+    height: 40px !important;
+    width:40px !important;
+    overflow: hidden;
+    text-indent: 20px;
+    z-index: 101;
+    color:transparent !important;
+}
+#sr-header-area .dropdown{
+    width:20px !important;
+    height:40px !important;
+    overflow-x: hidden !important;
+    top:40px !important;
+    left:0px !important;
+    overflow:hidden
+}
+#sr-header-area .dropdown.srdrop .selected{
+    color:transparent !important;
+}
+#srDropdownContainer a::before,
+#sr-header-area .dropdown::before{
+    content: '+';
+    font-size: 16px;
+    font-weight: bold;
+    color:#999;
+    position: fixed;
+    z-index: 102;
+    height:20px;
+    padding:10px 5px;
+    left:0
+}
+#srDropdownContainer a::before{
+    left:-20px;
+    top:40px;
+}
+#sr-header-area .dropdown:hover::before{
+    background:rgba(1,1,1,0.1);
+    color:#fff;
+}
+#srList,
+#sr-header-area .drop-choices.srdrop {
+    top: 40px !important;
+    left: 13px !important;
+    z-index:103
+}
+/*Hot, new, rising etc*/
+.tabmenu{
+    height:0px !important;
+    overflow: hidden !important;
+    position: absolute !important;
+    left:180px;
+    padding:26px 0 5px 0;
+    z-index:100 !important;
+    border:1px solid transparent;
+    top:39px
+}
+.tabmenu:hover{
+    height:auto !important;
+    background : white;
+    border:0px solid #ddd;
+    border-radius: 2px;
+    padding:35px 0 5px 0;
+}
+.tabmenu li {
+    display: list-item !important;
+    padding:5px 0 0 0;
+}
+.tabmenu .selected {
+    position:absolute;
+    top:3px;
+}
+.tabmenu a{
+    color : #999 !important;
+    background-color: transparent !important;
+    border:0px solid !important;
+    font-weight: normal;
+    font-size: 14px
+}
+.tabmenu a:hover{
+    text-decoration: underline
+}
+
+/*Side*/
+    
+    
+/*sidebar adjustments*/    
+.side{
+    background-color: var(--bg-color) !important;
+    color: var(--fg-color) !important;
+}
+.side .side-message {
+    display: none !important;
+}
+.goldvertisement .inner {
+    display: none !important;
+}
+.goldvertisement {
+    display: none !important;
+}
+.sidebox .spacer {
+    display: none !important;
+}    
+.linkinfo {
+    padding: 5px;
+    border: 1px solid var(--fg-color) !important;
+    background-color: var(--bg-color) !important;
+    font-family: arial,helvetica,sans-serif;
+    font-size: larger;
+    border-radius: 3px;
+}
+.side {
+    margin: 0px !important;
+    position: fixed;
+    height: 100%;
+    z-index: 102;
+    top: 40px;
+    left:-400px !important;
+    transition-duration: 0.2s;
+    transition-delay: 0.4s;
+    overflow-y:auto !important;
+    width:280px;
+    padding:10px
+}
+.side:before{
+    content: '';
+    width:10px;
+    height:18px;
+    position: fixed;
+    display: block;
+    top:9px;
+    left:268px;
+    border-style:solid;
+    border-color:white;
+    border-width:2px 2px 2px 10px;
+    border-radius:1px;
+    cursor:pointer
+}
+.side:hover{
+    left:0px !important;
+    transition-duration: 0.2s;
+}
+.side #search input{
+    width:275px;
+}
+#searchexpando{
+    border:0 solid !important;
+    background-color: var(--bg-color)  !important;
+}
+.morelink {
+    border: 2px solid var(--bg-color)  !important;
+    border-radius: 2px;
+    background: var(--bg-color)  !important;
+}
+.morelink:hover {
+    background: #fff !important;
+}
+.morelink:hover a{
+    color: var(--bg-color)  !important;
+}
+.RESshortcut,
+.titlebox .option,
+.subButtons .REStoggle{
+    border-width:2px !important;
+    border-style:solid !important;
+    border-radius:2px !important;
+    background:none transparent !important;
+}
+.RESshortcut,
+.titlebox .add,
+.subButtons .REStoggle{
+    border-color:#27ae60 !important;
+    border-style: solid;
+    color: #27ae60 !important;
+}
+.titlebox .remove{
+    border-color:var(--bg-color)  !important;
+     border-style: solid;
+    color: #c0392b !important;
+}
+.RESshortcut:hover,
+.titlebox .add:hover,
+.subButtons .REStoggle:hover{
+    background-color:#27ae60 !important;
+    color:white !important;
+}
+.titlebox .remove:hover{
+    background-color:#c0392b !important;
+    color:white !important;
+}
+/*Content*/
+.content {
+    margin: 0 0 0 300px !important;
+    max-width:900px !important;
+}
+.sidecontentbox .content{
+    margin: 0 !important;
+    max-width:300px !important;
+}
+.content .content{
+    border-left: 10px solid transparent;
+}
+/*Links*/
+.link {
+    margin: -0.3px !important;
+    padding: 8px 0 8px 0 !important;
+    box-shadow: -10px 0px 0 var(--bg-color); 
+}
+.link .entry {
+    padding-left: 15px;
+}
+.link .title a.title{
+    color:#fff !important;
+    font-size: 14px !important;
+    font-weight: 600;
+}
+.link .title a:visited {
+    color: var(--fg-color)  !important;
+}
+.domain,
+.domain a,
+.tagline,
+.flat-list,
+.flat-list a{
+    font-weight: normal !important;
+    color: var(--fg-color) !important;
+    font-size: 10px !important;
+}
+a.pref-lang{
+    color:#267be3 !important;
+}
+.nsfw-stamp,
+.front-page .link .userattrs,
+.listing-page .link .flat-list li:not(.first){
+    display:none !important
+}
+.listing-page .link:hover .flat-list li:not(.nsfw-stamp){
+    display:inline !important
+}
+.front-page .link .subreddit{
+    background-color: var(--bg-color);
+    margin-left: -27px;
+}
+.front-page .link .subreddit:before{
+    padding-left: 5px;
+    content:"    > ";
+}
+
+.expando-button {
+    height: 1px !important;
+    width: 1px !important;
+    background:none !important;
+}
+.expando-button:before {
+    display: none !important;
+}
+.comment .usertext-body .expando-button,
+.comment .title + .expando-button{
+    margin:0 15px 0 5px !important;
+    font-style:normal !important;
+}
+.link .title + .expando-button:before {
+    display: block;
+}
+.expando-button.expanded:before {
+    display: none !important;
+}
+.link .usertext .md {
+    font-size: 14px;
+    color: #777;
+    padding: 0px !important;
+    background-color: transparent !important;
+    border: 0px solid !important;
+    border-radius: 0px !important;
+    line-height:1.5em
+}
+.over18{
+    box-shadow: -10px 0px 0 #f85b5b
+}
+.content.over18{
+    box-shadow: -10px 0px 0 transparent
+}
+.stickied{
+    box-shadow: -10px 0px 0 #51C8A4
+}
+
+.over18 .thumbnail{
+    opacity:0.3
+}
+.over18 .thumbnail:hover{
+    opacity:1
+}
+
+.link.last-clicked {
+    border: 0px solid transparent;
+}
+.downmod,
+.upmod,
+.down,
+.up {
+    background-image: url('http://i.imgur.com/5nyflLe.png') !important;
+}
+.up{
+    background-position: -22px -795px !important;
+}
+.down{
+    background-position: -87px -775px !important;
+}
+.upmod{
+    background-position: -43px -796px !important;
+}
+.downmod{
+    background-position: -1px -796px !important;
+}
+
+/*Link expanded*/
+    
+     .link .usertext .md {
+    padding: 5px 10px;
+    color: var(--fg-color)  !important;
+}
+ 
+    
+.pagename {
+    font-weight: normal !important;
+    font-size: 20px !important;
+    margin: -5px 0 0 0 !important;
+    height: 33px;
+    background-color: #2a303b;
+    min-width: 126px;
+    max-width: 126px;
+    padding: 6px 154px 0 20px;
+    display: block;
+    word-wrap: break-word !important;
+    word-break: break-all !important;
+    overflow:hidden;
+}
+
+    
+.with-listing-chooser.hot-page .pagename,
+body.listing-page:not(.hot-page) .pagename{
+    top:45px
+}
+.with-listing-chooser.hot-page .pagename:after,
+.multi-page .pagename:after{
+    top:4px;
+}
+.pagename,
+.pagename a{
+    color:var(--fg-color)  !important;
+    padding-top:7px;
+    vertical-align: 30px
+}
+.front-page .RESShortcutsCurrentSub:after,
+.pagename:after{
+    content:'/';
+    font-size: 25px;
+    color:var(--fg-color) ;
+    position: absolute;
+    top:46px;
+    left:150px
+}
+.front-page  .RESShortcutsCurrentSub:after{
+    top:0px;
+    left:110px
+}
+.comments-page .comment .midcol {
+    width: 6px !important;
+}
+.commentarea .tagline{
+    margin-left:15px !important;
+}
+.comments-page  .commentarea .arrow {
+    height: 0px !important;
+    width: 0px !important;
+}
+.comments-page .commentarea .upmod:before,
+.comments-page .commentarea .downmod:before,
+.comments-page .commentarea .up:before,
+.comments-page .commentarea .down:before{
+    content:'';
+    height:0;
+    width:0;
+    border-width: 5px;
+    border-style: solid; 
+    position: absolute;
+    margin-left:13px
+}
+.comments-page .commentarea .up:before{
+    border-color: transparent transparent #999 transparent;
+    border-style: solid;
+    margin-top: -6px
+}
+.comments-page .commentarea .down:before{
+    border-color: #999 transparent transparent transparent;
+    margin-top: 6px
+}
+.comments-page .commentarea .upmod:before{
+    border-color: transparent transparent orange transparent;
+    margin-top: -6px
+}
+.comments-page .commentarea .downmod:before{
+    border-color: #599fa5 transparent transparent transparent;
+    margin-top: 6px
+}
+.commentarea .md {
+    color: var(--fg-color) ;
+    width:500px;
+    font-size:14px;
+    line-height:1.5em
+}
+.commentarea .madeVisible iframe {
+    width:100% !important
+}
+.comment .collapsed {
+    margin-left:25px !important;   
+}
+/* Search */
+.search-page .pagename:after,
+.search-page .tabmenu{
+    display:none !important;
+}
+.search-page .pagename{
+    display:inline-block;
+    height:34px;
+    max-width:280px;
+    min-width:280px;
+    padding-right:0;
+}
+/*Comment box*/
+.usertext-header, .usertext-footer {
+    text-align: center;
+    padding: 5px 5px 8px !important;
+    background-color: #fff !important;
+}
+.usertext-header, .usertext-footer {
+    border: 0px solid !important;
+}
+.usertext-preview {
+    border-radius: 0px !important;
+    border-width:0px !important;
+    border-left: 0px solid #fff !important;
+    padding: 0px 0px !important;
+    width:auto !important;
+}
+/*Messages*/
+.roundfield {
+    background-color: transparent !important;
+}
+    
+/*NavBar*/
+.nav-buttons{
+    bottom:0;
+    margin-bottom:-7px; 
+    position: fixed;
+    width:50px;
+    height:40px;
+    left:0px;
+}
+.nav-buttons span{
+    color:#f5f5f5;
+}
+.nextprev{
+    width:0 !important;
+    margin-top: 0px !important;
+    font-size: 0px !important;
+}
+.nav-buttons a{
+    float:left;
+    height:20px;
+    width:100px;
+    border:0 !important;
+    border-radius: 0 !important;
+    font-size: 16px !important;
+    padding:5px 0 0 50px;
+    color: var(--fg-color)  !important;
+    font-weight: normal !important;
+    background:var(--bg-color)  !important;
+}
+.nav-buttons a:hover{
+    background:var(--bg-color)  !important
+}  
+
+    
+    
+/*Footer*/
+.debuginfo,
+.footer-parent{
+    margin:-10px 0 0 300px !important;
+    border-left:10px solid var(--bg-color);
+}
+/*Ads Setting*/
+.organic-listing .link {
+    background-color: transparent !important;
+}
+.organic-listing {
+    border: 0px solid !important;
+    box-shadow: -10px 0 0 #f1c40f !important;
+}
+.organic-listing,
+.content .spacer {
+    margin-bottom: 0px !important;
+}
+/* GreaseMonkey script thing*/
+
+
+
+/* trending subreddit*/
+
+.trending-subreddits{
+    display:none !important
+}
+
+/*Dark theme goes here*/
+/*RES compatibility*/
+.res-nightmode #header-bottom-right a,
+.res-nightmode #RESDropdownOptions li,
+.res-nightmode #RESDropdownOptions a,
+.res-nightmode .title a.title{
+    color:#ccc !important;
+}
+.res-nightmode #header-bottom-right,
+.res-nightmode .listing-page .link .subreddit{
+    background-color: #222;
+}
+.res-nightmode .listing-chooser-collapsed .listing-chooser{
+    border-right:300px solid #222;
+}
+#header-bottom-right .user,
+#progressIndicator,
+.NERPageMarker {
+    margin: 0 !important;
+    border: 0px solid !important;
+    border-radius: 0px !important;
+    padding: 10px 0px !important;
+}
+/*Right sidebar*/
+.debuginfo,
+.footer-parent,
+.content {
+    margin-left: 0  !important;
+    margin-right: 300px  !important;
+}
+.sidecontentbox .content{
+    margin: 0 !important;
+}
+#header-bottom-right {
+    background-color: var(--bg-color) !important;
+}    
+.grippy,
+#header-bottom-right:hover,
+.side:hover,
+#header-img-a,
+#header-img.default-header,
+#header{
+    right:0 !important;
+    left:auto !important;
+}
+#header:before{
+    content:"";
+    width:10px;
+    height:100%;
+    position:fixed;
+    right:300px;
+    top:0;
+    background:rgba(1,1,1,0.1)
+}
+#header-bottom-right,
+.side {
+    right:-400px !important;
+    left : auto !important;
+}
+#RESPrefsDropdown,
+.side:before{
+    right:10px !important;
+    left:auto
+}
+#header-bottom-right:before{
+    right:200px!important;
+    left: auto !important;
+}
+#header-bottom-right .havemail:before{
+    right:198px;
+    left:auto;
+}
+#srList{
+    left: auto !important;
+    right:300px
+}
+.hover-bubble{
+    left:auto !important;
+    right:300px !important;
+    z-index:104;
+}
+#sr-header-area .dropdown::before,
+#srDropdownContainer a::before{
+    left:auto;
+    right: 280px
+}
+}
+@-moz-document url("http://www.reddit.com/"),
+               url("http://www.reddit.com/?count=26&before=t3_23styk"){
+    .nextprev a{
+        margin-left:150px !important;
+    }
+}
+@-moz-document url("http://www.reddit.com/r/dashboard"){
+    .pagename:after,
+    .tabmenu{
+        display:none !important;
+    }
+    .pagename{
+        height:60px
+    }
+    .pagename a{
+       max-width: 300px !important;
+    }
+}

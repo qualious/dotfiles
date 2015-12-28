@@ -18,8 +18,8 @@ upd_mail=300                        # Mail check update
 upd_mpd=5                           # MPD song update
 
 # color definitions 
-color_back="#FF1D1F21"              # Default background
-color_fore="#FFC5C8C6"              # Default foreground
+color_back="#2A303B"              # Default background
+color_fore="#B3BDCB"              # Default foreground
 color_head="#FFB5BD68"              # Background for first element
 color_sec_b1="#FF282A2E"            # Background for section 1
 color_sec_b2="#FF454A4F"            # Background for section 2
