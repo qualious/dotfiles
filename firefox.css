@@ -14,12 +14,15 @@
 text-align: center !important;
 } 
 
-#nav-bar { display: none !important; }
+/*#nav-bar { display: none !important; }*/
 @namespace html url(http://www.w3.org/1999/xhtml);
 @namespace xul url(http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul);
 /*
     Author: Twily
+    Edited by: qual
     Description: Minimal flat styled tabs for Australis
+    Edit Description: Color scheme adjusted to arc accordingly 
+    and extended some places to my liking.
     Compitability: Firefox Nightly v31.0a1 - v32.0a1 (Australis)
        CSS Variables were introduced to Firefox in v29.0a1
     Website: http://twily.info/
@@ -78,11 +81,6 @@ text-align: center !important;
     
     .tab-drop-indicator { margin-bottom: 0 !important; }
     
-    #nav-bar {
-        position: var(--url-position) !important; bottom: 0 !important;
-        width: 100% !important; height: var(--url-height) !important;
-        min-height: var(--url-height) !important; max-height: var(--url-height) !important;
-        margin: 0 0 0 0 !important;
         
         /* --- Uncomment the section below to attach the url-bar to the tab-bar [EXPERIMENTAL] (Require a line in "#TabsToolbar" below) --- */
         /*
@@ -111,10 +109,38 @@ text-align: center !important;
     /* --- Comment out the section below to make the url-bar visible --- */
     /**/
     #nav-bar {
-        width: 0 !important; height: 0 !important;
-        position: fixed !important; left: -1px !important; top: -1px !important;
-        overflow: hidden !important; visibility: hidden !important;
+       opacity: 0 !important;
+       width: 100% !important; height: 1px !important;
+       overflow:  hidden !important; visibility:  visible !important;
     }
+
+    #main-window #TabsToolbar ~ toolbar#nav-bar {
+       margin-top: -1px !important;
+       border-top: 1px solid transparent !important;  /* Firefox 32+ */
+    }
+
+    #TabsToolbar::after {
+       border-bottom-color: transparent !important;
+    }
+    #TabsToolbar ~ #nav-bar {
+       box-shadow: none !important;
+    }
+
+    #main-window:not([disablechrome]) #navigator-toolbox::after {
+       display: none !important;
+   }
+
+#nav-bar {
+ background: none !important;
+}
+     
+#nav-bar:hover{
+    width: 40px !important; height: 40px !important;
+    transition: 1s ease-out !important;
+    opacity: 1 !important;
+    overflow:  auto !important; visibility:  visible !important;
+}
+
     /**/
     
     /* TABS */
