@@ -135,7 +135,7 @@ text-align: center !important;
 }
      
 #nav-bar:hover{
-    width: 40px !important; height: 40px !important;
+    width: 40px !important; height: 0px !important;
     transition: 1s ease-out !important;
     opacity: 1 !important;
     overflow:  auto !important; visibility:  visible !important;
