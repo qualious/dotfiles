@@ -19,10 +19,7 @@ text-align: center !important;
 @namespace xul url(http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul);
 /*
     Author: Twily
-    Edited by: qual
     Description: Minimal flat styled tabs for Australis
-    Edit Description: Color scheme adjusted to arc accordingly 
-    and extended some places to my liking.
     Compitability: Firefox Nightly v31.0a1 - v32.0a1 (Australis)
        CSS Variables were introduced to Firefox in v29.0a1
     Website: http://twily.info/
@@ -38,16 +35,16 @@ text-align: center !important;
     --bg-light: #2A303B; --bg-dark: #2A303B;
     --fg-light: #ffffff; --fg-dark: #B3BDCB;
     --tab-triangle-correction: -1px;
-    --tab-height: 45px; --tab-icon-size: 16px; --tab-strip-margin: -12px; --tab-overlap: -5px; --tab-font-size: 14pt;
+    --tab-height: 45px; --tab-icon-size: 0px; --tab-strip-margin: -12px; --tab-overlap: -5px; --tab-font-size: 12pt;
     --tab-text-align: left; /* left | center | right */
     --tab-triangle: block;  /* block | none */
 
     /* URL VARIABLES */
     --url-background: var(--bg-light); --url-color: var(--fg-dark);
     --url-height: 24px; --url-right-margin: 5px;
-    --url-fonts: "Droid Sans", "Source Sans Pro", "Lemon",monospace,"Dejavu Sans"; --url-font-size: 10pt;
+    --url-fonts: "Roboto Mono"; --url-font-size: 10pt;
     --url-text-align: center; /* left | center | right */
-    --url-position: absolute; /* absolute == top (under tabs) || fixed == bottom of browser */
+    --url-position: fixed; /* absolute == top (under tabs) || fixed == bottom of browser */
     
     margin-bottom: 0 /* var(--url-height) */ !important;
 }
@@ -130,21 +127,22 @@ text-align: center !important;
        display: none !important;
    }
 
-#nav-bar {
- background: none !important;
-}
+    #nav-bar {
+         position: var(--url-position) !important; bottom: 0 !important;
+       background: none !important;
+    }
      
-#nav-bar:hover{
-    width: 40px !important; height: 0px !important;
-    transition: 1s ease-out !important;
-    opacity: 1 !important;
-    overflow:  auto !important; visibility:  visible !important;
-}
+    #nav-bar:hover{
+       width: 100% !important; height: 0px !important;
+       transition: .4s ease-out !important;
+       opacity: 1 !important;
+       overflow:  auto !important; visibility:  visible !important;
+    }
 
     /**/
     
     /* TABS */
-    .tabbrowser-tab[fadein]:not([pinned]) { min-width: 100px !important; max-width: /*180px*/ 100% !important; }
+    .tabbrowser-tab[fadein]:not([pinned]) { min-width: 100px !important; max-width: 300px !important; }
     tab {
         font-family: var(--tab-fonts) !important;
         height: var(--tab-height) !important; min-height: var(--tab-height) !important;
