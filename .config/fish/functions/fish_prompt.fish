@@ -21,10 +21,10 @@ function fish_prompt
     else
         set_color -o red
     end
-    set_color -o blue
+    set_color -o green
     #echo -n     (prompt_pwd)
     echo -n \ (pwd|sed "s=$HOME=~=")
-    set_color -o blue
+    set_color -o green
     echo -n ']'
     set_color normal
     set_color $retc

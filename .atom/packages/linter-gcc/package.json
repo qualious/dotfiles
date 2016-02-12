@@ -1,0 +1,549 @@
+{
+  "name": "linter-gcc",
+  "main": "./lib/main",
+  "version": "0.6.5",
+  "description": "Lint C and C++ source files using gcc / g++",
+  "keywords": [
+    "lint",
+    "linter",
+    "c",
+    "c++",
+    "gcc",
+    "g++",
+    "error"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hebaishi/linter-gcc.git"
+  },
+  "license": "MIT",
+  "engines": {
+    "atom": ">0.50.0"
+  },
+  "providedServices": {
+    "linter": {
+      "versions": {
+        "1.0.0": "provideLinter"
+      }
+    }
+  },
+  "consumedServices": {
+    "linter-indie": {
+      "versions": {
+        "1.0.0": "consumeLinter"
+      }
+    }
+  },
+  "dependencies": {
+    "atom-linter": "=4.3.4",
+    "atom-package-deps": "^2.0.1",
+    "shelljs": "^0.5.0",
+    "fs-extra": "^0.26.1",
+    "tempfile": "^1.1.0",
+    "split-string": "^0.1.0"
+  },
+  "package-deps": [
+    "linter"
+  ],
+  "devDependencies": {
+    "eslint": "latest"
+  },
+  "eslintConfig": {
+    "env": {
+      "es6": true,
+      "browser": true,
+      "node": true
+    },
+    "ecmaFeatures": {
+      "modules": true
+    },
+    "globals": {
+      "atom": true
+    }
+  },
+  "readme": "# linter-gcc\n[![Build Status](https://travis-ci.org/hebaishi/linter-gcc.svg?branch=master)](https://travis-ci.org/hebaishi/linter-gcc) ![apm](https://img.shields.io/apm/dm/linter-gcc.svg)\n\nLinter plugin for [Linter](https://github.com/AtomLinter/Linter), provides an interface to gcc/g++.\n\nUsed with files with grammar \"C\", \"C++\" and [\"C++14\"](https://atom.io/packages/language-cpp14).\n\nNow with linting **on-the-fly**! This is a new feature so please open an issue if you encounter any problems.\n\n## Linter in action!\n\n![linter-gcc screenshot](https://raw.githubusercontent.com/hebaishi/images/master/lintergcc_onthefly.gif)\n\n## File/Project-Specific settings\n\nAssuming you have the a file called ```sample.cpp``` open, linter-gcc performs the following actions:\n\n1. Looks for file called ```sample.cpp.gcc-flags.json``` in the same directory as your source file (file-specific settings)\n2. Looks for a file called ```.gcc-flags.json``` in every subdirectory from the current up to your project root (subdirectory/project-specific settings)\n3. If no ```.gcc-flags.json``` is found, the settings in your configuration page are used.\n\nThe package takes its settings from the first configuration file that is found.\n\nYou can specify your settings in ```.gcc-flags.json```, at any level (file/subdirectory/project) using the following syntax:\n\n```json\n{\n  \"execPath\": \"/usr/bin/g++\",\n  \"gccDefaultCFlags\": \"-Wall\",\n  \"gccDefaultCppFlags\": \"-Wall -std=c++11\",\n  \"gccErrorLimit\": 15,\n  \"gccIncludePaths\": \".,./include,./path\",\n  \"gccSuppressWarnings\": true\n}\n```\n\nNote that the include paths need to be separated by commas. If this file is present, it will replace the settings you specified in the settings window. Relative paths (starting with ```.``` or ```..```) are expanded with respect to the root folder. Both ```execPath``` and ```gccIncludePaths``` are expanded.\n\nIn order to avoid unwanted behavior associated with having multiple projects open, only the paths within the first project are used, and the package limits its search to 30 levels when looking for a configuration file. You can work with multiple projects, as long as each is open in a separate window. Additionally, within each project, you may have as many file/directory-specific configuration files as you wish.\n\n### Usage notes:\n* Add ```-fsyntax-only``` to your C/C++ compilation flags to prevent the generation of ```.gch``` files when linting headers\n* Add ```-c``` to your flags to avoid linking errors.\n\n### Plugin installation\nPress ctrl and ',' or cmd and ',' , click on 'Packages', search 'linter gcc', or:\n```\n$ apm install linter-gcc\n```\n### Debugging\nThe command executed by linter-gcc is written to the console on file save, so simply open the console to see the full command. Also, all attempts to find a valid configuration file are logged to the console. Please ensure that you have a working gcc/g++ compiler before submitting an issue.\n\nTo look for a working GCC simple type the following command into a terminal:\n```bash\n$ gcc --version\n```\n",
+  "readmeFilename": "README.md",
+  "bugs": {
+    "url": "https://github.com/hebaishi/linter-gcc/issues"
+  },
+  "homepage": "https://github.com/hebaishi/linter-gcc#readme",
+  "_id": "linter-gcc@0.6.5",
+  "_shasum": "bdea972b6811c0a483f8cf6498ff35297d6f8b19",
+  "_resolved": "file:../d-11618-8752-1yamqtg/package.tgz",
+  "_from": "../d-11618-8752-1yamqtg/package.tgz",
+  "_atomModuleCache": {
+    "version": 1,
+    "dependencies": [
+      {
+        "name": "atom-linter",
+        "version": "4.3.4",
+        "path": "node_modules/atom-linter/lib/helpers.js"
+      },
+      {
+        "name": "consistent-path",
+        "version": "1.1.1",
+        "path": "node_modules/atom-linter/node_modules/consistent-path/lib/index.js"
+      },
+      {
+        "name": "shell-path",
+        "version": "1.0.8",
+        "path": "node_modules/atom-linter/node_modules/consistent-path/node_modules/shell-path/index.js"
+      },
+      {
+        "name": "strip-ansi",
+        "version": "3.0.0",
+        "path": "node_modules/atom-linter/node_modules/consistent-path/node_modules/shell-path/node_modules/strip-ansi/index.js"
+      },
+      {
+        "name": "ansi-regex",
+        "version": "2.0.0",
+        "path": "node_modules/atom-linter/node_modules/consistent-path/node_modules/shell-path/node_modules/strip-ansi/node_modules/ansi-regex/index.js"
+      },
+      {
+        "name": "named-js-regexp",
+        "version": "1.3.1",
+        "path": "node_modules/atom-linter/node_modules/named-js-regexp/lib/named-js-regexp.js"
+      },
+      {
+        "name": "tmp",
+        "version": "0.0.28",
+        "path": "node_modules/atom-linter/node_modules/tmp/lib/tmp.js"
+      },
+      {
+        "name": "os-tmpdir",
+        "version": "1.0.1",
+        "path": "node_modules/atom-linter/node_modules/tmp/node_modules/os-tmpdir/index.js"
+      },
+      {
+        "name": "atom-package-deps",
+        "version": "2.1.3",
+        "path": "node_modules/atom-package-deps/lib/main.js"
+      },
+      {
+        "name": "fs-extra",
+        "version": "0.26.5",
+        "path": "node_modules/fs-extra/lib/index.js"
+      },
+      {
+        "name": "graceful-fs",
+        "version": "4.1.3",
+        "path": "node_modules/fs-extra/node_modules/graceful-fs/graceful-fs.js"
+      },
+      {
+        "name": "jsonfile",
+        "version": "2.2.3",
+        "path": "node_modules/fs-extra/node_modules/jsonfile/index.js"
+      },
+      {
+        "name": "klaw",
+        "version": "1.1.3",
+        "path": "node_modules/fs-extra/node_modules/klaw/index.js"
+      },
+      {
+        "name": "path-is-absolute",
+        "version": "1.0.0",
+        "path": "node_modules/fs-extra/node_modules/path-is-absolute/index.js"
+      },
+      {
+        "name": "rimraf",
+        "version": "2.5.1",
+        "path": "node_modules/fs-extra/node_modules/rimraf/rimraf.js"
+      },
+      {
+        "name": "glob",
+        "version": "6.0.4",
+        "path": "node_modules/fs-extra/node_modules/rimraf/node_modules/glob/glob.js"
+      },
+      {
+        "name": "inflight",
+        "version": "1.0.4",
+        "path": "node_modules/fs-extra/node_modules/rimraf/node_modules/glob/node_modules/inflight/inflight.js"
+      },
+      {
+        "name": "wrappy",
+        "version": "1.0.1",
+        "path": "node_modules/fs-extra/node_modules/rimraf/node_modules/glob/node_modules/inflight/node_modules/wrappy/wrappy.js"
+      },
+      {
+        "name": "inherits",
+        "version": "2.0.1",
+        "path": "node_modules/fs-extra/node_modules/rimraf/node_modules/glob/node_modules/inherits/inherits.js"
+      },
+      {
+        "name": "minimatch",
+        "version": "3.0.0",
+        "path": "node_modules/fs-extra/node_modules/rimraf/node_modules/glob/node_modules/minimatch/minimatch.js"
+      },
+      {
+        "name": "brace-expansion",
+        "version": "1.1.2",
+        "path": "node_modules/fs-extra/node_modules/rimraf/node_modules/glob/node_modules/minimatch/node_modules/brace-expansion/index.js"
+      },
+      {
+        "name": "balanced-match",
+        "version": "0.3.0",
+        "path": "node_modules/fs-extra/node_modules/rimraf/node_modules/glob/node_modules/minimatch/node_modules/brace-expansion/node_modules/balanced-match/index.js"
+      },
+      {
+        "name": "concat-map",
+        "version": "0.0.1",
+        "path": "node_modules/fs-extra/node_modules/rimraf/node_modules/glob/node_modules/minimatch/node_modules/brace-expansion/node_modules/concat-map/index.js"
+      },
+      {
+        "name": "once",
+        "version": "1.3.3",
+        "path": "node_modules/fs-extra/node_modules/rimraf/node_modules/glob/node_modules/once/once.js"
+      },
+      {
+        "name": "wrappy",
+        "version": "1.0.1",
+        "path": "node_modules/fs-extra/node_modules/rimraf/node_modules/glob/node_modules/once/node_modules/wrappy/wrappy.js"
+      },
+      {
+        "name": "shelljs",
+        "version": "0.5.3",
+        "path": "node_modules/shelljs/shell.js"
+      },
+      {
+        "name": "split-string",
+        "version": "0.1.1",
+        "path": "node_modules/split-string/index.js"
+      },
+      {
+        "name": "noncharacters",
+        "version": "1.1.0",
+        "path": "node_modules/split-string/node_modules/noncharacters/index.js"
+      },
+      {
+        "name": "tempfile",
+        "version": "1.1.1",
+        "path": "node_modules/tempfile/index.js"
+      },
+      {
+        "name": "os-tmpdir",
+        "version": "1.0.1",
+        "path": "node_modules/tempfile/node_modules/os-tmpdir/index.js"
+      },
+      {
+        "name": "uuid",
+        "version": "2.0.1",
+        "path": "node_modules/tempfile/node_modules/uuid/uuid.js"
+      }
+    ],
+    "extensions": {
+      ".js": [
+        "lib/config.js",
+        "lib/main.js",
+        "lib/utility.js",
+        "node_modules/atom-linter/lib/helpers.js",
+        "node_modules/atom-linter/node_modules/consistent-path/lib/index.js",
+        "node_modules/atom-linter/node_modules/consistent-path/node_modules/shell-path/index.js",
+        "node_modules/atom-linter/node_modules/consistent-path/node_modules/shell-path/node_modules/strip-ansi/index.js",
+        "node_modules/atom-linter/node_modules/consistent-path/node_modules/shell-path/node_modules/strip-ansi/node_modules/ansi-regex/index.js",
+        "node_modules/atom-linter/node_modules/named-js-regexp/lib/named-js-regexp.js",
+        "node_modules/atom-linter/node_modules/tmp/Gruntfile.js",
+        "node_modules/atom-linter/node_modules/tmp/lib/tmp.js",
+        "node_modules/atom-linter/node_modules/tmp/node_modules/os-tmpdir/index.js",
+        "node_modules/atom-package-deps/lib/helper.js",
+        "node_modules/atom-package-deps/lib/main.js",
+        "node_modules/atom-package-deps/lib/view.js",
+        "node_modules/fs-extra/lib/copy/copy.js",
+        "node_modules/fs-extra/lib/copy/index.js",
+        "node_modules/fs-extra/lib/copy/ncp.js",
+        "node_modules/fs-extra/lib/copy-sync/copy-file-sync.js",
+        "node_modules/fs-extra/lib/copy-sync/copy-sync.js",
+        "node_modules/fs-extra/lib/copy-sync/index.js",
+        "node_modules/fs-extra/lib/empty/index.js",
+        "node_modules/fs-extra/lib/ensure/file.js",
+        "node_modules/fs-extra/lib/ensure/index.js",
+        "node_modules/fs-extra/lib/ensure/link.js",
+        "node_modules/fs-extra/lib/ensure/symlink-paths.js",
+        "node_modules/fs-extra/lib/ensure/symlink-type.js",
+        "node_modules/fs-extra/lib/ensure/symlink.js",
+        "node_modules/fs-extra/lib/index.js",
+        "node_modules/fs-extra/lib/json/index.js",
+        "node_modules/fs-extra/lib/json/jsonfile.js",
+        "node_modules/fs-extra/lib/json/output-json-sync.js",
+        "node_modules/fs-extra/lib/json/output-json.js",
+        "node_modules/fs-extra/lib/mkdirs/index.js",
+        "node_modules/fs-extra/lib/mkdirs/mkdirs-sync.js",
+        "node_modules/fs-extra/lib/mkdirs/mkdirs.js",
+        "node_modules/fs-extra/lib/move/index.js",
+        "node_modules/fs-extra/lib/output/index.js",
+        "node_modules/fs-extra/lib/remove/index.js",
+        "node_modules/fs-extra/lib/streams/create-output-stream.js",
+        "node_modules/fs-extra/lib/streams/index.js",
+        "node_modules/fs-extra/lib/util/assign.js",
+        "node_modules/fs-extra/lib/util/utimes.js",
+        "node_modules/fs-extra/lib/walk/index.js",
+        "node_modules/fs-extra/node_modules/graceful-fs/fs.js",
+        "node_modules/fs-extra/node_modules/graceful-fs/graceful-fs.js",
+        "node_modules/fs-extra/node_modules/graceful-fs/legacy-streams.js",
+        "node_modules/fs-extra/node_modules/graceful-fs/polyfills.js",
+        "node_modules/fs-extra/node_modules/jsonfile/index.js",
+        "node_modules/fs-extra/node_modules/klaw/assign.js",
+        "node_modules/fs-extra/node_modules/klaw/index.js",
+        "node_modules/fs-extra/node_modules/path-is-absolute/index.js",
+        "node_modules/fs-extra/node_modules/rimraf/bin.js",
+        "node_modules/fs-extra/node_modules/rimraf/node_modules/glob/common.js",
+        "node_modules/fs-extra/node_modules/rimraf/node_modules/glob/glob.js",
+        "node_modules/fs-extra/node_modules/rimraf/node_modules/glob/node_modules/inflight/inflight.js",
+        "node_modules/fs-extra/node_modules/rimraf/node_modules/glob/node_modules/inflight/node_modules/wrappy/wrappy.js",
+        "node_modules/fs-extra/node_modules/rimraf/node_modules/glob/node_modules/inflight/test.js",
+        "node_modules/fs-extra/node_modules/rimraf/node_modules/glob/node_modules/inherits/inherits.js",
+        "node_modules/fs-extra/node_modules/rimraf/node_modules/glob/node_modules/inherits/inherits_browser.js",
+        "node_modules/fs-extra/node_modules/rimraf/node_modules/glob/node_modules/inherits/test.js",
+        "node_modules/fs-extra/node_modules/rimraf/node_modules/glob/node_modules/minimatch/minimatch.js",
+        "node_modules/fs-extra/node_modules/rimraf/node_modules/glob/node_modules/minimatch/node_modules/brace-expansion/example.js",
+        "node_modules/fs-extra/node_modules/rimraf/node_modules/glob/node_modules/minimatch/node_modules/brace-expansion/index.js",
+        "node_modules/fs-extra/node_modules/rimraf/node_modules/glob/node_modules/minimatch/node_modules/brace-expansion/node_modules/balanced-match/example.js",
+        "node_modules/fs-extra/node_modules/rimraf/node_modules/glob/node_modules/minimatch/node_modules/brace-expansion/node_modules/balanced-match/index.js",
+        "node_modules/fs-extra/node_modules/rimraf/node_modules/glob/node_modules/minimatch/node_modules/brace-expansion/node_modules/concat-map/example/map.js",
+        "node_modules/fs-extra/node_modules/rimraf/node_modules/glob/node_modules/minimatch/node_modules/brace-expansion/node_modules/concat-map/index.js",
+        "node_modules/fs-extra/node_modules/rimraf/node_modules/glob/node_modules/once/node_modules/wrappy/wrappy.js",
+        "node_modules/fs-extra/node_modules/rimraf/node_modules/glob/node_modules/once/once.js",
+        "node_modules/fs-extra/node_modules/rimraf/node_modules/glob/sync.js",
+        "node_modules/fs-extra/node_modules/rimraf/rimraf.js",
+        "node_modules/shelljs/global.js",
+        "node_modules/shelljs/make.js",
+        "node_modules/shelljs/scripts/generate-docs.js",
+        "node_modules/shelljs/scripts/run-tests.js",
+        "node_modules/shelljs/shell.js",
+        "node_modules/shelljs/src/cat.js",
+        "node_modules/shelljs/src/cd.js",
+        "node_modules/shelljs/src/chmod.js",
+        "node_modules/shelljs/src/common.js",
+        "node_modules/shelljs/src/cp.js",
+        "node_modules/shelljs/src/dirs.js",
+        "node_modules/shelljs/src/echo.js",
+        "node_modules/shelljs/src/error.js",
+        "node_modules/shelljs/src/exec.js",
+        "node_modules/shelljs/src/find.js",
+        "node_modules/shelljs/src/grep.js",
+        "node_modules/shelljs/src/ln.js",
+        "node_modules/shelljs/src/ls.js",
+        "node_modules/shelljs/src/mkdir.js",
+        "node_modules/shelljs/src/mv.js",
+        "node_modules/shelljs/src/popd.js",
+        "node_modules/shelljs/src/pushd.js",
+        "node_modules/shelljs/src/pwd.js",
+        "node_modules/shelljs/src/rm.js",
+        "node_modules/shelljs/src/sed.js",
+        "node_modules/shelljs/src/tempdir.js",
+        "node_modules/shelljs/src/test.js",
+        "node_modules/shelljs/src/to.js",
+        "node_modules/shelljs/src/toEnd.js",
+        "node_modules/shelljs/src/which.js",
+        "node_modules/split-string/index.js",
+        "node_modules/split-string/node_modules/noncharacters/index.js",
+        "node_modules/tempfile/index.js",
+        "node_modules/tempfile/node_modules/os-tmpdir/index.js",
+        "node_modules/tempfile/node_modules/uuid/benchmark/benchmark.js",
+        "node_modules/tempfile/node_modules/uuid/misc/compare.js",
+        "node_modules/tempfile/node_modules/uuid/misc/perf.js",
+        "node_modules/tempfile/node_modules/uuid/rng-browser.js",
+        "node_modules/tempfile/node_modules/uuid/rng.js",
+        "node_modules/tempfile/node_modules/uuid/uuid.js"
+      ],
+      ".json": [
+        "node_modules/atom-linter/node_modules/consistent-path/node_modules/shell-path/node_modules/strip-ansi/node_modules/ansi-regex/package.json",
+        "node_modules/atom-linter/node_modules/consistent-path/node_modules/shell-path/node_modules/strip-ansi/package.json",
+        "node_modules/atom-linter/node_modules/consistent-path/node_modules/shell-path/package.json",
+        "node_modules/atom-linter/node_modules/consistent-path/package.json",
+        "node_modules/atom-linter/node_modules/named-js-regexp/package.json",
+        "node_modules/atom-linter/node_modules/tmp/node_modules/os-tmpdir/package.json",
+        "node_modules/atom-linter/node_modules/tmp/package.json",
+        "node_modules/atom-linter/package.json",
+        "node_modules/atom-package-deps/package.json",
+        "node_modules/fs-extra/node_modules/graceful-fs/package.json",
+        "node_modules/fs-extra/node_modules/jsonfile/package.json",
+        "node_modules/fs-extra/node_modules/klaw/package.json",
+        "node_modules/fs-extra/node_modules/path-is-absolute/package.json",
+        "node_modules/fs-extra/node_modules/rimraf/node_modules/glob/node_modules/inflight/node_modules/wrappy/package.json",
+        "node_modules/fs-extra/node_modules/rimraf/node_modules/glob/node_modules/inflight/package.json",
+        "node_modules/fs-extra/node_modules/rimraf/node_modules/glob/node_modules/inherits/package.json",
+        "node_modules/fs-extra/node_modules/rimraf/node_modules/glob/node_modules/minimatch/node_modules/brace-expansion/node_modules/balanced-match/package.json",
+        "node_modules/fs-extra/node_modules/rimraf/node_modules/glob/node_modules/minimatch/node_modules/brace-expansion/node_modules/concat-map/package.json",
+        "node_modules/fs-extra/node_modules/rimraf/node_modules/glob/node_modules/minimatch/node_modules/brace-expansion/package.json",
+        "node_modules/fs-extra/node_modules/rimraf/node_modules/glob/node_modules/minimatch/package.json",
+        "node_modules/fs-extra/node_modules/rimraf/node_modules/glob/node_modules/once/node_modules/wrappy/package.json",
+        "node_modules/fs-extra/node_modules/rimraf/node_modules/glob/node_modules/once/package.json",
+        "node_modules/fs-extra/node_modules/rimraf/node_modules/glob/package.json",
+        "node_modules/fs-extra/node_modules/rimraf/package.json",
+        "node_modules/fs-extra/package.json",
+        "node_modules/shelljs/.documentup.json",
+        "node_modules/shelljs/package.json",
+        "node_modules/split-string/node_modules/noncharacters/package.json",
+        "node_modules/split-string/package.json",
+        "node_modules/tempfile/node_modules/os-tmpdir/package.json",
+        "node_modules/tempfile/node_modules/uuid/benchmark/package.json",
+        "node_modules/tempfile/node_modules/uuid/package.json",
+        "node_modules/tempfile/package.json",
+        "package.json"
+      ]
+    },
+    "folders": [
+      {
+        "paths": [
+          "lib",
+          "",
+          "spec",
+          "spec/files/project_test",
+          "spec/files/project_test/sub1/subsub1",
+          "spec/files/project_test/sub2",
+          "spec/files/project_test/sub4"
+        ],
+        "dependencies": {
+          "atom-linter": "=4.3.4",
+          "atom-package-deps": "^2.0.1",
+          "shelljs": "^0.5.0",
+          "fs-extra": "^0.26.1",
+          "tempfile": "^1.1.0",
+          "split-string": "^0.1.0"
+        }
+      },
+      {
+        "paths": [
+          "node_modules/atom-linter/lib",
+          "node_modules/atom-linter"
+        ],
+        "dependencies": {
+          "consistent-path": "^1.0.3",
+          "named-js-regexp": "^1.3.1"
+        }
+      },
+      {
+        "paths": [
+          "node_modules/atom-linter/node_modules/consistent-path/lib",
+          "node_modules/atom-linter/node_modules/consistent-path"
+        ],
+        "dependencies": {
+          "shell-path": "^1.0.4"
+        }
+      },
+      {
+        "paths": [
+          "node_modules/atom-linter/node_modules/consistent-path/node_modules/shell-path"
+        ],
+        "dependencies": {
+          "strip-ansi": "^3.0.0"
+        }
+      },
+      {
+        "paths": [
+          "node_modules/atom-linter/node_modules/consistent-path/node_modules/shell-path/node_modules/strip-ansi"
+        ],
+        "dependencies": {
+          "ansi-regex": "^2.0.0"
+        }
+      },
+      {
+        "paths": [
+          "node_modules/atom-linter/node_modules/tmp",
+          "node_modules/atom-linter/node_modules/tmp/lib",
+          "node_modules/atom-linter/node_modules/tmp/test",
+          "node_modules/atom-linter/node_modules/tmp/test/symlinkme"
+        ],
+        "dependencies": {
+          "os-tmpdir": "~1.0.1"
+        }
+      },
+      {
+        "paths": [
+          "node_modules/fs-extra/lib/copy",
+          "node_modules/fs-extra/lib/copy-sync",
+          "node_modules/fs-extra/lib/empty",
+          "node_modules/fs-extra/lib/ensure",
+          "node_modules/fs-extra/lib",
+          "node_modules/fs-extra/lib/json",
+          "node_modules/fs-extra/lib/mkdirs",
+          "node_modules/fs-extra/lib/move",
+          "node_modules/fs-extra/lib/output",
+          "node_modules/fs-extra/lib/remove",
+          "node_modules/fs-extra/lib/streams",
+          "node_modules/fs-extra/lib/util",
+          "node_modules/fs-extra/lib/walk",
+          "node_modules/fs-extra"
+        ],
+        "dependencies": {
+          "graceful-fs": "^4.1.2",
+          "jsonfile": "^2.1.0",
+          "klaw": "^1.0.0",
+          "path-is-absolute": "^1.0.0",
+          "rimraf": "^2.2.8"
+        }
+      },
+      {
+        "paths": [
+          "node_modules/fs-extra/node_modules/rimraf"
+        ],
+        "dependencies": {
+          "glob": "^6.0.1"
+        }
+      },
+      {
+        "paths": [
+          "node_modules/fs-extra/node_modules/rimraf/node_modules/glob"
+        ],
+        "dependencies": {
+          "inflight": "^1.0.4",
+          "inherits": "2",
+          "minimatch": "2 || 3",
+          "once": "^1.3.0",
+          "path-is-absolute": "^1.0.0"
+        }
+      },
+      {
+        "paths": [
+          "node_modules/fs-extra/node_modules/rimraf/node_modules/glob/node_modules/inflight"
+        ],
+        "dependencies": {
+          "once": "^1.3.0",
+          "wrappy": "1"
+        }
+      },
+      {
+        "paths": [
+          "node_modules/fs-extra/node_modules/rimraf/node_modules/glob/node_modules/minimatch"
+        ],
+        "dependencies": {
+          "brace-expansion": "^1.0.0"
+        }
+      },
+      {
+        "paths": [
+          "node_modules/fs-extra/node_modules/rimraf/node_modules/glob/node_modules/minimatch/node_modules/brace-expansion"
+        ],
+        "dependencies": {
+          "balanced-match": "^0.3.0",
+          "concat-map": "0.0.1"
+        }
+      },
+      {
+        "paths": [
+          "node_modules/fs-extra/node_modules/rimraf/node_modules/glob/node_modules/once"
+        ],
+        "dependencies": {
+          "wrappy": "1"
+        }
+      },
+      {
+        "paths": [
+          "node_modules/split-string"
+        ],
+        "dependencies": {
+          "noncharacters": "^1.1.0"
+        }
+      },
+      {
+        "paths": [
+          "node_modules/tempfile"
+        ],
+        "dependencies": {
+          "os-tmpdir": "^1.0.0",
+          "uuid": "^2.0.1"
+        }
+      }
+    ]
+  }
+}

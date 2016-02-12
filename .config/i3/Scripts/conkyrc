@@ -10,12 +10,19 @@ cpu_avg_samples 2
 TEXT
 [
 #{"full_text": " ${exec xprop -id $(xprop -root | awk '/_NET_ACTIVE_WINDOW\(WINDOW\)/{print $NF}') | awk '/_NET_WM_NAME/{$1=$2="";print}' | tr -s ' ' | awk '{print substr($0, 3, length($0) - 3)}'} ", "name":"window"},
-{"full_text":"  ${exec /home/qual/.config/i3/Scripts/spotify-nowplaying.sh }","color":"\#07E09F"},
-{"full_text": " $uptime_short","color":"\#cda869"},
-{"full_text": "${if_existing /proc/net/route wlan0} :${addr wlan0}${endif}","color":"\#89b859"},
-{"full_text": "${if_existing /proc/net/route wlan0}${wireless_essid wlan0} ${wireless_link_qual_perc wlan0}%${endif}", "color":"\#00AAAA"},
-{"full_text": " $mem","color":"\#CC575D"},
-{"full_text": "${exec /home/qual/.config/i3/Scripts/vol.sh }", "color":"\#51C8A4" },
-{"full_text": " ${time %A, %d/%m}", "color":"\#B19CD9"}, 
-{"full_text": "${time %H:%M} ", "color":"\#afc4db"}
+#{"full_text":"  ${exec /home/qual/.config/i3/Scripts/spotify-nowplaying.sh }","color":"\#9AD4C8"},
+#{"full_text": " $uptime_short","color":"\#DEE7AA"},
+#{"full_text": "${if_existing /proc/net/route wlan0} :${addr wlan0}${endif}","color":"\#89b859"},
+#{"full_text": "${if_existing /proc/net/route wlan0}${wireless_essid wlan0} ${wireless_link_qual_perc wlan0}%${endif}", "color":"\#00AAAA"},
+#{"full_text": " $mem","color":"\#DE8990"},
+#{"full_text": "${exec /home/qual/.config/i3/Scripts/vol.sh }", "color":"\#9CDBDF" },
+#{"full_text": " ${time %a,%d/%m}", "color":"\#B19CD9"},
+#{"full_text": " ${time %H:%M}", "color":"\#E1E1E1"}
+
+#after backup
+
+{"full_text":"${exec /home/qual/.config/i3/Scripts/spotify-nowplaying.sh }","color":"\#9ec3ae"},
+{"full_text": "• ${exec /home/qual/.config/i3/Scripts/vol.sh }", "color":"\#92b5a1" }, #55665e
+{"full_text": "• ${time %a,%d/%m}", "color":"\#809c8c"},
+{"full_text": "• ${time %H:%M}", "color":"\#657d6f"}
 ],

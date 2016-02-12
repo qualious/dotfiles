@@ -1,0 +1,31 @@
+(function() {
+  module.exports = {
+    apply: function() {
+      var root, tabs;
+      root = document.documentElement;
+      tabs = document.querySelector('.tab-bar');
+      return tabs.addEventListener('click', function(event) {
+        var ink, rect, tab, x, y;
+        tab = event.target;
+        if (tab && tab.nodeName === 'LI') {
+          rect = tab.getBoundingClientRect();
+          x = event.clientX - rect.left;
+          y = event.clientY - rect.top;
+          if (tab.querySelectorAll('.ink').length === 0) {
+            ink = document.createElement('span');
+            ink.classList.add('ink');
+            tab.appendChild(ink);
+          }
+          ink = tab.querySelector('.ink');
+          ink.style.left = x + 'px';
+          return ink.style.top = y + 'px';
+        }
+      });
+    }
+  };
+
+}).call(this);
+
+//# sourceMappingURL=data:application/json;base64,ewogICJ2ZXJzaW9uIjogMywKICAiZmlsZSI6ICIiLAogICJzb3VyY2VSb290IjogIiIsCiAgInNvdXJjZXMiOiBbCiAgICAiL2hvbWUvcXVhbC8uYXRvbS9wYWNrYWdlcy9hdG9tLW1hdGVyaWFsLXVpL2xpYi9iaW5kaW5ncy5jb2ZmZWUiCiAgXSwKICAibmFtZXMiOiBbXSwKICAibWFwcGluZ3MiOiAiQUFBQTtBQUFBLEVBQUEsTUFBTSxDQUFDLE9BQVAsR0FDSTtBQUFBLElBQUEsS0FBQSxFQUFPLFNBQUEsR0FBQTtBQUNILFVBQUEsVUFBQTtBQUFBLE1BQUEsSUFBQSxHQUFPLFFBQVEsQ0FBQyxlQUFoQixDQUFBO0FBQUEsTUFDQSxJQUFBLEdBQU8sUUFBUSxDQUFDLGFBQVQsQ0FBdUIsVUFBdkIsQ0FEUCxDQUFBO2FBR0EsSUFBSSxDQUFDLGdCQUFMLENBQXNCLE9BQXRCLEVBQStCLFNBQUMsS0FBRCxHQUFBO0FBQzNCLFlBQUEsb0JBQUE7QUFBQSxRQUFBLEdBQUEsR0FBTSxLQUFLLENBQUMsTUFBWixDQUFBO0FBRUEsUUFBQSxJQUFJLEdBQUEsSUFBTyxHQUFHLENBQUMsUUFBSixLQUFnQixJQUEzQjtBQUNJLFVBQUEsSUFBQSxHQUFPLEdBQUcsQ0FBQyxxQkFBSixDQUFBLENBQVAsQ0FBQTtBQUFBLFVBQ0EsQ0FBQSxHQUFJLEtBQUssQ0FBQyxPQUFOLEdBQWdCLElBQUksQ0FBQyxJQUR6QixDQUFBO0FBQUEsVUFFQSxDQUFBLEdBQUksS0FBSyxDQUFDLE9BQU4sR0FBZ0IsSUFBSSxDQUFDLEdBRnpCLENBQUE7QUFJQSxVQUFBLElBQUksR0FBRyxDQUFDLGdCQUFKLENBQXFCLE1BQXJCLENBQTRCLENBQUMsTUFBN0IsS0FBdUMsQ0FBM0M7QUFDSSxZQUFBLEdBQUEsR0FBTSxRQUFRLENBQUMsYUFBVCxDQUF1QixNQUF2QixDQUFOLENBQUE7QUFBQSxZQUNBLEdBQUcsQ0FBQyxTQUFTLENBQUMsR0FBZCxDQUFrQixLQUFsQixDQURBLENBQUE7QUFBQSxZQUVBLEdBQUcsQ0FBQyxXQUFKLENBQWdCLEdBQWhCLENBRkEsQ0FESjtXQUpBO0FBQUEsVUFTQSxHQUFBLEdBQU0sR0FBRyxDQUFDLGFBQUosQ0FBa0IsTUFBbEIsQ0FUTixDQUFBO0FBQUEsVUFVQSxHQUFHLENBQUMsS0FBSyxDQUFDLElBQVYsR0FBaUIsQ0FBQSxHQUFJLElBVnJCLENBQUE7aUJBV0EsR0FBRyxDQUFDLEtBQUssQ0FBQyxHQUFWLEdBQWdCLENBQUEsR0FBSSxLQVp4QjtTQUgyQjtNQUFBLENBQS9CLEVBSkc7SUFBQSxDQUFQO0dBREosQ0FBQTtBQUFBIgp9
+
+//# sourceURL=/home/qual/.atom/packages/atom-material-ui/lib/bindings.coffee

@@ -1,9 +1,9 @@
 @namespace url(http://www.w3.org/1999/xhtml);
 :root {
-    --bg-color: #2A303B;     --fg-color: #B3BDCB; /*var(--bg-color);*/
+    --bg-color: #302F36;     --fg-color: #e1f9eb; /*var(--bg-color);*/
 }
 @-moz-document domain("reddit.com") {
-    
+
 body {
     font: x-small SNS display;
     z-index: 1;
@@ -12,13 +12,13 @@ body {
 }
  .md blockquote, .md del {
     color: var(--fg-color);
-}    
-    
-    
+}
+
+
  .md{
      color: var(--fg-color);
- } 
-    
+ }
+
 /*archived post warning*/
 .reddit-infobar {
     display: none !important;
@@ -35,8 +35,8 @@ body {
     padding: 10px;
     position: relative;
 }
-    
-/*code*/    
+
+/*code*/
 .md code, .md pre {
     border: 0px solid  var(--fg-color);
     background-color:  var(--fg-color) !important;
@@ -84,23 +84,23 @@ body {
     line-height: normal;
     margin-top: 3px !important;
     display: none;
-}    
+}
 .drop-choices a.choice:hover {
     background-color: var(--fg-color) ;
     color: var(--bg-color)  !important;
-}    
-    
+}
+
 /*infobar*/
 .infobar{
     background-color: var(--bg-color) ;
     border: 2px solid var(--fg-color) ;
     padding-left: 10px;
     color: var(--fg-color) ;
-}    
-    
+}
+
 .usertext.border .usertext-body {
     border: 1px solid var(--fg-color) ;
-    background-color: #2A303F;
+    background-color: var(--bg-color);
     margin-top: 10px;
     padding-left: 5px;
 }
@@ -145,7 +145,7 @@ body.front-page .width-clip .flat-list{
     max-width: 300px;
     position: absolute;
     top: 40px;
-    background: #2a303b;
+    background: var(--bg-color);
     left: 0px;
     min-height: 40px;
     max-height: 40px;
@@ -404,9 +404,9 @@ body .sr-list{
 }
 
 /*Side*/
-    
-    
-/*sidebar adjustments*/    
+
+
+/*sidebar adjustments*/
 .side{
     background-color: var(--bg-color) !important;
     color: var(--fg-color) !important;
@@ -422,7 +422,7 @@ body .sr-list{
 }
 .sidebox .spacer {
     display: none !important;
-}    
+}
 .linkinfo {
     padding: 5px;
     border: 1px solid var(--fg-color) !important;
@@ -526,7 +526,7 @@ body .sr-list{
 .link {
     margin: -0.3px !important;
     padding: 8px 0 8px 0 !important;
-    box-shadow: -10px 0px 0 var(--bg-color); 
+    box-shadow: -10px 0px 0 var(--bg-color);
 }
 .link .entry {
     padding-left: 15px;
@@ -636,19 +636,19 @@ a.pref-lang{
 }
 
 /*Link expanded*/
-    
+
      .link .usertext .md {
     padding: 5px 10px;
     color: var(--fg-color)  !important;
 }
- 
-    
+
+
 .pagename {
     font-weight: normal !important;
     font-size: 20px !important;
     margin: -5px 0 0 0 !important;
     height: 33px;
-    background-color: #2a303b;
+    background-color: var(--bg-color);
     min-width: 126px;
     max-width: 126px;
     padding: 6px 154px 0 20px;
@@ -658,7 +658,7 @@ a.pref-lang{
     overflow:hidden;
 }
 
-    
+
 .with-listing-chooser.hot-page .pagename,
 body.listing-page:not(.hot-page) .pagename{
     top:45px
@@ -704,7 +704,7 @@ body.listing-page:not(.hot-page) .pagename{
     height:0;
     width:0;
     border-width: 5px;
-    border-style: solid; 
+    border-style: solid;
     position: absolute;
     margin-left:13px
 }
@@ -735,7 +735,7 @@ body.listing-page:not(.hot-page) .pagename{
     width:100% !important
 }
 .comment .collapsed {
-    margin-left:25px !important;   
+    margin-left:25px !important;
 }
 /* Search */
 .search-page .pagename:after,
@@ -769,11 +769,11 @@ body.listing-page:not(.hot-page) .pagename{
 .roundfield {
     background-color: transparent !important;
 }
-    
+
 /*NavBar*/
 .nav-buttons{
     bottom:0;
-    margin-bottom:-7px; 
+    margin-bottom:-7px;
     position: fixed;
     width:50px;
     height:40px;
@@ -801,10 +801,10 @@ body.listing-page:not(.hot-page) .pagename{
 }
 .nav-buttons a:hover{
     background:var(--bg-color)  !important
-}  
+}
 
-    
-    
+
+
 /*Footer*/
 .debuginfo,
 .footer-parent{
@@ -868,7 +868,7 @@ body.listing-page:not(.hot-page) .pagename{
 }
 #header-bottom-right {
     background-color: var(--bg-color) !important;
-}    
+}
 .grippy,
 #header-bottom-right:hover,
 .side:hover,
