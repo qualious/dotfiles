@@ -21,8 +21,11 @@ TEXT
 
 #after backup
 
-{"full_text":"${exec /home/qual/.config/i3/Scripts/spotify-nowplaying.sh }","color":"\#9ec3ae"},
-{"full_text": "• ${exec /home/qual/.config/i3/Scripts/vol.sh }", "color":"\#92b5a1" }, #55665e
-{"full_text": "• ${time %a,%d/%m}", "color":"\#809c8c"},
-{"full_text": "• ${time %H:%M}", "color":"\#657d6f"}
+{"full_text":"${exec /home/qual/.config/i3/Scripts/spotify-nowplaying.sh }","color":"\#8d9299"},
+{"full_text": "• ${exec /home/qual/.config/i3/Scripts/weather.sh }", "color":"\#8d9299" },
+{"full_text": "• ${exec /home/qual/.config/i3/Scripts/network.sh }", "color":"\#8d9299" },
+{"full_text": "• ${exec /home/qual/.config/i3/Scripts/battery.sh}", "color":"\#8d9299" },
+{"full_text": "• ${exec /home/qual/.config/i3/Scripts/vol.sh }", "color":"\#8d9299" },
+{"full_text": "•   ${time %a,%d/%m}", "color":"\#8d9299"},
+{"full_text": "•  ${time %H:%M}", "color":"\#8d9299"}
 ],

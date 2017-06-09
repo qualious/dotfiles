@@ -183,7 +183,7 @@ for_window [class="^.*"] border pixel 0
 
 #default gaps
 gaps inner 10
-gaps outer 40
+gaps outer 20
 
 
 #keybinds
@@ -197,8 +197,9 @@ bindsym $mod+Shift+o    gaps inner current set 10; gaps outer current set 100
 bindsym --release Print exec scrot -e 'mv $f ~/Pictures/Scrot/' && sleep 1 && exec notify-send 'screenshot has been saved in ~/Pictures/Scrot/'
 bindsym $mod+Print exec scrot -ue 'mv $f ~/Pictures/Scrot/' && sleep 1 && exec notify-send 'screenshot has been saved in ~/Pictures/Scrot/''
 bindsym $mod+m exec telegram-desktop
+bindsym $mod+g exec pcmanfm
 
-# Open specific applications in floating mode
+#p Open specific applications in floating mode
 for_window [title="alsamixer"] floating enable border pixel 2
 #for_window [title="weechat"] floating enable border pixel 2
 for_window [title="tty-clock"] floating enable border pixel 2
@@ -255,12 +256,12 @@ mode "resize" {
 bindsym $mod+r mode "resize"
 new_window none
 
-set $bg-color 	         #302F36
-set $inactive-bg-color   #302F36
-set $text-color          #d9f0e3
-#set $inactive-text-color #8C8C8C
+set $bg-color 	         #1b2b34
+set $inactive-bg-color   #1b2b34
+set $text-color          #8d9299
+#set $inactive-text-color #d9f0e3
 set $inactive-text-color #4d4c4b
-set $urgent-bg-color     #DE8990
+set $urgent-bg-color     #F07178
 
 # window colors
 #                       border              background         text                 indicator

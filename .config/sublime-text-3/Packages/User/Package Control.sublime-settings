@@ -5,8 +5,24 @@
 	],
 	"installed_packages":
 	[
+		"A File Icon",
+		"Agila Theme",
+		"Alignment",
+		"ayu",
+		"Boxy Theme",
+		"Color Highlighter",
+		"Dayle Rees Color Schemes",
+		"GitGutter",
+		"knockdown",
+		"Material Theme",
 		"Package Control",
 		"PackageResourceViewer",
-		"Theme - Glacier"
+		"Refactor",
+		"SideBarEnhancements",
+		"SublimeCodeIntel",
+		"Terminal",
+		"Theme - Glacier",
+		"Theme - SoDaReloaded",
+		"ToDone"
 	]
 }
